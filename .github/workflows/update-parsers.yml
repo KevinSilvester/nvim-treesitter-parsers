@@ -2,7 +2,8 @@ name: update parsers info
 
 on:
   schedule:
-    - cron: '47 16 * * *'
+    - cron: '50 16 * * *'
+  workflow_dispatch:
 
 jobs:
   update:
