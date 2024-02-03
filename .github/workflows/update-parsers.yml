@@ -1,0 +1,48 @@
+name: update parsers info
+
+on:
+  schedule:
+    - cron: '* */24 * * *'
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    name: update parsers info
+    permissions:
+      content: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install nvim-treesitter
+        id: nvim-treesitter
+        shell: bash
+        run: |
+          git clone --depth=1 'https://github.com/nvim-treesitter/nvim-treesitter'
+          echo "NEW_TAG=$(git --git-dir ./nvim-treesitter/.git rev-parse --short HEAD)" >> $GITHUB_OUTPUT
+          echo "CURRENT_TAG=$(cat ./tag)" >> $GITHUB_OUTPUT
+
+      - name: Install Neovim (stable)
+        if: steps.nvim-treesitter.outputs.NEW_TAG != steps.nvim-treesitter.outputs.CURRENT_TAG
+        shell: bash
+        run: |
+          wget 'https://github.com/neovim/neovim/releases/download/stable/nvim-linux64.tar.gz'
+          tar xzvf nvim-linux64.tar.gz
+          rm nvim-linux64.tar.gz
+
+      - name: Update parsers.json, parsers.min.json, tag
+        if: steps.nvim-treesitter.outputs.NEW_TAG != steps.nvim-treesitter.outputs.CURRENT_TAG
+        shell: bash
+        run: |
+          echo {{ steps.nvim-treesitter.outputs.NEW_TAG }} > ./tag
+          ./nvim-linux64/bin/nvim --headless -u ./init.lua -c 'q'
+          cat ./parsers.min.json | jq -M --indent 3 . > parsers.json
+
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v3
+        with:
+          commit_message: 'CI: update parsers'
+          file_pattern: 'parsers.json parsers.min.json tag'
+          tagging_message: steps.nvim-treesitter.outputs.NEW_TAG
