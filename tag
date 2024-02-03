@@ -1,1 +1,1 @@
-4fbf15
+{{ steps.nvim-treesitter.outputs.NEW_TAG }}
