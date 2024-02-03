@@ -42,14 +42,22 @@ for lang, parser_info in pairs(raw_parsers) do
       url = parser_info.install_info.url,
       files = parser_info.install_info.files,
       location = parser_info.install_info.location,
+      generate_from_grammar = parser_info.install_info.requires_generate_from_grammar,
       revision = lockfile[lang].revision,
    }
 
    if not parser.location then
       parser.location = vim.NIL
    end
+   if not parser.generate_from_grammar then
+      parser.generate_from_grammar = false
+   end
    table.insert(parsers, parser)
 end
+
+table.sort(parsers, function(a, b)
+   return a.language < b.language
+end)
 
 local data = vim.json.encode(parsers)
 
