@@ -2,8 +2,10 @@ name: update parsers info
 
 on:
   schedule:
-    - cron: '53 16 * * *'
-  workflow_dispatch:
+    - cron: '0 0 * * *'
+  push:
+    branches:
+      - master
 
 jobs:
   update:
@@ -41,7 +43,8 @@ jobs:
           cat ./parsers.min.json | jq -M --indent 3 . > parsers.json
 
       - name: Commit changes
-        uses: stefanzweifel/git-auto-commit-action@v3
+        if: steps.nvim-treesitter.outputs.NEW_TAG != steps.nvim-treesitter.outputs.CURRENT_TAG
+        uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: 'CI: update parsers'
           file_pattern: 'parsers.json parsers.min.json tag'
