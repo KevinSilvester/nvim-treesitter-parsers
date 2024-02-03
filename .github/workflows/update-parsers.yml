@@ -38,7 +38,7 @@ jobs:
         if: steps.nvim-treesitter.outputs.NEW_TAG != steps.nvim-treesitter.outputs.CURRENT_TAG
         shell: bash
         run: |
-          echo {{ steps.nvim-treesitter.outputs.NEW_TAG }} > ./tag
+          echo ${{ steps.nvim-treesitter.outputs.NEW_TAG }} > ./tag
           ./nvim-linux64/bin/nvim --headless -u ./init.lua -c 'q'
           cat ./parsers.min.json | jq -M --indent 3 . > parsers.json
 
@@ -48,4 +48,4 @@ jobs:
         with:
           commit_message: 'CI: update parsers'
           file_pattern: 'parsers.json parsers.min.json tag'
-          tagging_message: steps.nvim-treesitter.outputs.NEW_TAG
+          tagging_message: '${{ steps.nvim-treesitter.outputs.NEW_TAG }}'
