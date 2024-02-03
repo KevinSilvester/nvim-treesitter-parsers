@@ -2,7 +2,7 @@ name: update parsers info
 
 on:
   schedule:
-    - cron: '50 16 * * *'
+    - cron: '53 16 * * *'
   workflow_dispatch:
 
 jobs:
@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     name: update parsers info
     permissions:
-      content: write
+      contents: write
 
     steps:
       - name: Checkout
