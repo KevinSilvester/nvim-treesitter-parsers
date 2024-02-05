@@ -10,3 +10,5 @@ tar xzf nvim-linux64.tar.gz
 rm nvim-linux64.tar.gz
 
 ./nvim-linux64/bin/nvim --headless -u ./init.lua -c 'q'
+
+rm -rf nvim-linux64 nvim-treesitter

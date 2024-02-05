@@ -34,7 +34,7 @@ jobs:
           # update parsers.json
           ./nvim-linux64/bin/nvim --headless -u ./init.lua -c 'q'
 
-          # check if changes are detected
+          # check if parsers have changed
           ([[ -f ./changes.json ]] && echo "CHANGED=true" || echo "CHANGED=false") >> $GITHUB_OUTPUT
 
       - name: Update CHANGELOG.json
