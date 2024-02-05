@@ -1,6 +1,9 @@
 vim.opt.rtp:append("./nvim-treesitter")
 local uv = vim.loop
 
+-----------------
+-- fs function --
+-----------------
 local function read_file(path, offset)
    offset = offset == nil and 0 or offset
 
@@ -29,36 +32,73 @@ local function write_file(path, txt, flag, offset)
    end)
 end
 
-local raw_parsers = require("nvim-treesitter.parsers").list
+local function tbl_sort(tbl)
+   table.sort(tbl, function(a, b)
+      return a < b
+   end)
+   return tbl
+end
 
--- read the json lockfile and store into a table
+------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------
+
 local lockfile = vim.json.decode(read_file("./nvim-treesitter/lockfile.json"))
+local current_parsers = vim.json.decode(read_file("./parsers.min.json"))
+local new_parsers = {}
+local changes = {
+   added = {},
+   removed = {},
+   updated = {},
+}
 
-local parsers = {}
-
-for lang, parser_info in pairs(raw_parsers) do
-   local parser = {
-      language = lang,
+-- set parsers table
+for lang, parser_info in pairs(require("nvim-treesitter.parsers").list) do
+   local p = {
       url = parser_info.install_info.url,
       files = parser_info.install_info.files,
-      location = parser_info.install_info.location,
-      generate_from_grammar = parser_info.install_info.requires_generate_from_grammar,
+      location = parser_info.install_info.location or vim.NIL,
+      generate_from_grammar = parser_info.install_info.requires_generate_from_grammar or false,
       revision = lockfile[lang].revision,
    }
 
-   if not parser.location then
-      parser.location = vim.NIL
-   end
-   if not parser.generate_from_grammar then
-      parser.generate_from_grammar = false
-   end
-   table.insert(parsers, parser)
+   new_parsers[lang] = p
 end
 
-table.sort(parsers, function(a, b)
-   return a.language < b.language
-end)
+local new_langs = tbl_sort(vim.tbl_keys(new_parsers))
+local current_langs = tbl_sort(vim.tbl_keys(current_parsers))
 
-local data = vim.json.encode(parsers)
+-- check for changes
+changes.added = vim.tbl_filter(function(lang)
+   return current_parsers[lang] == nil
+end, new_langs)
 
+changes.removed = vim.tbl_filter(function(lang)
+   return new_parsers[lang] == nil
+end, current_langs)
+
+for i = 1, #new_langs do
+   if new_langs[i] ~= current_langs[i] then
+      goto continue
+   end
+
+   if new_parsers[new_langs[i]].revision ~= current_parsers[current_langs[i]].revision then
+      table.insert(changes.updated, new_langs[i])
+   end
+   ::continue::
+end
+
+if not (#changes.added > 0 or #changes.removed > 0 or #changes.updated > 0) then
+   print("No changes to parsers")
+   return
+end
+
+print("Changed detected")
+write_file("./changes.json", vim.json.encode(changes), "w")
+
+local data = vim.json.encode(new_parsers)
 write_file("./parsers.min.json", data, "w")
+
+local formatted_data = vim.fn.system("jq -M -S --indent 3 . parsers.min.json")
+write_file("./parsers.json", formatted_data, "w")
