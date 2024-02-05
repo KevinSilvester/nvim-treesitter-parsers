@@ -56,5 +56,5 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "CI: update parsers"
-          file_pattern: "parsers.json parsers.min.json tag CHANGELOG.json"
+          file_pattern: "parsers.json parsers.min.json CHANGELOG.json"
           tagging_message: "${{ steps.parsers.outputs.RELEASE_TAG }}"
