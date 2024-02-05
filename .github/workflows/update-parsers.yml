@@ -44,7 +44,7 @@ jobs:
           jq -M --indent 3 ". += [{
             \"tag\": \"${{ steps.parsers.outputs.RELEASE_TAG }}\",
             \"url\": \"https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/${{ steps.parsers.outputs.RELEASE_TAG }}/parsers.min.json\",
-            \"date\": \"$(date -u +"%F %T %Z")\"
+            \"date\": \"$(date -u +"%F %T %Z")\",
             \"changes\": $(cat ./changes.json)
           }]" ./CHANGELOG.json > ./CHANGELOG.tmp.json
 
