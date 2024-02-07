@@ -11,4 +11,6 @@ rm nvim-linux64.tar.gz
 
 ./nvim-linux64/bin/nvim --headless -u ./init.lua -c 'q'
 
+cat parsers.min.json | jq -M -S --indent 3 . > parsers.json
+
 rm -rf nvim-linux64 nvim-treesitter

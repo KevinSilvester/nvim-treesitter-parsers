@@ -25,7 +25,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "dfdce7ec26fb23f6f3fd83d4c79370759d5286b5",
+      "revision": "3946b1040b98a12458beef2763ce4780a523e3c6",
       "url": "https://github.com/dlvandenberg/tree-sitter-angular"
    },
    "apex": {
@@ -83,7 +83,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "f7239f638d3dc16762563a9027faeee518ce1bd9",
+      "revision": "270c06b20567af619da1272dcd32ced9f42951d7",
       "url": "https://github.com/tree-sitter/tree-sitter-bash"
    },
    "bass": {
@@ -623,7 +623,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "dc8f5dea7fb2284cc51a4781977b5939416cdfd8",
+      "revision": "7c01af8d227b5344f62aade2ff00f19bd0c458ca",
       "url": "https://github.com/gbprod/tree-sitter-gitcommit"
    },
    "gitignore": {
@@ -661,7 +661,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "5bb58a6a5b0941d4e1256c6335e50d9780e74dde",
+      "revision": "c15d4e8b2599234745d5f3454695067e61092c20",
       "url": "https://github.com/theHamsta/tree-sitter-glsl"
    },
    "gn": {
@@ -839,7 +839,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "8b10faba024b536dc85f76e0c678f573b1776034",
+      "revision": "3ade6d065c69cd72c4da966d0c0af98bfb512f16",
       "url": "https://github.com/theHamsta/tree-sitter-hlsl"
    },
    "hocon": {
@@ -1428,7 +1428,7 @@
       ],
       "generate_from_grammar": false,
       "location": "php",
-      "revision": "c7fb0aab36320fff216b514868694427ad7868f6",
+      "revision": "5ceb92397f68b4aad73b09dee3c63639cb4611e7",
       "url": "https://github.com/tree-sitter/tree-sitter-php"
    },
    "php_only": {
@@ -1438,7 +1438,7 @@
       ],
       "generate_from_grammar": false,
       "location": "php_only",
-      "revision": "c7fb0aab36320fff216b514868694427ad7868f6",
+      "revision": "5ceb92397f68b4aad73b09dee3c63639cb4611e7",
       "url": "https://github.com/tree-sitter/tree-sitter-php"
    },
    "phpdoc": {
@@ -2054,7 +2054,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "a3ef3d8e73515b196d30adf9ee5115f057f7a2c6",
+      "revision": "b3e9f7c98e999f831fe1292166fcfc82cbb10f31",
       "url": "https://github.com/vrischmann/tree-sitter-templ"
    },
    "terraform": {
@@ -2319,7 +2319,7 @@
       ],
       "generate_from_grammar": true,
       "location": "libs/tree-sitter-wing",
-      "revision": "3b77e233eb3d2b85986f4daeffb4d21f0ed3eeba",
+      "revision": "d2c60c4caebec98ef080391b2f27adebc4c5d5a8",
       "url": "https://github.com/winglang/wing"
    },
    "xcompose": {

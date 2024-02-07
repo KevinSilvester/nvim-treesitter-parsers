@@ -99,6 +99,3 @@ write_file("./changes.json", vim.json.encode(changes), "w")
 
 local data = vim.json.encode(new_parsers)
 write_file("./parsers.min.json", data, "w")
-
-local formatted_data = vim.fn.system("jq -M -S --indent 3 . parsers.min.json")
-write_file("./parsers.json", formatted_data, "w")

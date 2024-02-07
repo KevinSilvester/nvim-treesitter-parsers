@@ -33,6 +33,7 @@ jobs:
 
           # update parsers.json
           ./nvim-linux64/bin/nvim --headless -u ./init.lua -c 'q'
+          cat parsers.min.json | jq -M -S --indent 3 . > parsers.json
 
           # check if parsers have changed
           ([[ -f ./changes.json ]] && echo "CHANGED=true" || echo "CHANGED=false") >> $GITHUB_OUTPUT
@@ -41,12 +42,12 @@ jobs:
         if: steps.parsers.outputs.CHANGED == 'true'
         shell: bash
         run: |
-          jq -M --indent 3 ". += [{
+          cat ./CHANGELOG.json | jq -M --indent 3 ". | [{
             \"tag\": \"${{ steps.parsers.outputs.RELEASE_TAG }}\",
             \"url\": \"https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/${{ steps.parsers.outputs.RELEASE_TAG }}/parsers.min.json\",
             \"date\": \"$(date -u +"%F %T %Z")\",
             \"changes\": $(cat ./changes.json)
-          }]" ./CHANGELOG.json > ./CHANGELOG.tmp.json
+          }] + ." > ./CHANGELOG.tmp.json
 
           rm CHANGELOG.json changes.json
           mv CHANGELOG.tmp.json CHANGELOG.json
@@ -56,5 +57,4 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "CI: update parsers"
-          file_pattern: "parsers.json parsers.min.json CHANGELOG.json"
           tagging_message: "${{ steps.parsers.outputs.RELEASE_TAG }}"
