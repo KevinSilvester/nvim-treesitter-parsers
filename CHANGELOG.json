@@ -1,5 +1,20 @@
 [
    {
+      "tag": "v76700e1",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v76700e1/parsers.min.json",
+      "date": "2024-02-09 00:50:12 UTC",
+      "changes": {
+         "added": [
+            "faust",
+            "readline"
+         ],
+         "removed": [],
+         "updated": [
+            "d"
+         ]
+      }
+   },
+   {
       "tag": "v5973b61",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v5973b61/parsers.min.json",
       "date": "2024-02-07 00:49:13 UTC",

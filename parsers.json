@@ -308,12 +308,12 @@
    "d": {
       "files": [
          "src/parser.c",
-         "src/scanner.cc"
+         "src/scanner.c"
       ],
-      "generate_from_grammar": true,
+      "generate_from_grammar": false,
       "location": null,
-      "revision": "c2fbf21bd3aa45495fe13247e040ad5815250032",
-      "url": "https://github.com/CyberShadow/tree-sitter-d"
+      "revision": "d9a1a2ed77017c23f715643f4739433a5ea7ab6f",
+      "url": "https://github.com/gdamore/tree-sitter-d"
    },
    "dart": {
       "files": [
@@ -492,6 +492,15 @@
       "location": null,
       "revision": "a52579670e2b14ec03d410c3c980fafaf6d659c4",
       "url": "https://github.com/FacilityApi/tree-sitter-facility"
+   },
+   "faust": {
+      "files": [
+         "src/parser.c"
+      ],
+      "generate_from_grammar": false,
+      "location": null,
+      "revision": "4609dd2c126a4803139db03eed784d26effe9844",
+      "url": "https://github.com/khiner/tree-sitter-faust"
    },
    "fennel": {
       "files": [
@@ -753,7 +762,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "fdc03a7040945d551c009c0d2b39aa1d42894437",
+      "revision": "235009aad0f580211fc12014bb0846c3910130c1",
       "url": "https://github.com/murtaza64/tree-sitter-groovy"
    },
    "gstlaunch": {
@@ -791,7 +800,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "9527ab807f8141fbfe5b48bf6a5878a05fb971fe",
+      "revision": "1da347c88599faad7964e63facead5d163ac7dba",
       "url": "https://github.com/tree-sitter/tree-sitter-haskell"
    },
    "haskell_persistent": {
@@ -942,7 +951,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "24b9885a211bed50415acabe9a30e2d0f6896e6d",
+      "revision": "098bd31b7f838a31cce08db4091e989ea42f3ef6",
       "url": "https://github.com/tree-sitter/tree-sitter-javascript"
    },
    "jq": {
@@ -1694,6 +1703,15 @@
       "revision": "47aa19cf5f7aba2ed30e2b377f7172df76e819a6",
       "url": "https://github.com/amaanq/tree-sitter-re2c"
    },
+   "readline": {
+      "files": [
+         "src/parser.c"
+      ],
+      "generate_from_grammar": false,
+      "location": null,
+      "revision": "221edd74cdca24bd5e54b39a0d73b7a1bd11d8cd",
+      "url": "https://github.com/ribru17/tree-sitter-readline"
+   },
    "regex": {
       "files": [
          "src/parser.c"
@@ -1986,7 +2004,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "697bb515471871e85ff799ea57a76298a71a9cca",
+      "revision": "bd60db7d3d06f89b6ec3b287c9a6e9190b5564bd",
       "url": "https://github.com/Himujjal/tree-sitter-svelte"
    },
    "swift": {
@@ -2054,7 +2072,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "b3e9f7c98e999f831fe1292166fcfc82cbb10f31",
+      "revision": "592faa3186ef857c92e4bd1c31d73c07a4a334db",
       "url": "https://github.com/vrischmann/tree-sitter-templ"
    },
    "terraform": {
@@ -2319,7 +2337,7 @@
       ],
       "generate_from_grammar": true,
       "location": "libs/tree-sitter-wing",
-      "revision": "d2c60c4caebec98ef080391b2f27adebc4c5d5a8",
+      "revision": "2bb829b8b4682d7733a0bff926397641fd2af6a1",
       "url": "https://github.com/winglang/wing"
    },
    "xcompose": {
