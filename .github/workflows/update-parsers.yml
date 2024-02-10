@@ -56,5 +56,5 @@ jobs:
         if: steps.parsers.outputs.CHANGED == 'true'
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "CI: update parsers"
+          commit_message: "[CI: UPDATE PARSERS]"
           tagging_message: "${{ steps.parsers.outputs.RELEASE_TAG }}"
