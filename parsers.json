@@ -92,7 +92,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "d1a1a3fe7189fdab5bd29a54d1df4a5873db5cb1",
+      "revision": "1c6ebd1ae1d4afb140df094b2ac443a52bf7ff95",
       "url": "https://github.com/tree-sitter/tree-sitter-bash"
    },
    "bass": {
@@ -272,7 +272,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "51da29228ea1d137d196edd1b41149f325cc6ecb",
+      "revision": "ef61cb57bd10838e90957672e6b4c129fcbe3a25",
       "url": "https://github.com/tree-sitter/tree-sitter-cpp"
    },
    "css": {
@@ -331,7 +331,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "f71e310a93010863f4b17a2a501ea8e2032c345b",
+      "revision": "1a31399a08aefc93bc4cdbfadc0cb619136f86c1",
       "url": "https://github.com/UserNobody14/tree-sitter-dart"
    },
    "devicetree": {
@@ -631,7 +631,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "19d554d39e4a8491f7a77abcdb75bfbc1c19d0b5",
+      "revision": "f682b3a5c5b5da7ac3577476eedf90b151294618",
       "url": "https://github.com/ObserverOfTime/tree-sitter-gitattributes"
    },
    "gitcommit": {
@@ -922,7 +922,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "e60fc858e6327a15c0b26f99ec96945fecd1e4ee",
+      "revision": "86025136c12cd1058985479a6b1935829077f1af",
       "url": "https://github.com/luckasRanarison/tree-sitter-hyprlang"
    },
    "ini": {
@@ -1803,7 +1803,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "bdaab7da01967a68d0f5a6779a49b30ad3f28e3b",
+      "revision": "7a010836b74351855148818d5cb8170dc4df8e6a",
       "url": "https://github.com/tree-sitter/tree-sitter-ruby"
    },
    "rust": {
@@ -2289,8 +2289,8 @@
       ],
       "generate_from_grammar": false,
       "location": "tree_sitter_v",
-      "revision": "9ac84e62396bb13c8f1d11f967f0c0f2dec1a448",
-      "url": "https://github.com/v-analyzer/v-analyzer"
+      "revision": "56d7905f423b82dff4b23c86e2869ddc06f6e419",
+      "url": "https://github.com/vlang/v-analyzer"
    },
    "vala": {
       "files": [
@@ -2375,7 +2375,7 @@
       ],
       "generate_from_grammar": true,
       "location": "libs/tree-sitter-wing",
-      "revision": "4ef6455bc3fa09db11833720278045c2b7621624",
+      "revision": "2c2fa59e7f7077790f55bffaae4aae9e35b702fe",
       "url": "https://github.com/winglang/wing"
    },
    "xcompose": {
@@ -2432,7 +2432,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "b47016df5688ef91ad4532138b6210c7944d6483",
+      "revision": "0162354dd343d13816569553f8d01d51b4912ad3",
       "url": "https://github.com/Freed-Wu/tree-sitter-zathurarc"
    },
    "zig": {
