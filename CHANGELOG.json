@@ -1,5 +1,37 @@
 [
    {
+      "tag": "v4416d21",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v4416d21/parsers.min.json",
+      "date": "2024-02-13 12:12:58 UTC",
+      "changes": {
+         "added": [],
+         "removed": [],
+         "updated": [
+            "arduino",
+            "bash",
+            "chatito",
+            "dtd",
+            "gitattributes",
+            "gpg",
+            "pem",
+            "poe_filter",
+            "printf",
+            "properties",
+            "pymanifest",
+            "rasi",
+            "requirements",
+            "scala",
+            "ssh_config",
+            "swift",
+            "udev",
+            "wing",
+            "xcompose",
+            "xml",
+            "zathurarc"
+         ]
+      }
+   },
+   {
       "tag": "v10d79b5",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v10d79b5/parsers.min.json",
       "date": "2024-02-13 00:51:18 UTC",
