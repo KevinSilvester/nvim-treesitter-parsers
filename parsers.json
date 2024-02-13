@@ -1559,7 +1559,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "97253273bdf8b63546c8006e71ba155ecc27069e",
+      "revision": "8cf6e5f02dac7e6a0c45a27d7e2a1afb6de87642",
       "url": "https://github.com/ObserverOfTime/tree-sitter-properties"
    },
    "proto": {
@@ -1823,7 +1823,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "45b5ba0e749a8477a8fd2666f082f352859bdc3c",
+      "revision": "310f87253bbc467e87ccf041b1d3e8649711d2f9",
       "url": "https://github.com/tree-sitter/tree-sitter-scala"
    },
    "scfg": {
@@ -1861,7 +1861,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "ac07aa2c875ef6ada2ec468d8a4d0c7c5efd96d7",
+      "revision": "d8f845c7f39cc1bbd7cc6d9191dac186e6bc6369",
       "url": "https://github.com/theHamsta/tree-sitter-slang"
    },
    "slint": {
@@ -2375,7 +2375,7 @@
       ],
       "generate_from_grammar": true,
       "location": "libs/tree-sitter-wing",
-      "revision": "2c2fa59e7f7077790f55bffaae4aae9e35b702fe",
+      "revision": "f647945b1619b34c172825c43408ffc9dc5db2ea",
       "url": "https://github.com/winglang/wing"
    },
    "xcompose": {
@@ -2432,7 +2432,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "0162354dd343d13816569553f8d01d51b4912ad3",
+      "revision": "0f93bfe8ecb104f60e42c3c8854bee78c54738c5",
       "url": "https://github.com/Freed-Wu/tree-sitter-zathurarc"
    },
    "zig": {

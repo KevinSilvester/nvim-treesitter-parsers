@@ -1,5 +1,21 @@
 [
    {
+      "tag": "v10d79b5",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v10d79b5/parsers.min.json",
+      "date": "2024-02-13 00:51:18 UTC",
+      "changes": {
+         "added": [],
+         "removed": [],
+         "updated": [
+            "properties",
+            "scala",
+            "slang",
+            "wing",
+            "zathurarc"
+         ]
+      }
+   },
+   {
       "tag": "v10e8dff",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v10e8dff/parsers.min.json",
       "date": "2024-02-12 00:51:24 UTC",
