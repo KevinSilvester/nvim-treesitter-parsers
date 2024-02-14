@@ -158,7 +158,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "ecdd500806cf8154d944344f1df6418b32e0e9a7",
+      "revision": "25ca2718aacaf0feda8b0709471332f303a0cef5",
       "url": "https://github.com/tree-sitter/tree-sitter-c"
    },
    "c_sharp": {
@@ -196,7 +196,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "1be833b20d495110b0c1a5ff47d2b08d0dd0ed3b",
+      "revision": "308b5913fd2ae6b527183ba1b3a490f90da32012",
       "url": "https://github.com/ObserverOfTime/tree-sitter-chatito"
    },
    "clojure": {
@@ -407,7 +407,7 @@
       ],
       "generate_from_grammar": false,
       "location": "dtd",
-      "revision": "d52bc148b3f75677ab50c9b17bdda7b910cb4245",
+      "revision": "049c8d708b0627b03c47994c436693e25af4354d",
       "url": "https://github.com/tree-sitter-grammars/tree-sitter-xml"
    },
    "ebnf": {
@@ -1084,7 +1084,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "06ae1b6c26e23c77c7fb86d51dddad62b42e66b0",
+      "revision": "456dec2990ed7e9595eca82f85db14a1db46e126",
       "url": "https://github.com/traxys/tree-sitter-lalrpop"
    },
    "latex": {
@@ -1559,7 +1559,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "42b09c5ceeb11ae68cb235d2f446688d7940a07b",
+      "revision": "74e5d3c63d0da17c0800b3cf9090b24637ef6b59",
       "url": "https://github.com/ObserverOfTime/tree-sitter-properties"
    },
    "proto": {
@@ -1671,7 +1671,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "67e9e009436c8c1f2de9f4c654ee3e7674675769",
+      "revision": "a49ed4fd541da90680d57cad760f9a4c9f128d9c",
       "url": "https://github.com/nvim-treesitter/tree-sitter-query"
    },
    "r": {
@@ -1870,7 +1870,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "aae884b79f0e100576eea71fd8d5ac12601949a2",
+      "revision": "68405a45f7a5311cd1f77e40ba84199573303f52",
       "url": "https://github.com/slint-ui/tree-sitter-slint"
    },
    "smali": {
@@ -2375,7 +2375,7 @@
       ],
       "generate_from_grammar": true,
       "location": "libs/tree-sitter-wing",
-      "revision": "0911d0938af3726399af7f42c58da0152c5f1205",
+      "revision": "870a1824cf95ed4774b1b282a9d7dac8f846ef06",
       "url": "https://github.com/winglang/wing"
    },
    "xcompose": {
@@ -2394,7 +2394,7 @@
       ],
       "generate_from_grammar": false,
       "location": "xml",
-      "revision": "d52bc148b3f75677ab50c9b17bdda7b910cb4245",
+      "revision": "049c8d708b0627b03c47994c436693e25af4354d",
       "url": "https://github.com/tree-sitter-grammars/tree-sitter-xml"
    },
    "yaml": {
@@ -2432,7 +2432,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "5ce0c93b3738b3b0b1b02a6610a4f45f97cf9673",
+      "revision": "db40fc0a2d4a65f56530163a3217a8dabfc08842",
       "url": "https://github.com/Freed-Wu/tree-sitter-zathurarc"
    },
    "zig": {
