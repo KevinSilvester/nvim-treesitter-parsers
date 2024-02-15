@@ -1,5 +1,20 @@
 [
    {
+      "tag": "vd96bf9d",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/vd96bf9d/parsers.min.json",
+      "date": "2024-02-15 00:51:18 UTC",
+      "changes": {
+         "removed": [],
+         "updated": [
+            "tcl",
+            "wing"
+         ],
+         "added": [
+            "hlsplaylist"
+         ]
+      }
+   },
+   {
       "tag": "v7e9139d",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v7e9139d/parsers.min.json",
       "date": "2024-02-14 00:51:32 UTC",

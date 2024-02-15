@@ -860,6 +860,15 @@
       "revision": "3ade6d065c69cd72c4da966d0c0af98bfb512f16",
       "url": "https://github.com/theHamsta/tree-sitter-hlsl"
    },
+   "hlsplaylist": {
+      "files": [
+         "src/parser.c"
+      ],
+      "generate_from_grammar": false,
+      "location": null,
+      "revision": "be3a18abfa9cef1f792324beb1f1e1c9ddba2748",
+      "url": "https://github.com/Freed-Wu/tree-sitter-hlsplaylist"
+   },
    "hocon": {
       "files": [
          "src/parser.c"
@@ -2090,7 +2099,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "ca2643e3cd818771635a152899fb70b6b37d648a",
+      "revision": "78c71201c1b0939239e779a837dd35370c308948",
       "url": "https://github.com/tree-sitter-grammars/tree-sitter-tcl"
    },
    "teal": {
@@ -2375,7 +2384,7 @@
       ],
       "generate_from_grammar": true,
       "location": "libs/tree-sitter-wing",
-      "revision": "870a1824cf95ed4774b1b282a9d7dac8f846ef06",
+      "revision": "c07f132418ef42c7b0c0433ccc15f7e3d6284325",
       "url": "https://github.com/winglang/wing"
    },
    "xcompose": {
