@@ -679,7 +679,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "c15d4e8b2599234745d5f3454695067e61092c20",
+      "revision": "284bed0e2f1d9f700756b96512baf33483642ff0",
       "url": "https://github.com/theHamsta/tree-sitter-glsl"
    },
    "gn": {
@@ -857,7 +857,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "3ade6d065c69cd72c4da966d0c0af98bfb512f16",
+      "revision": "840fd07f09304bca415b93a15483e9ab1e44bc3f",
       "url": "https://github.com/theHamsta/tree-sitter-hlsl"
    },
    "hlsplaylist": {
@@ -866,7 +866,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "be3a18abfa9cef1f792324beb1f1e1c9ddba2748",
+      "revision": "ff121d397cf7cc709e3bbc928107fc25529e11e0",
       "url": "https://github.com/Freed-Wu/tree-sitter-hlsplaylist"
    },
    "hocon": {
@@ -1281,7 +1281,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "9d4e1774e754f55a867638ab6a81335cf1078c23",
+      "revision": "0af0e0d8c8cf59dc21cfe565489da0c247374b9f",
       "url": "https://github.com/neomutt/tree-sitter-muttrc"
    },
    "nasm": {
@@ -1633,7 +1633,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "cfd217d32aa0266401ec5bf3d929697fdeb835ba",
+      "revision": "2517b1ee2236353af761edbd22570f740f1603f1",
       "url": "https://github.com/postsolar/tree-sitter-purescript"
    },
    "pymanifest": {
@@ -1689,7 +1689,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "a49ed4fd541da90680d57cad760f9a4c9f128d9c",
+      "revision": "a0ccc351e5e868ec1f8135e97aa3b53c663cf2df",
       "url": "https://github.com/nvim-treesitter/tree-sitter-query"
    },
    "r": {
@@ -2393,7 +2393,7 @@
       ],
       "generate_from_grammar": true,
       "location": "libs/tree-sitter-wing",
-      "revision": "992e76b445311e13ff18470542f5ca972fb28567",
+      "revision": "252c31021fe86337294bef8f657e4d4c140b1f43",
       "url": "https://github.com/winglang/wing"
    },
    "xcompose": {
@@ -2450,7 +2450,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "d6ad85f7791a8a5a40f6be51b31f20d6a8472457",
+      "revision": "fe37e85db355c737573315f278672534c40fe140",
       "url": "https://github.com/Freed-Wu/tree-sitter-zathurarc"
    },
    "zig": {

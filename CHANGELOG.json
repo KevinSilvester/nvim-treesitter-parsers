@@ -1,5 +1,24 @@
 [
    {
+      "tag": "v504fe10",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v504fe10/parsers.min.json",
+      "date": "2024-02-17 00:50:04 UTC",
+      "changes": {
+         "removed": [],
+         "updated": [
+            "glsl",
+            "hlsl",
+            "hlsplaylist",
+            "muttrc",
+            "purescript",
+            "query",
+            "wing",
+            "zathurarc"
+         ],
+         "added": []
+      }
+   },
+   {
       "tag": "vd49a8f8",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/vd49a8f8/parsers.min.json",
       "date": "2024-02-16 00:50:15 UTC",
