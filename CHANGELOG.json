@@ -1,5 +1,20 @@
 [
    {
+      "tag": "v17d68ac",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v17d68ac/parsers.min.json",
+      "date": "2024-02-18 00:54:05 UTC",
+      "changes": {
+         "added": [],
+         "removed": [],
+         "updated": [
+            "c",
+            "javascript",
+            "rust",
+            "wing"
+         ]
+      }
+   },
+   {
       "tag": "v504fe10",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v504fe10/parsers.min.json",
       "date": "2024-02-17 00:50:04 UTC",
