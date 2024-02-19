@@ -1,5 +1,22 @@
 [
    {
+      "tag": "vd10e856",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/vd10e856/parsers.min.json",
+      "date": "2024-02-19 00:51:59 UTC",
+      "changes": {
+         "added": [
+            "typst"
+         ],
+         "removed": [],
+         "updated": [
+            "d",
+            "puppet",
+            "swift",
+            "wgsl_bevy"
+         ]
+      }
+   },
+   {
       "tag": "v17d68ac",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v17d68ac/parsers.min.json",
       "date": "2024-02-18 00:54:05 UTC",
