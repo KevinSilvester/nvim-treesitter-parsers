@@ -1,5 +1,23 @@
 [
    {
+      "tag": "v6bd108a",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v6bd108a/parsers.min.json",
+      "date": "2024-02-21 00:51:10 UTC",
+      "changes": {
+         "updated": [
+            "gdscript",
+            "hlsplaylist",
+            "html",
+            "meson",
+            "muttrc",
+            "wing",
+            "zathurarc"
+         ],
+         "added": [],
+         "removed": []
+      }
+   },
+   {
       "tag": "ve04ce8b",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/ve04ce8b/parsers.min.json",
       "date": "2024-02-20 00:49:58 UTC",

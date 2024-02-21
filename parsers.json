@@ -604,7 +604,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "03f20b94707a21bed90bb95101684bc4036139ce",
+      "revision": "645d7616cad9279d8d06684c7d7a356176174ebb",
       "url": "https://github.com/PrestonKnopp/tree-sitter-gdscript"
    },
    "git_config": {
@@ -866,7 +866,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "ff121d397cf7cc709e3bbc928107fc25529e11e0",
+      "revision": "5be34b0f6ea01b24f017c2c715729a3a919f57fd",
       "url": "https://github.com/Freed-Wu/tree-sitter-hlsplaylist"
    },
    "hocon": {
@@ -895,7 +895,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "74cab04e10b71811a32dfdde10fd0162d55c54cc",
+      "revision": "5760f521fac79263de4ca71a590ef516594c9f37",
       "url": "https://github.com/tree-sitter/tree-sitter-html"
    },
    "htmldjango": {
@@ -1263,7 +1263,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "3d6dfbdb2432603bc84ca7dc009bb39ed9a8a7b1",
+      "revision": "d6ec8ce0963c3c8180161391f15d8f7d415f650d",
       "url": "https://github.com/Decodetalkers/tree-sitter-meson"
    },
    "mlir": {
@@ -1281,7 +1281,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "0af0e0d8c8cf59dc21cfe565489da0c247374b9f",
+      "revision": "67d9e23ca7aa22d9bce9d16c53d2c927dff5159a",
       "url": "https://github.com/neomutt/tree-sitter-muttrc"
    },
    "nasm": {
@@ -2412,7 +2412,7 @@
       ],
       "generate_from_grammar": true,
       "location": "libs/tree-sitter-wing",
-      "revision": "f7965a947d2eaa8b5b9bba1c42a0e1891f1a0b2a",
+      "revision": "d4e159eceffb7ae870f750aa4bc9d50a173e05e0",
       "url": "https://github.com/winglang/wing"
    },
    "xcompose": {
@@ -2469,7 +2469,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "fe37e85db355c737573315f278672534c40fe140",
+      "revision": "353bdf25e7af9c2830e254977fd3fb57ccaa8203",
       "url": "https://github.com/Freed-Wu/tree-sitter-zathurarc"
    },
    "zig": {
