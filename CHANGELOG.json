@@ -1,5 +1,36 @@
 [
    {
+      "tag": "v19bf991",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v19bf991/parsers.min.json",
+      "date": "2024-02-23 00:50:02 UTC",
+      "changes": {
+         "removed": [],
+         "updated": [
+            "chatito",
+            "cmake",
+            "cuda",
+            "dtd",
+            "faust",
+            "fennel",
+            "gdscript",
+            "hlsl",
+            "html",
+            "lua",
+            "php",
+            "php_only",
+            "readline",
+            "rust",
+            "slang",
+            "sourcepawn",
+            "typst",
+            "vim",
+            "wing",
+            "xml"
+         ],
+         "added": []
+      }
+   },
+   {
       "tag": "vebf0532",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/vebf0532/parsers.min.json",
       "date": "2024-02-22 00:50:22 UTC",
