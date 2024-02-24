@@ -1,5 +1,30 @@
 [
    {
+      "tag": "vadf7236",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/vadf7236/parsers.min.json",
+      "date": "2024-02-24 00:48:14 UTC",
+      "changes": {
+         "added": [
+            "fidl"
+         ],
+         "removed": [],
+         "updated": [
+            "arduino",
+            "cmake",
+            "dtd",
+            "faust",
+            "mlir",
+            "nickel",
+            "perl",
+            "properties",
+            "slint",
+            "sourcepawn",
+            "wing",
+            "xml"
+         ]
+      }
+   },
+   {
       "tag": "v19bf991",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v19bf991/parsers.min.json",
       "date": "2024-02-23 00:50:02 UTC",
