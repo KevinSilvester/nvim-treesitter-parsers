@@ -1,5 +1,28 @@
 [
    {
+      "tag": "v9896ef5",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v9896ef5/parsers.min.json",
+      "date": "2024-02-25 00:54:15 UTC",
+      "changes": {
+         "updated": [
+            "c",
+            "fennel",
+            "gitattributes",
+            "json",
+            "nim",
+            "pem",
+            "poe_filter",
+            "printf",
+            "readline",
+            "sourcepawn",
+            "wing",
+            "xcompose"
+         ],
+         "added": [],
+         "removed": []
+      }
+   },
+   {
       "tag": "vadf7236",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/vadf7236/parsers.min.json",
       "date": "2024-02-24 00:48:14 UTC",

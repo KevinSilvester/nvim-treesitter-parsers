@@ -158,7 +158,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "f64a422d4e46a44315abe75295035554d334bdab",
+      "revision": "652433fce487d8c3943207da38e3e65e4550e288",
       "url": "https://github.com/tree-sitter/tree-sitter-c"
    },
    "c_sharp": {
@@ -517,7 +517,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "9265a7d635d2f82a10738b9ad65ba8dd8bd4a84a",
+      "revision": "215e3913524abc119daa9db7cf6ad2f2f5620189",
       "url": "https://github.com/alexmozaidze/tree-sitter-fennel"
    },
    "fidl": {
@@ -640,7 +640,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "3d03b37395f5707b6a2bfb43f62957fe0e669c0c",
+      "revision": "0750b5904f37d6b2f47f6e4655001c2c35a172ec",
       "url": "https://github.com/ObserverOfTime/tree-sitter-gitattributes"
    },
    "gitcommit": {
@@ -1015,7 +1015,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "ac6ddfa7775795a3d8f5edab4a71e3a49f932b6a",
+      "revision": "3b129203f4b72d532f58e72c5310c0a7db3b8e6d",
       "url": "https://github.com/tree-sitter/tree-sitter-json"
    },
    "json5": {
@@ -1319,7 +1319,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "70ceee835e033acbc7092cd7f4f6a251789af121",
+      "revision": "c5f0ce3b65222f5dbb1a12f9fe894524881ad590",
       "url": "https://github.com/alaviss/tree-sitter-nim"
    },
    "nim_format_string": {
@@ -1462,7 +1462,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "7905a168036e23605160a0d32a142f58ab5eaa06",
+      "revision": "db307bbb7dc4f721bf2f5ba7fcedaf58feeb59e0",
       "url": "https://github.com/ObserverOfTime/tree-sitter-pem"
    },
    "perl": {
@@ -1540,7 +1540,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "99ce487804eab781e1e1cb39de82aea236346c96",
+      "revision": "bf912df70f60b356c70631d9cbb317b41c1ea319",
       "url": "https://github.com/ObserverOfTime/tree-sitter-poe-filter"
    },
    "pony": {
@@ -1559,7 +1559,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "ddff4ce4d630d1f1a3b591d77b2618a4169b36b9",
+      "revision": "0e0aceabbf607ea09e03562f5d8a56f048ddea3d",
       "url": "https://github.com/ObserverOfTime/tree-sitter-printf"
    },
    "prisma": {
@@ -1755,7 +1755,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "1530fb8c1ec21cdd529342b5d48bcf941c69bd59",
+      "revision": "e436eaef452266a3d00c195f0eb757d6502c767a",
       "url": "https://github.com/ribru17/tree-sitter-readline"
    },
    "regex": {
@@ -1964,7 +1964,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "4cf55de594d8029e1034726aacac80dfd0e9010c",
+      "revision": "39ce73ad42b2c4f52848d16093c24feddaa7d226",
       "url": "https://github.com/nilshelmig/tree-sitter-sourcepawn"
    },
    "sparql": {
@@ -2422,7 +2422,7 @@
       ],
       "generate_from_grammar": true,
       "location": "libs/tree-sitter-wing",
-      "revision": "3e74a6215e9b931ced84e9b059924dd7cfa3573e",
+      "revision": "52ef462f76e199845a5df4834b838339e0a6efdb",
       "url": "https://github.com/winglang/wing"
    },
    "xcompose": {
@@ -2431,7 +2431,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "8898238fca7e143760386448093392b87e58002e",
+      "revision": "7fd14940e0478fce79ea195067ed14a2c42c654a",
       "url": "https://github.com/ObserverOfTime/tree-sitter-xcompose"
    },
    "xml": {
