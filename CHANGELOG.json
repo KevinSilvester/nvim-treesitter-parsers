@@ -1,5 +1,26 @@
 [
    {
+      "tag": "v6e2b56c",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v6e2b56c/parsers.min.json",
+      "date": "2024-02-26 00:51:50 UTC",
+      "changes": {
+         "updated": [
+            "cooklang",
+            "gpg",
+            "properties",
+            "pymanifest",
+            "requirements",
+            "rust",
+            "ssh_config",
+            "swift",
+            "udev",
+            "v"
+         ],
+         "added": [],
+         "removed": []
+      }
+   },
+   {
       "tag": "v9896ef5",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v9896ef5/parsers.min.json",
       "date": "2024-02-25 00:54:15 UTC",

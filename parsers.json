@@ -240,11 +240,11 @@
    "cooklang": {
       "files": [
          "src/parser.c",
-         "src/scanner.cc"
+         "src/scanner.c"
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "5e113412aadb78955c27010daa4dbe1d202013cf",
+      "revision": "81c2a8667846b1e60db68b5601d864fe00fd1d3a",
       "url": "https://github.com/addcninblue/tree-sitter-cooklang"
    },
    "corn": {
@@ -762,7 +762,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "e8a95ae3deed7d7637c33f635fc5b9fc9dbb3216",
+      "revision": "7fd855d7b5442d6eb4b3f2f8797b572b78d4afe6",
       "url": "https://github.com/ObserverOfTime/tree-sitter-gpg-config"
    },
    "graphql": {
@@ -1587,7 +1587,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "189b3cc18d36871c27ebb0adcf0cddd123b0cbba",
+      "revision": "ce2f4f66454edb69f66bfa3a1884f601fccd9e08",
       "url": "https://github.com/tree-sitter-grammars/tree-sitter-properties"
    },
    "proto": {
@@ -1652,7 +1652,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "41a15c43252baa083729c25646cde83ee5c88277",
+      "revision": "69ad424b5dd41088206bd74ebcdd61d987b7825c",
       "url": "https://github.com/ObserverOfTime/tree-sitter-pymanifest"
    },
    "python": {
@@ -1782,7 +1782,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "00084464ccad32dd71da60771c25554eeedb213c",
+      "revision": "d43b6ec982902df01ce00df85a0cdb6ec8d3e81f",
       "url": "https://github.com/ObserverOfTime/tree-sitter-requirements"
    },
    "rnoweb": {
@@ -1841,7 +1841,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "85a21c96d31b2a5c4369e5836a7f4ab059268fea",
+      "revision": "2d7bac5164c344c95530c16dd5c8fa1319e34308",
       "url": "https://github.com/tree-sitter/tree-sitter-rust"
    },
    "scala": {
@@ -2002,7 +2002,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "b8595820fa331977a5a44f5f9e0a445c456b5cbf",
+      "revision": "3a1a5e139514a0e2789d1d7c5065c01bb71756f2",
       "url": "https://github.com/ObserverOfTime/tree-sitter-ssh-config"
    },
    "starlark": {
@@ -2070,7 +2070,7 @@
       ],
       "generate_from_grammar": true,
       "location": null,
-      "revision": "e1ac0c3b48f4c42c40f92f400f14c6561369d4dd",
+      "revision": "fc00cbb460b40228b30f322b5a34ea0e8f35a9f8",
       "url": "https://github.com/alex-pinkus/tree-sitter-swift"
    },
    "sxhkdrc": {
@@ -2289,7 +2289,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "15d89be59a3802dcbe2e97e0f9d32b52f3aeda3f",
+      "revision": "caa721ff38704c1186c2afeb467bead8c27ea382",
       "url": "https://github.com/ObserverOfTime/tree-sitter-udev"
    },
    "ungrammar": {
@@ -2336,7 +2336,7 @@
       ],
       "generate_from_grammar": false,
       "location": "tree_sitter_v",
-      "revision": "56d7905f423b82dff4b23c86e2869ddc06f6e419",
+      "revision": "46b8341458bb620a82ef1d8009a3e2f00bc0dad9",
       "url": "https://github.com/vlang/v-analyzer"
    },
    "vala": {
