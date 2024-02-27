@@ -44,7 +44,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "a282270857b7be447b8be91411468349a31d73b7",
+      "revision": "7722d4398d87ea22c4877264f88b45bd7ce0cba5",
       "url": "https://github.com/ObserverOfTime/tree-sitter-arduino"
    },
    "asm": {
@@ -1482,7 +1482,7 @@
       ],
       "generate_from_grammar": false,
       "location": "php",
-      "revision": "710754c879435178b7643e525c84cd53f32c510c",
+      "revision": "78a78df5e06b4c13173af2a1f607c9a853d0f240",
       "url": "https://github.com/tree-sitter/tree-sitter-php"
    },
    "php_only": {
@@ -1492,7 +1492,7 @@
       ],
       "generate_from_grammar": false,
       "location": "php_only",
-      "revision": "710754c879435178b7643e525c84cd53f32c510c",
+      "revision": "78a78df5e06b4c13173af2a1f607c9a853d0f240",
       "url": "https://github.com/tree-sitter/tree-sitter-php"
    },
    "phpdoc": {
@@ -2422,7 +2422,7 @@
       ],
       "generate_from_grammar": true,
       "location": "libs/tree-sitter-wing",
-      "revision": "52ef462f76e199845a5df4834b838339e0a6efdb",
+      "revision": "745df1efa28a64514cb0d5b0d853a0d25392a22d",
       "url": "https://github.com/winglang/wing"
    },
    "xcompose": {

@@ -1,5 +1,20 @@
 [
    {
+      "tag": "v18aa5ae",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v18aa5ae/parsers.min.json",
+      "date": "2024-02-27 00:49:57 UTC",
+      "changes": {
+         "added": [],
+         "removed": [],
+         "updated": [
+            "arduino",
+            "php",
+            "php_only",
+            "wing"
+         ]
+      }
+   },
+   {
       "tag": "v6e2b56c",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v6e2b56c/parsers.min.json",
       "date": "2024-02-26 00:51:50 UTC",
