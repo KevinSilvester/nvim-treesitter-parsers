@@ -1,5 +1,22 @@
 [
    {
+      "tag": "vdb12bd4",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/vdb12bd4/parsers.min.json",
+      "date": "2024-02-28 00:50:04 UTC",
+      "changes": {
+         "added": [],
+         "removed": [],
+         "updated": [
+            "fidl",
+            "haskell",
+            "nickel",
+            "python",
+            "solidity",
+            "wing"
+         ]
+      }
+   },
+   {
       "tag": "v18aa5ae",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v18aa5ae/parsers.min.json",
       "date": "2024-02-27 00:49:57 UTC",

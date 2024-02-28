@@ -526,7 +526,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "bdbb635a7f5035e424f6173f2f11b9cd79703f8d",
+      "revision": "0a8910f293268e27ff554357c229ba172b0eaed2",
       "url": "https://github.com/google/tree-sitter-fidl"
    },
    "firrtl": {
@@ -818,7 +818,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "8a99848fc734f9c4ea523b3f2a07df133cbbcec2",
+      "revision": "6b5ec205c9d4f23eb36a163f1edc4f2db8c98e4a",
       "url": "https://github.com/tree-sitter/tree-sitter-haskell"
    },
    "haskell_persistent": {
@@ -1309,7 +1309,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "19fb551196d18b75160631f5e3a8a006b3875276",
+      "revision": "33a64ec9a27058c52e4195f1030235dcdfc04747",
       "url": "https://github.com/nickel-lang/tree-sitter-nickel"
    },
    "nim": {
@@ -1662,7 +1662,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "deba2badc88afd18e6cbd4341ee3c18c3a9bb4ed",
+      "revision": "64619c41cbed4c144f551a51939622ec0d5d5dca",
       "url": "https://github.com/tree-sitter/tree-sitter-python"
    },
    "ql": {
@@ -1936,7 +1936,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "168020304759ad5d8b4a88a541a699134e3730c5",
+      "revision": "5cb506ae419c4ad620c77210fd47500d3d169dbc",
       "url": "https://github.com/JoranHonig/tree-sitter-solidity"
    },
    "soql": {
@@ -2422,7 +2422,7 @@
       ],
       "generate_from_grammar": true,
       "location": "libs/tree-sitter-wing",
-      "revision": "745df1efa28a64514cb0d5b0d853a0d25392a22d",
+      "revision": "7020d597caf5136d9ef7c68bd99e0538ae4addce",
       "url": "https://github.com/winglang/wing"
    },
    "xcompose": {
