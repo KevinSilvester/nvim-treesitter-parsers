@@ -1,5 +1,29 @@
 [
    {
+      "tag": "vd2f58c0",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/vd2f58c0/parsers.min.json",
+      "date": "2024-02-29 00:50:17 UTC",
+      "changes": {
+         "removed": [],
+         "updated": [
+            "angular",
+            "dtd",
+            "gitattributes",
+            "hyprlang",
+            "javascript",
+            "nim",
+            "perl",
+            "purescript",
+            "python",
+            "tcl",
+            "typst",
+            "wing",
+            "xml"
+         ],
+         "added": []
+      }
+   },
+   {
       "tag": "vdb12bd4",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/vdb12bd4/parsers.min.json",
       "date": "2024-02-28 00:50:04 UTC",
