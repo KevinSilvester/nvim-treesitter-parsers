@@ -1,5 +1,37 @@
 [
    {
+      "tag": "v62b0bb4",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v62b0bb4/parsers.min.json",
+      "date": "2024-03-01 00:55:20 UTC",
+      "changes": {
+         "updated": [
+            "angular",
+            "beancount",
+            "chatito",
+            "gitattributes",
+            "gitcommit",
+            "gpg",
+            "groovy",
+            "hlsl",
+            "mermaid",
+            "pem",
+            "poe_filter",
+            "properties",
+            "pymanifest",
+            "requirements",
+            "ssh_config",
+            "udev",
+            "vimdoc",
+            "wing",
+            "xcompose"
+         ],
+         "added": [
+            "gdshader"
+         ],
+         "removed": []
+      }
+   },
+   {
       "tag": "vd2f58c0",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/vd2f58c0/parsers.min.json",
       "date": "2024-02-29 00:50:17 UTC",

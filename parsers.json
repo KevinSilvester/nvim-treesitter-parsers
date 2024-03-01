@@ -25,7 +25,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "6f34e6b82b4765a288b0477be08912600fdc1483",
+      "revision": "6d02054ae9aa1fedf5097fe6d93dd78f751dff21",
       "url": "https://github.com/dlvandenberg/tree-sitter-angular"
    },
    "apex": {
@@ -107,11 +107,11 @@
    "beancount": {
       "files": [
          "src/parser.c",
-         "src/scanner.cc"
+         "src/scanner.c"
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "dd6f4ec9b01dd18cc4aa8c8517738414fb98cd63",
+      "revision": "b2c12eb49e308f33312269da1e31469f40c7b3c1",
       "url": "https://github.com/polarmutex/tree-sitter-beancount"
    },
    "bibtex": {
@@ -196,7 +196,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "7162ec1e8e9154fb334e84aa7637a4af051dfe42",
+      "revision": "fe7a2a75d3d74c1215141b7a7ebebb57ae17a370",
       "url": "https://github.com/ObserverOfTime/tree-sitter-chatito"
    },
    "clojure": {
@@ -616,6 +616,15 @@
       "revision": "b5dea4d852db65f0872d849c24533eb121e03c76",
       "url": "https://github.com/PrestonKnopp/tree-sitter-gdscript"
    },
+   "gdshader": {
+      "files": [
+         "src/parser.c"
+      ],
+      "generate_from_grammar": false,
+      "location": null,
+      "revision": "ffd9f958df13cae04593781d7d2562295a872455",
+      "url": "https://github.com/GodOfAvacyn/tree-sitter-gdshader"
+   },
    "git_config": {
       "files": [
          "src/parser.c"
@@ -640,7 +649,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "e4f5a2c843b59e6299bbb746777cd7395d0f62ee",
+      "revision": "41940e199ba5763abea1d21b4f717014b45f01ea",
       "url": "https://github.com/ObserverOfTime/tree-sitter-gitattributes"
    },
    "gitcommit": {
@@ -650,7 +659,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "7c01af8d227b5344f62aade2ff00f19bd0c458ca",
+      "revision": "6bd81962d1abe309bf5dffde3315e4a5988f35fd",
       "url": "https://github.com/gbprod/tree-sitter-gitcommit"
    },
    "gitignore": {
@@ -762,7 +771,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "7fd855d7b5442d6eb4b3f2f8797b572b78d4afe6",
+      "revision": "d4c9cc0060cd4d1b8ca6d7add9f34352ad310a09",
       "url": "https://github.com/ObserverOfTime/tree-sitter-gpg-config"
    },
    "graphql": {
@@ -780,7 +789,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "235009aad0f580211fc12014bb0846c3910130c1",
+      "revision": "3c25d1ce6c1eb9da34215060372792dc9f439b0c",
       "url": "https://github.com/murtaza64/tree-sitter-groovy"
    },
    "gstlaunch": {
@@ -866,7 +875,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "f820ee8417451f69020791cf691904ec1b63f20d",
+      "revision": "ee24be127560f0de0c4741e382416f45ab47eb76",
       "url": "https://github.com/theHamsta/tree-sitter-hlsl"
    },
    "hlsplaylist": {
@@ -1263,7 +1272,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "e26a5f8898a8174f02b4cc9a9050eb3ccfb799f3",
+      "revision": "e8dac87a9f789b23a2c7ab8e55b485a2f5927b98",
       "url": "https://github.com/monaqa/tree-sitter-mermaid"
    },
    "meson": {
@@ -1462,7 +1471,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "db307bbb7dc4f721bf2f5ba7fcedaf58feeb59e0",
+      "revision": "217ff2af3f2db15a79ab7e3d21ea1e0c17e71a1a",
       "url": "https://github.com/ObserverOfTime/tree-sitter-pem"
    },
    "perl": {
@@ -1540,7 +1549,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "bf912df70f60b356c70631d9cbb317b41c1ea319",
+      "revision": "592476d81f95d2451f2ca107dc872224c76fecdf",
       "url": "https://github.com/ObserverOfTime/tree-sitter-poe-filter"
    },
    "pony": {
@@ -1587,7 +1596,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "ce2f4f66454edb69f66bfa3a1884f601fccd9e08",
+      "revision": "9d09f5f200c356c50c4103d36441309fd61b48d1",
       "url": "https://github.com/tree-sitter-grammars/tree-sitter-properties"
    },
    "proto": {
@@ -1652,7 +1661,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "69ad424b5dd41088206bd74ebcdd61d987b7825c",
+      "revision": "e3b82b78721aee07f676dac8473ae69db51debcf",
       "url": "https://github.com/ObserverOfTime/tree-sitter-pymanifest"
    },
    "python": {
@@ -1782,7 +1791,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "d43b6ec982902df01ce00df85a0cdb6ec8d3e81f",
+      "revision": "2764b6b219b2576577b0ce55c27e9d772e6f64c2",
       "url": "https://github.com/ObserverOfTime/tree-sitter-requirements"
    },
    "rnoweb": {
@@ -2002,7 +2011,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "3a1a5e139514a0e2789d1d7c5065c01bb71756f2",
+      "revision": "4fab1c9116cb7890885508e4630cc8e6a8373a41",
       "url": "https://github.com/ObserverOfTime/tree-sitter-ssh-config"
    },
    "starlark": {
@@ -2289,7 +2298,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "caa721ff38704c1186c2afeb467bead8c27ea382",
+      "revision": "8f58696e79092b4ad6bf197415bbd0970acf15cd",
       "url": "https://github.com/ObserverOfTime/tree-sitter-udev"
    },
    "ungrammar": {
@@ -2382,7 +2391,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "40fcd50a2c7b5a3ef98294795116773b24fb61ab",
+      "revision": "b63be26fa571259b512e1939f01755d9d6e78fbd",
       "url": "https://github.com/neovim/tree-sitter-vimdoc"
    },
    "vue": {
@@ -2422,7 +2431,7 @@
       ],
       "generate_from_grammar": true,
       "location": "libs/tree-sitter-wing",
-      "revision": "508bd430e78e9d2a8509948c4e42dbeb3ecc3265",
+      "revision": "1fc9b789267f751ec7a9163882da3aa786a45798",
       "url": "https://github.com/winglang/wing"
    },
    "xcompose": {
@@ -2431,7 +2440,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "7fd14940e0478fce79ea195067ed14a2c42c654a",
+      "revision": "2383cc69a2c42cfade41c7cb971fb3862bec6df1",
       "url": "https://github.com/ObserverOfTime/tree-sitter-xcompose"
    },
    "xml": {
