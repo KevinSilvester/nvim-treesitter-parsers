@@ -1,5 +1,21 @@
 [
    {
+      "tag": "vc2a2651",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/vc2a2651/parsers.min.json",
+      "date": "2024-03-02 00:49:19 UTC",
+      "changes": {
+         "removed": [],
+         "updated": [
+            "astro",
+            "beancount",
+            "requirements",
+            "v",
+            "wing"
+         ],
+         "added": []
+      }
+   },
+   {
       "tag": "v62b0bb4",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v62b0bb4/parsers.min.json",
       "date": "2024-03-01 00:55:20 UTC",

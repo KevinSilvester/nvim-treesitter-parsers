@@ -59,11 +59,11 @@
    "astro": {
       "files": [
          "src/parser.c",
-         "src/scanner.cc"
+         "src/scanner.c"
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "e924787e12e8a03194f36a113290ac11d6dc10f3",
+      "revision": "dfa0893bdc4bdfada102043404758c66e3580568",
       "url": "https://github.com/virchau13/tree-sitter-astro"
    },
    "authzed": {
@@ -111,7 +111,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "b2c12eb49e308f33312269da1e31469f40c7b3c1",
+      "revision": "1f19abf1e162e1828013cb5434c6cf30f4054e80",
       "url": "https://github.com/polarmutex/tree-sitter-beancount"
    },
    "bibtex": {
@@ -1791,7 +1791,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "2764b6b219b2576577b0ce55c27e9d772e6f64c2",
+      "revision": "8666a4dfeb3107144398158bc3dd7a3f59d89ccb",
       "url": "https://github.com/ObserverOfTime/tree-sitter-requirements"
    },
    "rnoweb": {
@@ -2345,7 +2345,7 @@
       ],
       "generate_from_grammar": false,
       "location": "tree_sitter_v",
-      "revision": "46b8341458bb620a82ef1d8009a3e2f00bc0dad9",
+      "revision": "be121f724e4f3e2159dfa193c876be605c1de7fa",
       "url": "https://github.com/vlang/v-analyzer"
    },
    "vala": {
@@ -2431,7 +2431,7 @@
       ],
       "generate_from_grammar": true,
       "location": "libs/tree-sitter-wing",
-      "revision": "1fc9b789267f751ec7a9163882da3aa786a45798",
+      "revision": "13b79ea3f343b15f233c6e7ac930797748191615",
       "url": "https://github.com/winglang/wing"
    },
    "xcompose": {
