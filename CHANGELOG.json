@@ -1,5 +1,19 @@
 [
    {
+      "tag": "ve3e5ff4",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/ve3e5ff4/parsers.min.json",
+      "date": "2024-03-03 00:53:18 UTC",
+      "changes": {
+         "updated": [
+            "sourcepawn",
+            "vimdoc",
+            "vue"
+         ],
+         "added": [],
+         "removed": []
+      }
+   },
+   {
       "tag": "vc2a2651",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/vc2a2651/parsers.min.json",
       "date": "2024-03-02 00:49:19 UTC",

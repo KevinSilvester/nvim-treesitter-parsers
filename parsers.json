@@ -1973,7 +1973,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "39ce73ad42b2c4f52848d16093c24feddaa7d226",
+      "revision": "b1ae9e3c4a41ebf666582da24fcce316f38a0613",
       "url": "https://github.com/nilshelmig/tree-sitter-sourcepawn"
    },
    "sparql": {
@@ -2391,7 +2391,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "b63be26fa571259b512e1939f01755d9d6e78fbd",
+      "revision": "016ad75faa854e4e13bc40c517015183b795eed9",
       "url": "https://github.com/neovim/tree-sitter-vimdoc"
    },
    "vue": {
@@ -2401,7 +2401,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "7e48557b903a9db9c38cea3b7839ef7e1f36c693",
+      "revision": "085e99bcc46b2e63ff06a830a31a55132ce95aa5",
       "url": "https://github.com/tree-sitter-grammars/tree-sitter-vue"
    },
    "wgsl": {
