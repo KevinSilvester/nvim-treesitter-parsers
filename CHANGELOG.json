@@ -1,5 +1,26 @@
 [
    {
+      "tag": "v63ca90e",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v63ca90e/parsers.min.json",
+      "date": "2024-03-04 00:51:26 UTC",
+      "changes": {
+         "removed": [],
+         "updated": [
+            "arduino",
+            "gpg",
+            "sourcepawn",
+            "ssh_config",
+            "swift",
+            "vue",
+            "wing"
+         ],
+         "added": [
+            "gotmpl",
+            "helm"
+         ]
+      }
+   },
+   {
       "tag": "ve3e5ff4",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/ve3e5ff4/parsers.min.json",
       "date": "2024-03-03 00:53:18 UTC",

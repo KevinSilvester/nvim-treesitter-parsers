@@ -44,7 +44,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "7722d4398d87ea22c4877264f88b45bd7ce0cba5",
+      "revision": "72eee09b501f42a039b757c969a9f32e2b61d2a7",
       "url": "https://github.com/ObserverOfTime/tree-sitter-arduino"
    },
    "asm": {
@@ -756,6 +756,15 @@
       "revision": "e2ac513b2240c7ff1069ae33b2df29ce90777c11",
       "url": "https://github.com/amaanq/tree-sitter-go-sum"
    },
+   "gotmpl": {
+      "files": [
+         "src/parser.c"
+      ],
+      "generate_from_grammar": false,
+      "location": null,
+      "revision": "17144a77be0acdecebd9d557398883569fed41de",
+      "url": "https://github.com/ngalaiko/tree-sitter-go-template"
+   },
    "gowork": {
       "files": [
          "src/parser.c"
@@ -771,7 +780,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "d4c9cc0060cd4d1b8ca6d7add9f34352ad310a09",
+      "revision": "f99323fb8f3f10b6c69db0c2f6d0a14bd7330675",
       "url": "https://github.com/ObserverOfTime/tree-sitter-gpg-config"
    },
    "graphql": {
@@ -858,6 +867,15 @@
       "location": null,
       "revision": "4a36c9a388505180da6ee0eda1d8afb8c83481c8",
       "url": "https://github.com/connorlay/tree-sitter-heex"
+   },
+   "helm": {
+      "files": [
+         "src/parser.c"
+      ],
+      "generate_from_grammar": false,
+      "location": "dialects/helm",
+      "revision": "17144a77be0acdecebd9d557398883569fed41de",
+      "url": "https://github.com/ngalaiko/tree-sitter-go-template"
    },
    "hjson": {
       "files": [
@@ -1973,7 +1991,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "b1ae9e3c4a41ebf666582da24fcce316f38a0613",
+      "revision": "a08f8b5c1ebbce93cf5d751ff4bd03b75179f3a9",
       "url": "https://github.com/nilshelmig/tree-sitter-sourcepawn"
    },
    "sparql": {
@@ -2011,7 +2029,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "4fab1c9116cb7890885508e4630cc8e6a8373a41",
+      "revision": "514695df4985f56455b8f139a319453a2325cdcf",
       "url": "https://github.com/ObserverOfTime/tree-sitter-ssh-config"
    },
    "starlark": {
@@ -2079,7 +2097,7 @@
       ],
       "generate_from_grammar": true,
       "location": null,
-      "revision": "fc00cbb460b40228b30f322b5a34ea0e8f35a9f8",
+      "revision": "8a87eebcc3ca249e1eeb65b226e81b7e711eea7a",
       "url": "https://github.com/alex-pinkus/tree-sitter-swift"
    },
    "sxhkdrc": {
@@ -2401,7 +2419,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "085e99bcc46b2e63ff06a830a31a55132ce95aa5",
+      "revision": "3b9d52087100bdfce43dad2ca46d75b0e21613f6",
       "url": "https://github.com/tree-sitter-grammars/tree-sitter-vue"
    },
    "wgsl": {
@@ -2431,7 +2449,7 @@
       ],
       "generate_from_grammar": true,
       "location": "libs/tree-sitter-wing",
-      "revision": "13b79ea3f343b15f233c6e7ac930797748191615",
+      "revision": "365827a3aa52a1a8093281d204e59ef80e4a210b",
       "url": "https://github.com/winglang/wing"
    },
    "xcompose": {
