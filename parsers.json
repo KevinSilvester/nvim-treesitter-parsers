@@ -25,7 +25,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "6d02054ae9aa1fedf5097fe6d93dd78f751dff21",
+      "revision": "a1b5ff462875e5f92e6265fc630702847e0dcbb3",
       "url": "https://github.com/dlvandenberg/tree-sitter-angular"
    },
    "apex": {
@@ -1660,7 +1660,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "3641b9e854ac9c84c7576e71c4c9a357bcfd9550",
+      "revision": "5849f9694197a6e822872945b415429c285fdd54",
       "url": "https://github.com/amaanq/tree-sitter-puppet"
    },
    "purescript": {
@@ -1991,7 +1991,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "a08f8b5c1ebbce93cf5d751ff4bd03b75179f3a9",
+      "revision": "30ba6d614b07e6f1a9302af8e9fd57711c5f38f2",
       "url": "https://github.com/nilshelmig/tree-sitter-sourcepawn"
    },
    "sparql": {
@@ -2097,7 +2097,7 @@
       ],
       "generate_from_grammar": true,
       "location": null,
-      "revision": "8a87eebcc3ca249e1eeb65b226e81b7e711eea7a",
+      "revision": "f99631b21e3b6a3b30ee86558e1091a54d61a430",
       "url": "https://github.com/alex-pinkus/tree-sitter-swift"
    },
    "sxhkdrc": {
@@ -2125,7 +2125,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "b904af353fb2f1df6ac45d8d3e3a5ee85a6cc306",
+      "revision": "0a457a557be7779336bc8ac2b396e73797bc68f7",
       "url": "https://gitlab.com/xasc/tree-sitter-t32.git"
    },
    "tablegen": {
@@ -2449,7 +2449,7 @@
       ],
       "generate_from_grammar": true,
       "location": "libs/tree-sitter-wing",
-      "revision": "365827a3aa52a1a8093281d204e59ef80e4a210b",
+      "revision": "e3d2cde3d6989d7f3cf97e269dcd1cc40466bd5b",
       "url": "https://github.com/winglang/wing"
    },
    "xcompose": {

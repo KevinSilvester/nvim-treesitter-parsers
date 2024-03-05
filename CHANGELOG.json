@@ -1,5 +1,22 @@
 [
    {
+      "tag": "v212b7a5",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v212b7a5/parsers.min.json",
+      "date": "2024-03-05 00:50:24 UTC",
+      "changes": {
+         "updated": [
+            "angular",
+            "puppet",
+            "sourcepawn",
+            "swift",
+            "t32",
+            "wing"
+         ],
+         "added": [],
+         "removed": []
+      }
+   },
+   {
       "tag": "v63ca90e",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v63ca90e/parsers.min.json",
       "date": "2024-03-04 00:51:26 UTC",
