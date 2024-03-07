@@ -311,7 +311,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "2df92e6755337e9234ad18ffef37f35d95e2ba9d",
+      "revision": "cdfe1a8594fe5be45c883a385ab543acc646d018",
       "url": "https://github.com/eonpatapon/tree-sitter-cue"
    },
    "d": {
@@ -659,7 +659,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "6bd81962d1abe309bf5dffde3315e4a5988f35fd",
+      "revision": "247406593c835065828230bdcecd933138691f68",
       "url": "https://github.com/gbprod/tree-sitter-gitcommit"
    },
    "gitignore": {
@@ -2449,7 +2449,7 @@
       ],
       "generate_from_grammar": true,
       "location": "libs/tree-sitter-wing",
-      "revision": "1b3e8be7035a43e8fccd8ca0ab9c93cbd1500092",
+      "revision": "e9424683889e10568af225b5338d130f13b54952",
       "url": "https://github.com/winglang/wing"
    },
    "xcompose": {
