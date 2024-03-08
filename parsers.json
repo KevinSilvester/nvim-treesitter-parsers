@@ -1689,7 +1689,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "22d3f87bdafac2782e907330babe4af574f5d0b4",
+      "revision": "03e88c170cb23142559a406b6e7621c4af3128f5",
       "url": "https://github.com/tree-sitter/tree-sitter-python"
    },
    "ql": {
@@ -2449,7 +2449,7 @@
       ],
       "generate_from_grammar": true,
       "location": "libs/tree-sitter-wing",
-      "revision": "e9424683889e10568af225b5338d130f13b54952",
+      "revision": "845360a7877629185cac62ac9464b21a91c12608",
       "url": "https://github.com/winglang/wing"
    },
    "xcompose": {
