@@ -856,7 +856,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "e135399cb31b95fac0760b094556d1d5ce84acf0",
+      "revision": "e936d3fef8bac884661472dce71ad82284761eb1",
       "url": "https://github.com/MichaHoffmann/tree-sitter-hcl"
    },
    "heex": {
@@ -1308,7 +1308,7 @@
       ],
       "generate_from_grammar": true,
       "location": null,
-      "revision": "117cbbc46bbf82ae30b24f8939573655017226da",
+      "revision": "a56445f841ae7246e4aa3fdf7b4ef0bccdc82e7c",
       "url": "https://github.com/artagnon/tree-sitter-mlir"
    },
    "muttrc": {
@@ -1336,7 +1336,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "33a64ec9a27058c52e4195f1030235dcdfc04747",
+      "revision": "58baf89db8fdae54a84bcf22c80ff10ee3f929ed",
       "url": "https://github.com/nickel-lang/tree-sitter-nickel"
    },
    "nim": {
@@ -1726,7 +1726,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "a0ccc351e5e868ec1f8135e97aa3b53c663cf2df",
+      "revision": "176a380df78800167565118bb0dadfc961abbd43",
       "url": "https://github.com/nvim-treesitter/tree-sitter-query"
    },
    "r": {
@@ -1925,7 +1925,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "3c82235f41b63f35a01ae3888206e93585cbb84a",
+      "revision": "cdb307898345cb0465922be447a063b9c294afca",
       "url": "https://github.com/slint-ui/tree-sitter-slint"
    },
    "smali": {
@@ -1991,7 +1991,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "30ba6d614b07e6f1a9302af8e9fd57711c5f38f2",
+      "revision": "3ca89fdf998340a7973e276b39516d8902950f86",
       "url": "https://github.com/nilshelmig/tree-sitter-sourcepawn"
    },
    "sparql": {
@@ -2175,7 +2175,7 @@
       ],
       "generate_from_grammar": false,
       "location": "dialects/terraform",
-      "revision": "e135399cb31b95fac0760b094556d1d5ce84acf0",
+      "revision": "e936d3fef8bac884661472dce71ad82284761eb1",
       "url": "https://github.com/MichaHoffmann/tree-sitter-hcl"
    },
    "textproto": {
@@ -2449,7 +2449,7 @@
       ],
       "generate_from_grammar": true,
       "location": "libs/tree-sitter-wing",
-      "revision": "845360a7877629185cac62ac9464b21a91c12608",
+      "revision": "4a9f8210586aa2903dd839538cf5dccc614e6f94",
       "url": "https://github.com/winglang/wing"
    },
    "xcompose": {

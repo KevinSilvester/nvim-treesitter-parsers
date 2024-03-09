@@ -1,5 +1,24 @@
 [
    {
+      "tag": "v5720531",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v5720531/parsers.min.json",
+      "date": "2024-03-09 00:48:41 UTC",
+      "changes": {
+         "updated": [
+            "hcl",
+            "mlir",
+            "nickel",
+            "query",
+            "slint",
+            "sourcepawn",
+            "terraform",
+            "wing"
+         ],
+         "added": [],
+         "removed": []
+      }
+   },
+   {
       "tag": "v9775d5d",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v9775d5d/parsers.min.json",
       "date": "2024-03-08 00:50:32 UTC",
