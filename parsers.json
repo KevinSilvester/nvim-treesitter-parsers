@@ -2097,7 +2097,7 @@
       ],
       "generate_from_grammar": true,
       "location": null,
-      "revision": "eebf8bc3f8d4204124c59ff48b1a19417bbf99df",
+      "revision": "7e5b912761c9abca60996b1250f40be1f46cf39a",
       "url": "https://github.com/alex-pinkus/tree-sitter-swift"
    },
    "sxhkdrc": {
@@ -2400,7 +2400,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "bc1364d922952138957a62105171ed68e73fbb6c",
+      "revision": "052279cd5e1d73b075640c64cef97e7bdcd32611",
       "url": "https://github.com/neovim/tree-sitter-vim"
    },
    "vimdoc": {
@@ -2449,7 +2449,7 @@
       ],
       "generate_from_grammar": true,
       "location": "libs/tree-sitter-wing",
-      "revision": "4a9f8210586aa2903dd839538cf5dccc614e6f94",
+      "revision": "dbe7de9dff20725577393fc9ff0c2e7853091164",
       "url": "https://github.com/winglang/wing"
    },
    "xcompose": {
