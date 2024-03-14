@@ -1,5 +1,41 @@
 [
    {
+      "tag": "v35c1a32",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v35c1a32/parsers.min.json",
+      "date": "2024-03-14 00:50:50 UTC",
+      "changes": {
+         "removed": [],
+         "updated": [
+            "angular",
+            "bash",
+            "c",
+            "cmake",
+            "cue",
+            "java",
+            "javascript",
+            "kotlin",
+            "lua",
+            "php",
+            "php_only",
+            "python",
+            "racket",
+            "ruby",
+            "rust",
+            "scala",
+            "scheme",
+            "slint",
+            "solidity",
+            "swift",
+            "tlaplus",
+            "tsx",
+            "typescript",
+            "vimdoc",
+            "wing"
+         ],
+         "added": []
+      }
+   },
+   {
       "tag": "v488bec0",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v488bec0/parsers.min.json",
       "date": "2024-03-11 00:51:50 UTC",
