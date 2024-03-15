@@ -25,7 +25,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "52594e26562a8af8fa73234678e600575c5388ee",
+      "revision": "62179d7bbfb5fd8a8f7298495ac654d252a1bd52",
       "url": "https://github.com/dlvandenberg/tree-sitter-angular"
    },
    "apex": {
@@ -82,7 +82,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "207b04974c83d8d25a947e4d09763675c4617da7",
+      "revision": "ba7472152d79a8c916550c80fdbfd5724d07a0c9",
       "url": "https://github.com/Beaglefoot/tree-sitter-awk"
    },
    "bash": {
@@ -865,7 +865,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "4a36c9a388505180da6ee0eda1d8afb8c83481c8",
+      "revision": "b5ad6e34eea18a15bbd1466ca707a17f9bff7b93",
       "url": "https://github.com/connorlay/tree-sitter-heex"
    },
    "helm": {
@@ -931,7 +931,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "b5d9758e22b4d3d25704b72526670759a9e4d195",
+      "revision": "b285e25c1ba8729399ce4f15ac5375cf6c3aa5be",
       "url": "https://github.com/tree-sitter/tree-sitter-html"
    },
    "htmldjango": {
@@ -1110,7 +1110,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "aa1130ebfde68ed70366c58d9d318e6656220111",
+      "revision": "260afd9a92bac51b3a4546303103c3d40a430639",
       "url": "https://github.com/fwcd/tree-sitter-kotlin"
    },
    "kusto": {
@@ -1251,7 +1251,7 @@
       ],
       "generate_from_grammar": false,
       "location": "tree-sitter-markdown",
-      "revision": "2821521a4e6eab37b63dff6a8e169cd88554047d",
+      "revision": "b2f01981a76e3251f5b660378136c248ed106b81",
       "url": "https://github.com/MDeiml/tree-sitter-markdown"
    },
    "markdown_inline": {
@@ -1261,7 +1261,7 @@
       ],
       "generate_from_grammar": false,
       "location": "tree-sitter-markdown-inline",
-      "revision": "2821521a4e6eab37b63dff6a8e169cd88554047d",
+      "revision": "b2f01981a76e3251f5b660378136c248ed106b81",
       "url": "https://github.com/MDeiml/tree-sitter-markdown"
    },
    "matlab": {
@@ -2010,7 +2010,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "da2d1eff425b146d3c8cab7be8dfa98b11d896dc",
+      "revision": "cdb7cde9bf70b194ab8beb5069fbbc3c9640284e",
       "url": "https://github.com/derekstride/tree-sitter-sql"
    },
    "squirrel": {
@@ -2097,7 +2097,7 @@
       ],
       "generate_from_grammar": true,
       "location": null,
-      "revision": "78f2d72e375f83b2ba6cfb5cc7750db3c94e9785",
+      "revision": "505bd4ce213ecceb3670adf0f74ff2b25c43916a",
       "url": "https://github.com/alex-pinkus/tree-sitter-swift"
    },
    "sxhkdrc": {
@@ -2449,7 +2449,7 @@
       ],
       "generate_from_grammar": true,
       "location": "libs/tree-sitter-wing",
-      "revision": "f3344cc9ce289be07108df79262df74afa265544",
+      "revision": "06128477ae1f875e832493ada7c93170af822a9f",
       "url": "https://github.com/winglang/wing"
    },
    "xcompose": {

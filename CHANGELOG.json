@@ -1,5 +1,26 @@
 [
    {
+      "tag": "v904f373",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v904f373/parsers.min.json",
+      "date": "2024-03-15 00:51:23 UTC",
+      "changes": {
+         "added": [],
+         "removed": [],
+         "updated": [
+            "angular",
+            "awk",
+            "heex",
+            "html",
+            "kotlin",
+            "markdown",
+            "markdown_inline",
+            "sql",
+            "swift",
+            "wing"
+         ]
+      }
+   },
+   {
       "tag": "v35c1a32",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v35c1a32/parsers.min.json",
       "date": "2024-03-14 00:50:50 UTC",
