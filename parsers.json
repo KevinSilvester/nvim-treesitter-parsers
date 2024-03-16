@@ -659,7 +659,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "247406593c835065828230bdcecd933138691f68",
+      "revision": "523a1a4f0f674eff7fbf46addfa6ef7644151aae",
       "url": "https://github.com/gbprod/tree-sitter-gitcommit"
    },
    "gitignore": {
@@ -1308,7 +1308,7 @@
       ],
       "generate_from_grammar": true,
       "location": null,
-      "revision": "a56445f841ae7246e4aa3fdf7b4ef0bccdc82e7c",
+      "revision": "992c756686eb968af752ce75a874591042a8e24c",
       "url": "https://github.com/artagnon/tree-sitter-mlir"
    },
    "muttrc": {
@@ -1819,7 +1819,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "502c1126dc6777f09af5bef16e72a42f75bd081e",
+      "revision": "1a74dc0ed731ad07db39f063e2c5a6fe528cae7f",
       "url": "https://github.com/bamonroe/tree-sitter-rnoweb"
    },
    "robot": {
@@ -2097,7 +2097,7 @@
       ],
       "generate_from_grammar": true,
       "location": null,
-      "revision": "505bd4ce213ecceb3670adf0f74ff2b25c43916a",
+      "revision": "78a736d77094b0b3c35e811e6765c4d38a72724e",
       "url": "https://github.com/alex-pinkus/tree-sitter-swift"
    },
    "sxhkdrc": {
@@ -2409,7 +2409,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "90a396267e117835c778bdbda6f7db86b601d829",
+      "revision": "f431bfa7d433f4d629943147817193a4fccbd303",
       "url": "https://github.com/neovim/tree-sitter-vimdoc"
    },
    "vue": {
@@ -2449,7 +2449,7 @@
       ],
       "generate_from_grammar": true,
       "location": "libs/tree-sitter-wing",
-      "revision": "06128477ae1f875e832493ada7c93170af822a9f",
+      "revision": "07f6740ab9f4f74c49413b9056154cac51f4b2d7",
       "url": "https://github.com/winglang/wing"
    },
    "xcompose": {
@@ -2474,12 +2474,12 @@
    "yaml": {
       "files": [
          "src/parser.c",
-         "src/scanner.cc"
+         "src/scanner.c"
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "0e36bed171768908f331ff7dff9d956bae016efb",
-      "url": "https://github.com/ikatyang/tree-sitter-yaml"
+      "revision": "9e59b9bbf839ba231fbcb953617d8b9b9a059e38",
+      "url": "https://github.com/tree-sitter-grammars/tree-sitter-yaml"
    },
    "yang": {
       "files": [

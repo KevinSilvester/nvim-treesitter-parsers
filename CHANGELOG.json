@@ -1,5 +1,23 @@
 [
    {
+      "tag": "vf878828",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/vf878828/parsers.min.json",
+      "date": "2024-03-16 00:49:51 UTC",
+      "changes": {
+         "added": [],
+         "removed": [],
+         "updated": [
+            "gitcommit",
+            "mlir",
+            "rnoweb",
+            "swift",
+            "vimdoc",
+            "wing",
+            "yaml"
+         ]
+      }
+   },
+   {
       "tag": "v904f373",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v904f373/parsers.min.json",
       "date": "2024-03-15 00:51:23 UTC",
