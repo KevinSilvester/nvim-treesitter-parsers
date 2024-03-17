@@ -340,7 +340,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "2087a5b965db2a9efabab958a27fd8ddf43038a2",
+      "revision": "fb07e6044ffd36932c57a5be01ba5d6b8a9337bb",
       "url": "https://github.com/joelspadin/tree-sitter-devicetree"
    },
    "dhall": {
@@ -407,7 +407,7 @@
       ],
       "generate_from_grammar": false,
       "location": "dtd",
-      "revision": "c23bd31d0aa72bfc01238b2546d5e823d8006709",
+      "revision": "29485b6587cacb99555c19ca53bea78b9e54ffd4",
       "url": "https://github.com/tree-sitter-grammars/tree-sitter-xml"
    },
    "ebnf": {
@@ -940,7 +940,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "8873e3df89f9ea1d33f6235e516b600009288557",
+      "revision": "ea71012d3fe14dd0b69f36be4f96bdfe9155ebae",
       "url": "https://github.com/interdependence/tree-sitter-htmldjango"
    },
    "http": {
@@ -1499,7 +1499,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "6526e5d5bf31501de0dc51c42ac3583078a8fdab",
+      "revision": "fd7b2fe5b967d5eee8ce17938052886e2d5987ed",
       "url": "https://github.com/tree-sitter-perl/tree-sitter-perl"
    },
    "php": {
@@ -1746,7 +1746,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "b5a2fe74cac87dc5342b366f50db71d421e7cf8f",
+      "revision": "d9858a0f607578814f2d34662ad4bc21aa37a455",
       "url": "https://github.com/6cdh/tree-sitter-racket"
    },
    "rasi": {
@@ -1896,7 +1896,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "6c77a5bcfb9baceeaa79ef67354b2d501b37b085",
+      "revision": "184e7596ee0cbaef79230cae1b4ee5bb4fbad314",
       "url": "https://github.com/6cdh/tree-sitter-scheme"
    },
    "scss": {
@@ -2363,7 +2363,7 @@
       ],
       "generate_from_grammar": false,
       "location": "tree_sitter_v",
-      "revision": "be121f724e4f3e2159dfa193c876be605c1de7fa",
+      "revision": "0cf2108de92d043a684a963199d772899486089b",
       "url": "https://github.com/vlang/v-analyzer"
    },
    "vala": {
@@ -2449,7 +2449,7 @@
       ],
       "generate_from_grammar": true,
       "location": "libs/tree-sitter-wing",
-      "revision": "07f6740ab9f4f74c49413b9056154cac51f4b2d7",
+      "revision": "d9beaf168149dff81314631f6def484869a63e2e",
       "url": "https://github.com/winglang/wing"
    },
    "xcompose": {
@@ -2468,7 +2468,7 @@
       ],
       "generate_from_grammar": false,
       "location": "xml",
-      "revision": "c23bd31d0aa72bfc01238b2546d5e823d8006709",
+      "revision": "29485b6587cacb99555c19ca53bea78b9e54ffd4",
       "url": "https://github.com/tree-sitter-grammars/tree-sitter-xml"
    },
    "yaml": {

@@ -1,5 +1,25 @@
 [
    {
+      "tag": "v143ca5c",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v143ca5c/parsers.min.json",
+      "date": "2024-03-17 00:54:11 UTC",
+      "changes": {
+         "added": [],
+         "removed": [],
+         "updated": [
+            "devicetree",
+            "dtd",
+            "htmldjango",
+            "perl",
+            "racket",
+            "scheme",
+            "v",
+            "wing",
+            "xml"
+         ]
+      }
+   },
+   {
       "tag": "vf878828",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/vf878828/parsers.min.json",
       "date": "2024-03-16 00:49:51 UTC",
