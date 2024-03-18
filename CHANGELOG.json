@@ -1,5 +1,26 @@
 [
    {
+      "tag": "v6a2572c",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v6a2572c/parsers.min.json",
+      "date": "2024-03-18 00:51:54 UTC",
+      "changes": {
+         "added": [],
+         "removed": [],
+         "updated": [
+            "c_sharp",
+            "glimmer",
+            "http",
+            "hyprlang",
+            "meson",
+            "mlir",
+            "ocaml",
+            "ocaml_interface",
+            "swift",
+            "v"
+         ]
+      }
+   },
+   {
       "tag": "v143ca5c",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v143ca5c/parsers.min.json",
       "date": "2024-03-17 00:54:11 UTC",

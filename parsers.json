@@ -168,7 +168,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "4b4e82ca0a30376ae605e77a0d8a3c803c9f9327",
+      "revision": "92c0a9431400cd8b6b6ee7503f81da3ae83fc830",
       "url": "https://github.com/tree-sitter/tree-sitter-c-sharp"
    },
    "cairo": {
@@ -688,7 +688,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "f9746dc1d0707717fbba84cb5c22a71586af23e1",
+      "revision": "5dc6d1040e8ff8978ff3680e818d85447bbc10aa",
       "url": "https://github.com/alexlafroscia/tree-sitter-glimmer"
    },
    "glsl": {
@@ -949,7 +949,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "6824a247d1326079aab4fa9f9164e9319678081d",
+      "revision": "e1c1085f1b36a19e82892cc1fc912cc9c968bb26",
       "url": "https://github.com/rest-nvim/tree-sitter-http"
    },
    "hurl": {
@@ -967,7 +967,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "fc1d331586e4da2b5f5bcfa89d630ebafe66458b",
+      "revision": "27af9b74acf89fa6bed4fb8cb8631994fcb2e6f3",
       "url": "https://github.com/luckasRanarison/tree-sitter-hyprlang"
    },
    "ini": {
@@ -1299,7 +1299,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "d6ec8ce0963c3c8180161391f15d8f7d415f650d",
+      "revision": "3ebd060b1a2eec450ff46b73428c63f9148a07ff",
       "url": "https://github.com/Decodetalkers/tree-sitter-meson"
    },
    "mlir": {
@@ -1308,7 +1308,7 @@
       ],
       "generate_from_grammar": true,
       "location": null,
-      "revision": "992c756686eb968af752ce75a874591042a8e24c",
+      "revision": "c8629729bebfa23023c2d7a14ed1a7eec3042a1a",
       "url": "https://github.com/artagnon/tree-sitter-mlir"
    },
    "muttrc": {
@@ -1421,8 +1421,8 @@
          "src/scanner.c"
       ],
       "generate_from_grammar": false,
-      "location": "ocaml",
-      "revision": "712d9bfa1d537c5899dde5538767ed2d8bb37a93",
+      "location": "grammars/ocaml",
+      "revision": "d33ad2685500008cb89a93714e2f867dd8af8fe3",
       "url": "https://github.com/tree-sitter/tree-sitter-ocaml"
    },
    "ocaml_interface": {
@@ -1431,8 +1431,8 @@
          "src/scanner.c"
       ],
       "generate_from_grammar": false,
-      "location": "interface",
-      "revision": "712d9bfa1d537c5899dde5538767ed2d8bb37a93",
+      "location": "grammars/interface",
+      "revision": "d33ad2685500008cb89a93714e2f867dd8af8fe3",
       "url": "https://github.com/tree-sitter/tree-sitter-ocaml"
    },
    "ocamllex": {
@@ -2097,7 +2097,7 @@
       ],
       "generate_from_grammar": true,
       "location": null,
-      "revision": "78a736d77094b0b3c35e811e6765c4d38a72724e",
+      "revision": "071b7cc9a4a4e978c08069fcc6c61f811730395c",
       "url": "https://github.com/alex-pinkus/tree-sitter-swift"
    },
    "sxhkdrc": {
@@ -2363,7 +2363,7 @@
       ],
       "generate_from_grammar": false,
       "location": "tree_sitter_v",
-      "revision": "0cf2108de92d043a684a963199d772899486089b",
+      "revision": "59d104a4f3a860c71bdd93f6c897a2139b0f369b",
       "url": "https://github.com/vlang/v-analyzer"
    },
    "vala": {
