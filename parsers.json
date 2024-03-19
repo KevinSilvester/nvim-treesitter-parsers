@@ -44,7 +44,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "e3a0a7f60e544afc478b72cdda7ffc0f2f889db0",
+      "revision": "94219a5ac207a0fadd680b285378d08669d5bbc8",
       "url": "https://github.com/ObserverOfTime/tree-sitter-arduino"
    },
    "asm": {
@@ -215,7 +215,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "7dc15823107831729c64a917c796a93cf5c6a7e3",
+      "revision": "ce71cae5e022f0fa9031f067673d139d8e9dd63e",
       "url": "https://github.com/uyha/tree-sitter-cmake"
    },
    "comment": {
@@ -407,7 +407,7 @@
       ],
       "generate_from_grammar": false,
       "location": "dtd",
-      "revision": "29485b6587cacb99555c19ca53bea78b9e54ffd4",
+      "revision": "ab85469fedbf4f32da9310dd76dcedba059fc482",
       "url": "https://github.com/tree-sitter-grammars/tree-sitter-xml"
    },
    "ebnf": {
@@ -949,7 +949,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "e1c1085f1b36a19e82892cc1fc912cc9c968bb26",
+      "revision": "c98247ff34ae690629c4754add1d6daecfcd9388",
       "url": "https://github.com/rest-nvim/tree-sitter-http"
    },
    "hurl": {
@@ -1308,7 +1308,7 @@
       ],
       "generate_from_grammar": true,
       "location": null,
-      "revision": "c8629729bebfa23023c2d7a14ed1a7eec3042a1a",
+      "revision": "3da76a44a6a5db05aef03966a2045c7c73571d77",
       "url": "https://github.com/artagnon/tree-sitter-mlir"
    },
    "muttrc": {
@@ -1422,7 +1422,7 @@
       ],
       "generate_from_grammar": false,
       "location": "grammars/ocaml",
-      "revision": "d33ad2685500008cb89a93714e2f867dd8af8fe3",
+      "revision": "dabe60a96553fbbda0a58b6ccda12b7d44047cb5",
       "url": "https://github.com/tree-sitter/tree-sitter-ocaml"
    },
    "ocaml_interface": {
@@ -1432,7 +1432,7 @@
       ],
       "generate_from_grammar": false,
       "location": "grammars/interface",
-      "revision": "d33ad2685500008cb89a93714e2f867dd8af8fe3",
+      "revision": "dabe60a96553fbbda0a58b6ccda12b7d44047cb5",
       "url": "https://github.com/tree-sitter/tree-sitter-ocaml"
    },
    "ocamllex": {
@@ -1925,7 +1925,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "f5fa844d2adbcfdc7a0ec4daae4539887959d9ff",
+      "revision": "acc77c93ef4b73ba8c3a581b8c99d95b55f7178b",
       "url": "https://github.com/slint-ui/tree-sitter-slint"
    },
    "smali": {
@@ -2097,7 +2097,7 @@
       ],
       "generate_from_grammar": true,
       "location": null,
-      "revision": "071b7cc9a4a4e978c08069fcc6c61f811730395c",
+      "revision": "a8cf05cd49b3b97d70a03fd65c9c279fc76662f7",
       "url": "https://github.com/alex-pinkus/tree-sitter-swift"
    },
    "sxhkdrc": {
@@ -2375,6 +2375,16 @@
       "revision": "8f690bfa639f2b83d1fb938ed3dd98a7ba453e8b",
       "url": "https://github.com/vala-lang/tree-sitter-vala"
    },
+   "vento": {
+      "files": [
+         "src/parser.c",
+         "src/scanner.c"
+      ],
+      "generate_from_grammar": false,
+      "location": null,
+      "revision": "c1eb14b130c37267be7c6bb38ce949c3077dd4b3",
+      "url": "https://github.com/ventojs/tree-sitter-vento"
+   },
    "verilog": {
       "files": [
          "src/parser.c"
@@ -2409,7 +2419,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "f431bfa7d433f4d629943147817193a4fccbd303",
+      "revision": "cee98887944bfe979c95386785ae388d8ecb3715",
       "url": "https://github.com/neovim/tree-sitter-vimdoc"
    },
    "vue": {
@@ -2449,7 +2459,7 @@
       ],
       "generate_from_grammar": true,
       "location": "libs/tree-sitter-wing",
-      "revision": "d9beaf168149dff81314631f6def484869a63e2e",
+      "revision": "8f3d8031b47ee95b9d1ca1e1562c4da74b1d3e2d",
       "url": "https://github.com/winglang/wing"
    },
    "xcompose": {
@@ -2468,7 +2478,7 @@
       ],
       "generate_from_grammar": false,
       "location": "xml",
-      "revision": "29485b6587cacb99555c19ca53bea78b9e54ffd4",
+      "revision": "ab85469fedbf4f32da9310dd76dcedba059fc482",
       "url": "https://github.com/tree-sitter-grammars/tree-sitter-xml"
    },
    "yaml": {
