@@ -42,11 +42,11 @@ jobs:
         if: steps.parsers.outputs.CHANGED == 'true'
         shell: bash
         run: |
-          cat ./CHANGELOG.json | jq -M --indent 3 "if length == 40 then .[:-1] else . end | [{
+          cat ./CHANGELOG.json | jq -M --indent 3 "if length == 150 then .[:-1] else . end | [{
             tag: \"${{ steps.parsers.outputs.RELEASE_TAG }}\",
             url: \"https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/${{ steps.parsers.outputs.RELEASE_TAG }}/parsers.min.json\",
             date: \"$(date -u +"%F %T %Z")\",
-            changes: $(cat ./changes.json)
+            changes: $(jq -M -S < ./changes.json)
           }] + ." > ./CHANGELOG.tmp.json
 
           rm CHANGELOG.json changes.json
