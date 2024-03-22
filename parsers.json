@@ -53,7 +53,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "f7158e1c22bdb4bf2c3e139c0ec3050d142cde6d",
+      "revision": "62e49328113ff318128c640bf0cf6dd3d3d51553",
       "url": "https://github.com/RubixDev/tree-sitter-asm"
    },
    "astro": {
@@ -158,7 +158,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "371fd0bf0650581b6e49f06f438c88c419859696",
+      "revision": "72084f447c2051e01a7cd6c6e0477ec71a9297ed",
       "url": "https://github.com/tree-sitter/tree-sitter-c"
    },
    "c_sharp": {
@@ -321,7 +321,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "a33d400f025d6bbd37b4c681c93054976f579890",
+      "revision": "322d119d50ebe6d0a323dfb00c4aeba31a44fb6f",
       "url": "https://github.com/gdamore/tree-sitter-d"
    },
    "dart": {
@@ -931,7 +931,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "4e5f3345f74cda667ee8dd94b17184a592ce0374",
+      "revision": "cc53b6878a003cf26d213025af49c78388cebe21",
       "url": "https://github.com/tree-sitter/tree-sitter-html"
    },
    "htmldjango": {
@@ -1082,6 +1082,16 @@
       "location": null,
       "revision": "e84f10db8eeb8b9807786bfc658808edaa1b4fa2",
       "url": "https://github.com/tree-sitter/tree-sitter-julia"
+   },
+   "just": {
+      "files": [
+         "src/parser.c",
+         "src/scanner.c"
+      ],
+      "generate_from_grammar": false,
+      "location": null,
+      "revision": "5fe40d3622042c66465c4673b209a71e8376f902",
+      "url": "https://github.com/IndianBoy42/tree-sitter-just"
    },
    "kconfig": {
       "files": [
@@ -2087,7 +2097,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "04a126d9210def99f06d9ab84a255110b862d47c",
+      "revision": "b974719d47447666687d49c68a51b278b2320e99",
       "url": "https://github.com/tree-sitter-grammars/tree-sitter-svelte"
    },
    "swift": {
@@ -2363,7 +2373,7 @@
       ],
       "generate_from_grammar": false,
       "location": "tree_sitter_v",
-      "revision": "46f809776e90ef6f039c8a45008644822dc292e2",
+      "revision": "366d30c2438ca396f2f8304d891ca22e7c14b922",
       "url": "https://github.com/vlang/v-analyzer"
    },
    "vala": {
@@ -2459,7 +2469,7 @@
       ],
       "generate_from_grammar": true,
       "location": "libs/tree-sitter-wing",
-      "revision": "9a77bb6c1f4d65a9e8cd19585361b9a0786d5565",
+      "revision": "1bb6a572d5e3ced0012a4f6702c6f5662187b901",
       "url": "https://github.com/winglang/wing"
    },
    "xcompose": {

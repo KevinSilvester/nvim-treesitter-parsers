@@ -1,5 +1,25 @@
 [
    {
+      "tag": "v722617e",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v722617e/parsers.min.json",
+      "date": "2024-03-22 00:55:32 UTC",
+      "changes": {
+         "added": [
+            "just"
+         ],
+         "removed": [],
+         "updated": [
+            "asm",
+            "c",
+            "d",
+            "html",
+            "svelte",
+            "v",
+            "wing"
+         ]
+      }
+   },
+   {
       "tag": "v4d76587",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v4d76587/parsers.min.json",
       "date": "2024-03-21 00:52:22 UTC",
@@ -827,7 +847,7 @@
          "updated": []
       }
    },
-  {
+   {
       "tag": "v76700e1",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v76700e1/parsers.min.json",
       "date": "2024-02-09 00:50:12 UTC",
