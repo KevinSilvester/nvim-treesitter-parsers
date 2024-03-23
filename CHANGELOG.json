@@ -1,5 +1,26 @@
 [
    {
+      "tag": "va951dcb",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/va951dcb/parsers.min.json",
+      "date": "2024-03-23 00:49:58 UTC",
+      "changes": {
+         "added": [
+            "djot"
+         ],
+         "removed": [],
+         "updated": [
+            "hoon",
+            "just",
+            "lalrpop",
+            "markdown",
+            "markdown_inline",
+            "tlaplus",
+            "v",
+            "wing"
+         ]
+      }
+   },
+   {
       "tag": "v722617e",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v722617e/parsers.min.json",
       "date": "2024-03-22 00:55:32 UTC",

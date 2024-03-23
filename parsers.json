@@ -372,6 +372,16 @@
       "revision": "0229c0211dba909c5d45129ac784a3f4d49c243a",
       "url": "https://github.com/ColinKennedy/tree-sitter-disassembly"
    },
+   "djot": {
+      "files": [
+         "src/parser.c",
+         "src/scanner.c"
+      ],
+      "generate_from_grammar": false,
+      "location": null,
+      "revision": "e1cfe895a9984f09045f6a2462ade0ee131aa7a0",
+      "url": "https://github.com/treeman/tree-sitter-djot"
+   },
    "dockerfile": {
       "files": [
          "src/parser.c"
@@ -921,7 +931,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "0135187126370cbf112d759a50eab4a5c913a827",
+      "revision": "a24c5a39d1d7e993a8bee913c8e8b6a652ca5ae8",
       "url": "https://github.com/urbit-pilled/tree-sitter-hoon"
    },
    "html": {
@@ -1090,7 +1100,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "5fe40d3622042c66465c4673b209a71e8376f902",
+      "revision": "442538ab5ae0913b05e0269a988b4d452dfa5361",
       "url": "https://github.com/IndianBoy42/tree-sitter-just"
    },
    "kconfig": {
@@ -1139,7 +1149,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "456dec2990ed7e9595eca82f85db14a1db46e126",
+      "revision": "123d8b472e949b59f348c32e245107a34a3d8945",
       "url": "https://github.com/traxys/tree-sitter-lalrpop"
    },
    "latex": {
@@ -1261,7 +1271,7 @@
       ],
       "generate_from_grammar": false,
       "location": "tree-sitter-markdown",
-      "revision": "b2f01981a76e3251f5b660378136c248ed106b81",
+      "revision": "d427744e2128668f3b4bac3dc63f840ebb7e87c3",
       "url": "https://github.com/MDeiml/tree-sitter-markdown"
    },
    "markdown_inline": {
@@ -1271,7 +1281,7 @@
       ],
       "generate_from_grammar": false,
       "location": "tree-sitter-markdown-inline",
-      "revision": "b2f01981a76e3251f5b660378136c248ed106b81",
+      "revision": "d427744e2128668f3b4bac3dc63f840ebb7e87c3",
       "url": "https://github.com/MDeiml/tree-sitter-markdown"
    },
    "matlab": {
@@ -2219,11 +2229,11 @@
    "tlaplus": {
       "files": [
          "src/parser.c",
-         "src/scanner.cc"
+         "src/scanner.c"
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "3896a5be761f04ffb22a841b2a0672f7a8a43ef9",
+      "revision": "7455f17038d551ecd2b082c39e4a63bcb403e158",
       "url": "https://github.com/tlaplus-community/tree-sitter-tlaplus"
    },
    "tmux": {
@@ -2373,7 +2383,7 @@
       ],
       "generate_from_grammar": false,
       "location": "tree_sitter_v",
-      "revision": "366d30c2438ca396f2f8304d891ca22e7c14b922",
+      "revision": "3439620ad96aa540f8dc454a332bc2d59314178f",
       "url": "https://github.com/vlang/v-analyzer"
    },
    "vala": {
@@ -2469,7 +2479,7 @@
       ],
       "generate_from_grammar": true,
       "location": "libs/tree-sitter-wing",
-      "revision": "1bb6a572d5e3ced0012a4f6702c6f5662187b901",
+      "revision": "f11359345a2475b434a8e1dd3cfa02f2bc9b7e21",
       "url": "https://github.com/winglang/wing"
    },
    "xcompose": {
