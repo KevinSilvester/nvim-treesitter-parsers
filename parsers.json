@@ -379,7 +379,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "e1cfe895a9984f09045f6a2462ade0ee131aa7a0",
+      "revision": "cb109f52e85da90893e4c65e51314dd56a3ee3d4",
       "url": "https://github.com/treeman/tree-sitter-djot"
    },
    "dockerfile": {
@@ -669,7 +669,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "523a1a4f0f674eff7fbf46addfa6ef7644151aae",
+      "revision": "a427a79653b6829aa5b663b5b9a6b39e954858b7",
       "url": "https://github.com/gbprod/tree-sitter-gitcommit"
    },
    "gitignore": {
@@ -726,7 +726,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "7549f6faf5cc9fb8cf78054a7af356a6b003c6f3",
+      "revision": "3c895f5d9c0b3a3c7e02383766b462c21913c000",
       "url": "https://github.com/dpezto/tree-sitter-gnuplot"
    },
    "go": {
@@ -1100,7 +1100,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "442538ab5ae0913b05e0269a988b4d452dfa5361",
+      "revision": "6c2f018ab1d90946c0ce029bb2f7d57f56895dff",
       "url": "https://github.com/IndianBoy42/tree-sitter-just"
    },
    "kconfig": {
@@ -1159,7 +1159,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "841f89ffbba9650529a40fb867f3456bf92bf9b1",
+      "revision": "6d764f17f4d28c9db736009fb0e10ffe04866661",
       "url": "https://github.com/latex-lsp/tree-sitter-latex"
    },
    "ledger": {
@@ -1192,11 +1192,11 @@
    "liquidsoap": {
       "files": [
          "src/parser.c",
-         "src/scanner.cc"
+         "src/scanner.c"
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "fb062bfc7ca09a741820debb7cb8a75a557b30f9",
+      "revision": "09a9e31e2af734a8974dad6ed349648f601eee8c",
       "url": "https://github.com/savonet/tree-sitter-liquidsoap"
    },
    "llvm": {
@@ -1529,7 +1529,7 @@
       ],
       "generate_from_grammar": false,
       "location": "php",
-      "revision": "b1eb65e04cf31a5df611fea139ad54d611599dc4",
+      "revision": "29838ad107f50b1f5f51a0beefa9c9d834fce2b3",
       "url": "https://github.com/tree-sitter/tree-sitter-php"
    },
    "php_only": {
@@ -1539,7 +1539,7 @@
       ],
       "generate_from_grammar": false,
       "location": "php_only",
-      "revision": "b1eb65e04cf31a5df611fea139ad54d611599dc4",
+      "revision": "29838ad107f50b1f5f51a0beefa9c9d834fce2b3",
       "url": "https://github.com/tree-sitter/tree-sitter-php"
    },
    "phpdoc": {
@@ -2383,7 +2383,7 @@
       ],
       "generate_from_grammar": false,
       "location": "tree_sitter_v",
-      "revision": "3439620ad96aa540f8dc454a332bc2d59314178f",
+      "revision": "a50fc40276aded4b422bdf9f092aa7c8db6c33d3",
       "url": "https://github.com/vlang/v-analyzer"
    },
    "vala": {
