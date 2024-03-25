@@ -1,5 +1,28 @@
 [
    {
+      "tag": "v5e4f959",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v5e4f959/parsers.min.json",
+      "date": "2024-03-25 00:52:42 UTC",
+      "changes": {
+         "added": [],
+         "removed": [],
+         "updated": [
+            "d",
+            "djot",
+            "hurl",
+            "java",
+            "markdown",
+            "markdown_inline",
+            "ocaml",
+            "ocaml_interface",
+            "swift",
+            "t32",
+            "v",
+            "vimdoc"
+         ]
+      }
+   },
+   {
       "tag": "v8532b1d",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v8532b1d/parsers.min.json",
       "date": "2024-03-24 00:56:08 UTC",
