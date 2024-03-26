@@ -44,7 +44,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "94219a5ac207a0fadd680b285378d08669d5bbc8",
+      "revision": "e3d0dea39dbb8032e754bafe5aec3ed5a234d986",
       "url": "https://github.com/ObserverOfTime/tree-sitter-arduino"
    },
    "asm": {
@@ -379,7 +379,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "4dd87f88df82c3a77bab3929ec0b37d11e2721b7",
+      "revision": "d5d4a8409688a6ebb545cee3203e1449bc0c5856",
       "url": "https://github.com/treeman/tree-sitter-djot"
    },
    "dockerfile": {
@@ -846,7 +846,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "6b5ec205c9d4f23eb36a163f1edc4f2db8c98e4a",
+      "revision": "95a4f0023741b3bee0cc500f3dab9c5bab2dc2be",
       "url": "https://github.com/tree-sitter/tree-sitter-haskell"
    },
    "haskell_persistent": {
@@ -1328,7 +1328,7 @@
       ],
       "generate_from_grammar": true,
       "location": null,
-      "revision": "3da76a44a6a5db05aef03966a2045c7c73571d77",
+      "revision": "d9a79cf19da13812e1a4fe1f816b68750ac65cb3",
       "url": "https://github.com/artagnon/tree-sitter-mlir"
    },
    "muttrc": {
@@ -1404,7 +1404,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "014073fe8016d1ac440c51d22c77e3765d8f6855",
+      "revision": "9766442985fd546e2d33f8d1c7e7619ed07860cf",
       "url": "https://github.com/nvim-neorg/tree-sitter-norg"
    },
    "nqc": {
@@ -1955,8 +1955,8 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "72e334b2630f5852825ba5ff9dfd872447175eb5",
-      "url": "https://git.sr.ht/~yotam/tree-sitter-smali"
+      "revision": "5ae51e15c4d1ac93cba6127caf3d1f0a072c140c",
+      "url": "https://github.com/tree-sitter-grammars/tree-sitter-smali"
    },
    "smithy": {
       "files": [
@@ -2383,7 +2383,7 @@
       ],
       "generate_from_grammar": false,
       "location": "tree_sitter_v",
-      "revision": "b21db154e8be920277c494b1cb81367d4da40a98",
+      "revision": "e1f14c4b92f571bb1063ca5260c9172256844540",
       "url": "https://github.com/vlang/v-analyzer"
    },
    "vala": {
@@ -2479,7 +2479,7 @@
       ],
       "generate_from_grammar": true,
       "location": "libs/tree-sitter-wing",
-      "revision": "f11359345a2475b434a8e1dd3cfa02f2bc9b7e21",
+      "revision": "ea40325cea1af68d3433fd5d08e43d2a18b87851",
       "url": "https://github.com/winglang/wing"
    },
    "xcompose": {

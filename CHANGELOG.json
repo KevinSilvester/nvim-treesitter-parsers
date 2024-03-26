@@ -1,5 +1,24 @@
 [
    {
+      "tag": "vaa31b8d",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/vaa31b8d/parsers.min.json",
+      "date": "2024-03-26 00:51:07 UTC",
+      "changes": {
+         "added": [],
+         "removed": [],
+         "updated": [
+            "arduino",
+            "djot",
+            "haskell",
+            "mlir",
+            "norg",
+            "smali",
+            "v",
+            "wing"
+         ]
+      }
+   },
+   {
       "tag": "v5e4f959",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v5e4f959/parsers.min.json",
       "date": "2024-03-25 00:52:42 UTC",
