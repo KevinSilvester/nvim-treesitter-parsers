@@ -379,7 +379,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "d5d4a8409688a6ebb545cee3203e1449bc0c5856",
+      "revision": "c4a269d55b02a8d9afccc3445b9ccbed65d4cf27",
       "url": "https://github.com/treeman/tree-sitter-djot"
    },
    "dockerfile": {
@@ -417,7 +417,7 @@
       ],
       "generate_from_grammar": false,
       "location": "dtd",
-      "revision": "ab85469fedbf4f32da9310dd76dcedba059fc482",
+      "revision": "24b662eb61e369757d13c4b5f0624284dc3fe7e8",
       "url": "https://github.com/tree-sitter-grammars/tree-sitter-xml"
    },
    "ebnf": {
@@ -977,7 +977,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "27af9b74acf89fa6bed4fb8cb8631994fcb2e6f3",
+      "revision": "e5da7d0aa44403153e0394d87d9edea4e5bd6609",
       "url": "https://github.com/luckasRanarison/tree-sitter-hyprlang"
    },
    "ini": {
@@ -1519,7 +1519,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "fd7b2fe5b967d5eee8ce17938052886e2d5987ed",
+      "revision": "96a17c4c2dd345dc61f330d040684538d634bbc2",
       "url": "https://github.com/tree-sitter-perl/tree-sitter-perl"
    },
    "php": {
@@ -2233,7 +2233,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "7455f17038d551ecd2b082c39e4a63bcb403e158",
+      "revision": "b2ffee62569b78719de352178f5332ecab5dac90",
       "url": "https://github.com/tlaplus-community/tree-sitter-tlaplus"
    },
    "tmux": {
@@ -2383,7 +2383,7 @@
       ],
       "generate_from_grammar": false,
       "location": "tree_sitter_v",
-      "revision": "e1f14c4b92f571bb1063ca5260c9172256844540",
+      "revision": "3165e0487fea1b7727089a7d2ac5b96fc7c48956",
       "url": "https://github.com/vlang/v-analyzer"
    },
    "vala": {
@@ -2479,7 +2479,7 @@
       ],
       "generate_from_grammar": true,
       "location": "libs/tree-sitter-wing",
-      "revision": "ea40325cea1af68d3433fd5d08e43d2a18b87851",
+      "revision": "388ca5520d336bdf5e117824d27379ad11569e54",
       "url": "https://github.com/winglang/wing"
    },
    "xcompose": {
@@ -2498,7 +2498,7 @@
       ],
       "generate_from_grammar": false,
       "location": "xml",
-      "revision": "ab85469fedbf4f32da9310dd76dcedba059fc482",
+      "revision": "24b662eb61e369757d13c4b5f0624284dc3fe7e8",
       "url": "https://github.com/tree-sitter-grammars/tree-sitter-xml"
    },
    "yaml": {
