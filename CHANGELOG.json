@@ -1,5 +1,21 @@
 [
    {
+      "tag": "v23ba630",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v23ba630/parsers.min.json",
+      "date": "2024-03-29 00:51:33 UTC",
+      "changes": {
+         "added": [],
+         "removed": [],
+         "updated": [
+            "elixir",
+            "groovy",
+            "tmux",
+            "wing",
+            "yaml"
+         ]
+      }
+   },
+   {
       "tag": "v07a4045",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v07a4045/parsers.min.json",
       "date": "2024-03-28 00:51:30 UTC",

@@ -454,7 +454,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "511ea5e0088779e4bdd76e12963ab9a5fe99983a",
+      "revision": "868620e19f070a5e6b0b685dc6069a611a86259a",
       "url": "https://github.com/elixir-lang/tree-sitter-elixir"
    },
    "elm": {
@@ -808,7 +808,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "3c25d1ce6c1eb9da34215060372792dc9f439b0c",
+      "revision": "b398a5a243c67f0b4d54728c983fa586bd5cd52e",
       "url": "https://github.com/murtaza64/tree-sitter-groovy"
    },
    "gstlaunch": {
@@ -2242,7 +2242,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "7cb35fc925cad06992e57672a027d4971ee935a7",
+      "revision": "7499587642a46ee156e1bb58851904ac750dcc7c",
       "url": "https://github.com/Freed-Wu/tree-sitter-tmux"
    },
    "todotxt": {
@@ -2479,7 +2479,7 @@
       ],
       "generate_from_grammar": true,
       "location": "libs/tree-sitter-wing",
-      "revision": "9473b8d7547b3075cc9c68a086155f643a1d7b45",
+      "revision": "35b8e3a4f320355eaa60da7b035b487b90aa47a8",
       "url": "https://github.com/winglang/wing"
    },
    "xcompose": {
@@ -2508,7 +2508,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "9e59b9bbf839ba231fbcb953617d8b9b9a059e38",
+      "revision": "10c6c7a69dde767ad229e1510e0c1c7aacd8c83a",
       "url": "https://github.com/tree-sitter-grammars/tree-sitter-yaml"
    },
    "yang": {
