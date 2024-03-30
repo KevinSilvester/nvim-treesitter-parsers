@@ -1,5 +1,21 @@
 [
    {
+      "tag": "vc65413f",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/vc65413f/parsers.min.json",
+      "date": "2024-03-30 00:49:39 UTC",
+      "changes": {
+         "added": [
+            "liquid"
+         ],
+         "removed": [],
+         "updated": [
+            "mlir",
+            "v",
+            "wing"
+         ]
+      }
+   },
+   {
       "tag": "v23ba630",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v23ba630/parsers.min.json",
       "date": "2024-03-29 00:51:33 UTC",
