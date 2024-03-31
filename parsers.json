@@ -111,7 +111,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "6c665e7cf15d76a1687959643868a78fb381458d",
+      "revision": "c25f8034c977681653a8acd541c8b4877a58f474",
       "url": "https://github.com/polarmutex/tree-sitter-beancount"
    },
    "bibtex": {
@@ -1196,7 +1196,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "06a18b68eaa5665c6eeef30e355878835e473d15",
+      "revision": "293369818da219d97327908aab33707b04b63fd9",
       "url": "https://github.com/hankthetank27/tree-sitter-liquid"
    },
    "liquidsoap": {
@@ -1452,7 +1452,7 @@
       ],
       "generate_from_grammar": false,
       "location": "grammars/ocaml",
-      "revision": "f7e63111ed1bc1908eacafe6af1ee8d01bfcf7ae",
+      "revision": "0b12614ded3ec7ed7ab7933a9ba4f695ba4c342e",
       "url": "https://github.com/tree-sitter/tree-sitter-ocaml"
    },
    "ocaml_interface": {
@@ -1462,7 +1462,7 @@
       ],
       "generate_from_grammar": false,
       "location": "grammars/interface",
-      "revision": "f7e63111ed1bc1908eacafe6af1ee8d01bfcf7ae",
+      "revision": "0b12614ded3ec7ed7ab7933a9ba4f695ba4c342e",
       "url": "https://github.com/tree-sitter/tree-sitter-ocaml"
    },
    "ocamllex": {
@@ -2393,7 +2393,7 @@
       ],
       "generate_from_grammar": false,
       "location": "tree_sitter_v",
-      "revision": "fdf58fdf2c4feb6d056128a58b7f4a7996fb922c",
+      "revision": "0077997267edee446315b69acac7464e5f8e52ae",
       "url": "https://github.com/vlang/v-analyzer"
    },
    "vala": {
@@ -2412,7 +2412,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "c1eb14b130c37267be7c6bb38ce949c3077dd4b3",
+      "revision": "3321077d7446c1b3b017c294fd56ce028ed817fe",
       "url": "https://github.com/ventojs/tree-sitter-vento"
    },
    "verilog": {
@@ -2489,7 +2489,7 @@
       ],
       "generate_from_grammar": true,
       "location": "libs/tree-sitter-wing",
-      "revision": "4e7b0d296eb259b985766fe35da60e8aaec8daa1",
+      "revision": "4c03dd8eebbbaf350a61e3c2227bc8a5d9dbdb3f",
       "url": "https://github.com/winglang/wing"
    },
    "xcompose": {

@@ -1,5 +1,23 @@
 [
    {
+      "tag": "v6e0b031",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v6e0b031/parsers.min.json",
+      "date": "2024-03-31 00:56:16 UTC",
+      "changes": {
+         "added": [],
+         "removed": [],
+         "updated": [
+            "beancount",
+            "liquid",
+            "ocaml",
+            "ocaml_interface",
+            "v",
+            "vento",
+            "wing"
+         ]
+      }
+   },
+   {
       "tag": "vc65413f",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/vc65413f/parsers.min.json",
       "date": "2024-03-30 00:49:39 UTC",
