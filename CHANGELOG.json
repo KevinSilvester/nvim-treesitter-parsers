@@ -1,5 +1,19 @@
 [
    {
+      "tag": "v1d1d92e",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v1d1d92e/parsers.min.json",
+      "date": "2024-04-01 00:56:33 UTC",
+      "changes": {
+         "added": [],
+         "removed": [],
+         "updated": [
+            "djot",
+            "snakemake",
+            "v"
+         ]
+      }
+   },
+   {
       "tag": "v6e0b031",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v6e0b031/parsers.min.json",
       "date": "2024-03-31 00:56:16 UTC",

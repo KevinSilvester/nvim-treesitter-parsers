@@ -379,7 +379,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "b8ff9a0a07c1d53bae27875958b6be14f7593736",
+      "revision": "63f176e7db5fca073b55b98b7e5e95afd1587fcb",
       "url": "https://github.com/treeman/tree-sitter-djot"
    },
    "dockerfile": {
@@ -1984,7 +1984,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "65a6c3b4671877821082164da0a310851b211953",
+      "revision": "ba1b3868eaa960b945593404af9a7c2f296d3643",
       "url": "https://github.com/osthomas/tree-sitter-snakemake"
    },
    "solidity": {
@@ -2393,7 +2393,7 @@
       ],
       "generate_from_grammar": false,
       "location": "tree_sitter_v",
-      "revision": "0077997267edee446315b69acac7464e5f8e52ae",
+      "revision": "bb6ca96b1b205fd2f2504fb7d0e19cf0e4888cd6",
       "url": "https://github.com/vlang/v-analyzer"
    },
    "vala": {
