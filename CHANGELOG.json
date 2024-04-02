@@ -1,5 +1,25 @@
 [
    {
+      "tag": "vd31eb54",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/vd31eb54/parsers.min.json",
+      "date": "2024-04-02 00:53:56 UTC",
+      "changes": {
+         "added": [
+            "roc"
+         ],
+         "removed": [],
+         "updated": [
+            "cuda",
+            "gdscript",
+            "hlsl",
+            "latex",
+            "rst",
+            "swift",
+            "v"
+         ]
+      }
+   },
+   {
       "tag": "v1d1d92e",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v1d1d92e/parsers.min.json",
       "date": "2024-04-01 00:56:33 UTC",
