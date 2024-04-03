@@ -1,5 +1,25 @@
 [
    {
+      "tag": "v54cf918",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v54cf918/parsers.min.json",
+      "date": "2024-04-03 00:50:56 UTC",
+      "changes": {
+         "added": [],
+         "removed": [],
+         "updated": [
+            "commonlisp",
+            "dart",
+            "glsl",
+            "godot_resource",
+            "roc",
+            "slang",
+            "v",
+            "wgsl_bevy",
+            "wing"
+         ]
+      }
+   },
+   {
       "tag": "vd31eb54",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/vd31eb54/parsers.min.json",
       "date": "2024-04-02 00:53:56 UTC",
