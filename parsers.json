@@ -158,7 +158,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "72084f447c2051e01a7cd6c6e0477ec71a9297ed",
+      "revision": "ff7f769c2d7aa3f954ce4ae98311e09f6e863c9c",
       "url": "https://github.com/tree-sitter/tree-sitter-c"
    },
    "c_sharp": {
@@ -272,7 +272,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "e0c1678a78731e78655b7d953efb4daecf58be46",
+      "revision": "d0b4e006ca3c4466f834d9a4bf709bfede13d359",
       "url": "https://github.com/tree-sitter/tree-sitter-cpp"
    },
    "css": {
@@ -1159,7 +1159,7 @@
       ],
       "generate_from_grammar": true,
       "location": null,
-      "revision": "eb552c7022cbd1379138bdc1b2fe464a99d25640",
+      "revision": "ae2134af67f6c5e45587ace9ec748dd6e7b356a2",
       "url": "https://github.com/latex-lsp/tree-sitter-latex"
    },
    "ledger": {
@@ -1908,7 +1908,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "3a56481f8d13b6874a28752502a58520b9139dc7",
+      "revision": "b0cd98e1c60cb55dc358c6b6781346886b980e86",
       "url": "https://github.com/tree-sitter/tree-sitter-rust"
    },
    "scala": {
@@ -2499,7 +2499,7 @@
       ],
       "generate_from_grammar": true,
       "location": "libs/tree-sitter-wing",
-      "revision": "8a88d30ea4f4ace694c18b0c54a8c38e5fa8351c",
+      "revision": "33211e61248d933f5c81d2d111931ce34eb319be",
       "url": "https://github.com/winglang/wing"
    },
    "xcompose": {

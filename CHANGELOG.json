@@ -1,5 +1,21 @@
 [
    {
+      "tag": "ve6cd337",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/ve6cd337/parsers.min.json",
+      "date": "2024-04-06 00:50:28 UTC",
+      "changes": {
+         "added": [],
+         "removed": [],
+         "updated": [
+            "c",
+            "cpp",
+            "latex",
+            "rust",
+            "wing"
+         ]
+      }
+   },
+   {
       "tag": "v1b05020",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v1b05020/parsers.min.json",
       "date": "2024-04-05 00:52:00 UTC",
