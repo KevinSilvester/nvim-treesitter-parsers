@@ -158,7 +158,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "ff7f769c2d7aa3f954ce4ae98311e09f6e863c9c",
+      "revision": "5c3ab3a9ef85124cb0493427c1334ca85b7c2e8e",
       "url": "https://github.com/tree-sitter/tree-sitter-c"
    },
    "c_sharp": {
@@ -301,7 +301,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "4ec5afdf98041d137c25b555958a1f825c7c1272",
+      "revision": "f6e9ef75aa332567252dd8ba097c98a3752cb35e",
       "url": "https://github.com/theHamsta/tree-sitter-cuda"
    },
    "cue": {
@@ -707,7 +707,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "f7040966a97c6c5a644a230df7fe74623f963d2f",
+      "revision": "2656718ba951014f3b5bd850ac36b460bac91331",
       "url": "https://github.com/theHamsta/tree-sitter-glsl"
    },
    "gn": {
@@ -903,7 +903,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "ef428a36b2faa20450ee979a618f802228b38318",
+      "revision": "bd414eace891a649e7ce03a9e24adbd5d0a66b51",
       "url": "https://github.com/theHamsta/tree-sitter-hlsl"
    },
    "hlsplaylist": {
@@ -1024,7 +1024,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "de1e682289a417354df5b4437a3e4f92e0722a0f",
+      "revision": "d9b3a5841bd8f05e15db0748848ef3f5af5b5b44",
       "url": "https://github.com/tree-sitter/tree-sitter-javascript"
    },
    "jq": {
@@ -1719,7 +1719,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "b8a4c64121ba66b460cb878e934e3157ecbfb124",
+      "revision": "a22761025cdac6c314b7e3aa48fb44fa9e594d6a",
       "url": "https://github.com/tree-sitter/tree-sitter-python"
    },
    "ql": {
@@ -1908,7 +1908,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "b0cd98e1c60cb55dc358c6b6781346886b980e86",
+      "revision": "927a1b57c12c70dc5906bcebd58ffa354c3ce62b",
       "url": "https://github.com/tree-sitter/tree-sitter-rust"
    },
    "scala": {
@@ -1956,7 +1956,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "13fdd899bfa62527cc39887abd74ec24cd626dec",
+      "revision": "0968d2c6e0f395dfec48232e586f7d04ddc11c83",
       "url": "https://github.com/theHamsta/tree-sitter-slang"
    },
    "slint": {
@@ -2253,7 +2253,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "c10ad7e82aa4d77fcb5c4aaec193c9f2dfd3afcb",
+      "revision": "0545ebd097338f1a119c2cb61eb3600409fce715",
       "url": "https://github.com/tlaplus-community/tree-sitter-tlaplus"
    },
    "tmux": {
@@ -2347,7 +2347,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "f457c77edffd4b93190794355ff5acf7acfb99c6",
+      "revision": "1ad9724e4e4ea5ab81192e843e74cf664eacc59b",
       "url": "https://github.com/uben0/tree-sitter-typst"
    },
    "udev": {
@@ -2403,7 +2403,7 @@
       ],
       "generate_from_grammar": false,
       "location": "tree_sitter_v",
-      "revision": "12f5f6a073f9c48fd8733f3102fe4162dcf1c514",
+      "revision": "c9049436e16bd4182d4a1593e6163652f748e59b",
       "url": "https://github.com/vlang/v-analyzer"
    },
    "vala": {
@@ -2499,7 +2499,7 @@
       ],
       "generate_from_grammar": true,
       "location": "libs/tree-sitter-wing",
-      "revision": "33211e61248d933f5c81d2d111931ce34eb319be",
+      "revision": "1bfc04707486cf19476ce046960810b553659a1a",
       "url": "https://github.com/winglang/wing"
    },
    "xcompose": {
