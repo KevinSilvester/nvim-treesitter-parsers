@@ -57,5 +57,8 @@ jobs:
         if: steps.parsers.outputs.CHANGED == 'true'
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "[CI: UPDATE PARSERS]"
           tagging_message: "${{ steps.parsers.outputs.RELEASE_TAG }}"
+          commit_message: "[CI: UPDATE PARSERS]"
+          commit_user_name: "github-actions[bot]"
+          commit_user_email: "github-actions[bot]@users.noreply.github.com"
+          commit_author: "github-actions[bot] <github-actions[bot]@users.noreply.github.com>"
