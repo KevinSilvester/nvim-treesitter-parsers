@@ -55,15 +55,13 @@ local changes = {
 
 -- set parsers table
 for lang, parser_info in pairs(require("nvim-treesitter.parsers").list) do
-	local p = {
+	new_parsers[lang] = {
 		url = parser_info.install_info.url,
 		files = parser_info.install_info.files,
 		location = parser_info.install_info.location or vim.NIL,
 		generate_from_grammar = parser_info.install_info.requires_generate_from_grammar or false,
 		revision = lockfile[lang].revision,
 	}
-
-	new_parsers[lang] = p
 end
 
 local new_langs = tbl_sort(vim.tbl_keys(new_parsers))
