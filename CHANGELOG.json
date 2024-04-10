@@ -1,5 +1,28 @@
 [
    {
+      "tag": "vc16f66c",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/vc16f66c/parsers.min.json",
+      "date": "2024-04-10 00:51:35 UTC",
+      "changes": {
+         "added": [],
+         "removed": [],
+         "updated": [
+            "arduino",
+            "c_sharp",
+            "dart",
+            "elixir",
+            "glsl",
+            "java",
+            "json",
+            "mlir",
+            "rust",
+            "swift",
+            "v",
+            "wing"
+         ]
+      }
+   },
+   {
       "tag": "v11a3584",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v11a3584/parsers.min.json",
       "date": "2024-04-08 00:53:00 UTC",
