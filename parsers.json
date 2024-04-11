@@ -44,7 +44,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "e3d0dea39dbb8032e754bafe5aec3ed5a234d986",
+      "revision": "0dc863c1bba5413284d73372c103476a014e4c4b",
       "url": "https://github.com/ObserverOfTime/tree-sitter-arduino"
    },
    "asm": {
@@ -53,7 +53,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "62e49328113ff318128c640bf0cf6dd3d3d51553",
+      "revision": "afdc3d5da18d42cbb471c0f40527dbed9cace7ad",
       "url": "https://github.com/RubixDev/tree-sitter-asm"
    },
    "astro": {
@@ -168,7 +168,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "92c0a9431400cd8b6b6ee7503f81da3ae83fc830",
+      "revision": "9de565257ada70ac441c640e3b5d6850e2df5ab8",
       "url": "https://github.com/tree-sitter/tree-sitter-c-sharp"
    },
    "cairo": {
@@ -331,7 +331,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "923fbe0d3e62340ea78422551166ce946bc05222",
+      "revision": "6da46473ab8accb13da48113f4634e729a71d335",
       "url": "https://github.com/UserNobody14/tree-sitter-dart"
    },
    "devicetree": {
@@ -454,7 +454,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "868620e19f070a5e6b0b685dc6069a611a86259a",
+      "revision": "de690fa8a028f122af46d9d2685679fe5f2d7d60",
       "url": "https://github.com/elixir-lang/tree-sitter-elixir"
    },
    "elm": {
@@ -707,7 +707,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "4d01f7bed6fb7abab795656db11785864e167737",
+      "revision": "31064ce53385150f894a6c72d61b94076adf640a",
       "url": "https://github.com/theHamsta/tree-sitter-glsl"
    },
    "gn": {
@@ -735,7 +735,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "fd577c4358c28cbcb6748bbf65354cc85f1cf7a4",
+      "revision": "eb68645662a3f7bf7fdd4bcb9531585f54c8570e",
       "url": "https://github.com/tree-sitter/tree-sitter-go"
    },
    "godot_resource": {
@@ -1014,7 +1014,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "2aae502017d3aed587ba85e3c7e0cbc138f3e07a",
+      "revision": "953abfc8bb3eb2f578e1f461edba4a9885f974b8",
       "url": "https://github.com/tree-sitter/tree-sitter-java"
    },
    "javascript": {
@@ -1052,7 +1052,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "3b129203f4b72d532f58e72c5310c0a7db3b8e6d",
+      "revision": "80e623c2165887f9829357acfa9c0a0bab34a3cd",
       "url": "https://github.com/tree-sitter/tree-sitter-json"
    },
    "json5": {
@@ -1338,7 +1338,7 @@
       ],
       "generate_from_grammar": true,
       "location": null,
-      "revision": "a89a5f2bbcf7e82e46b106138977c99d6a644db2",
+      "revision": "c2845c1c0b23e2faf6febfa72a042e5346374ebf",
       "url": "https://github.com/artagnon/tree-sitter-mlir"
    },
    "muttrc": {
@@ -1482,7 +1482,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "f94c590ed5263e11f1e492d1b53356f8c8459b66",
+      "revision": "b5f668ef8918aab13812ce73acd89fe191fb8c5e",
       "url": "https://github.com/amaanq/tree-sitter-odin"
    },
    "org": {
@@ -1908,7 +1908,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "886e8df3c6ac02723c05fc431a61eb8c27dc118d",
+      "revision": "b77c0d8ac28a7c143224e6ed9b4f9e4bd044ff5b",
       "url": "https://github.com/tree-sitter/tree-sitter-rust"
    },
    "scala": {
@@ -2003,7 +2003,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "a8ed2f5d600fed77f8ed3084d1479998c649bca1",
+      "revision": "08338dcee32603383fcef08f36321900bb7a354b",
       "url": "https://github.com/JoranHonig/tree-sitter-solidity"
    },
    "soql": {
@@ -2098,7 +2098,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "5e52758b32e02adca16bb93f95b3f9c050c72b56",
+      "revision": "c68a4572e2d6403b6e99066c9a113b43f4a07a27",
       "url": "https://github.com/mskelton/tree-sitter-styled"
    },
    "supercollider": {
@@ -2137,7 +2137,7 @@
       ],
       "generate_from_grammar": true,
       "location": null,
-      "revision": "67ea4e9ea7302b731d392cd8b1aad7b8e79a5547",
+      "revision": "e15e9676d5fa35848cb6021c105702b2fd86bc54",
       "url": "https://github.com/alex-pinkus/tree-sitter-swift"
    },
    "sxhkdrc": {
@@ -2205,7 +2205,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "044ad200092170727650fa6d368df66a8da98f9d",
+      "revision": "65fae2cb1d92c746d06d38df37f5ec148e2269b1",
       "url": "https://github.com/vrischmann/tree-sitter-templ"
    },
    "terraform": {
@@ -2347,7 +2347,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "1ad9724e4e4ea5ab81192e843e74cf664eacc59b",
+      "revision": "13863ddcbaa7b68ee6221cea2e3143415e64aea4",
       "url": "https://github.com/uben0/tree-sitter-typst"
    },
    "udev": {
@@ -2403,7 +2403,7 @@
       ],
       "generate_from_grammar": false,
       "location": "tree_sitter_v",
-      "revision": "395d22e718b6211d05b72fe10bfb371cb7a7aff3",
+      "revision": "42798b5108fbc9aed968adfc7407f22a68174ad7",
       "url": "https://github.com/vlang/v-analyzer"
    },
    "vala": {
@@ -2499,7 +2499,7 @@
       ],
       "generate_from_grammar": true,
       "location": "libs/tree-sitter-wing",
-      "revision": "1bfc04707486cf19476ce046960810b553659a1a",
+      "revision": "6bd05c6672da132d9a330b708197f2965a3f1e89",
       "url": "https://github.com/winglang/wing"
    },
    "xcompose": {
@@ -2528,7 +2528,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "c9ee63b15c92656a89f7007f38a98f21c3eca81d",
+      "revision": "3975596d84650e8d8ab8ef3128b1b7f0fec324f8",
       "url": "https://github.com/tree-sitter-grammars/tree-sitter-yaml"
    },
    "yang": {
