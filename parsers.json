@@ -420,6 +420,16 @@
       "revision": "2282ad5cb8e815523e70d5c82404620bd9a1494c",
       "url": "https://github.com/tree-sitter-grammars/tree-sitter-xml"
    },
+   "earthfile": {
+      "files": [
+         "src/parser.c",
+         "src/scanner.c"
+      ],
+      "generate_from_grammar": false,
+      "location": null,
+      "revision": "2a6ab191f5f962562e495a818aa4e7f45f8a556a",
+      "url": "https://github.com/glehmann/tree-sitter-earthfile"
+   },
    "ebnf": {
       "files": [
          "src/parser.c"
@@ -2127,7 +2137,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "6909efa7179cd655f9b48123357d65ce8fc661fd",
+      "revision": "2c97326cd96b7c3016c3d249e8dc244c89b4abeb",
       "url": "https://github.com/tree-sitter-grammars/tree-sitter-svelte"
    },
    "swift": {
@@ -2403,7 +2413,7 @@
       ],
       "generate_from_grammar": false,
       "location": "tree_sitter_v",
-      "revision": "42798b5108fbc9aed968adfc7407f22a68174ad7",
+      "revision": "9ba1aa8c46e11f2239ab6fac3c61522362b05c9f",
       "url": "https://github.com/vlang/v-analyzer"
    },
    "vala": {
@@ -2499,7 +2509,7 @@
       ],
       "generate_from_grammar": true,
       "location": "libs/tree-sitter-wing",
-      "revision": "6bd05c6672da132d9a330b708197f2965a3f1e89",
+      "revision": "a9cacfc7b877267aa006b3d436feae253f54ed29",
       "url": "https://github.com/winglang/wing"
    },
    "xcompose": {

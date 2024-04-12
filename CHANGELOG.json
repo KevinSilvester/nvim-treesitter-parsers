@@ -1,5 +1,21 @@
 [
    {
+      "tag": "vb0ac113",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/vb0ac113/parsers.min.json",
+      "date": "2024-04-12 00:52:32 UTC",
+      "changes": {
+         "added": [
+            "earthfile"
+         ],
+         "removed": [],
+         "updated": [
+            "svelte",
+            "v",
+            "wing"
+         ]
+      }
+   },
+   {
       "tag": "v2bad828",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2bad828/parsers.min.json",
       "date": "2024-04-11 00:52:22 UTC",
