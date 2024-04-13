@@ -1,5 +1,27 @@
 [
    {
+      "tag": "vef267f0",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/vef267f0/parsers.min.json",
+      "date": "2024-04-13 00:42:44 UTC",
+      "changes": {
+         "added": [],
+         "removed": [],
+         "updated": [
+            "bash",
+            "cpp",
+            "earthfile",
+            "mermaid",
+            "muttrc",
+            "pascal",
+            "racket",
+            "scheme",
+            "tcl",
+            "v",
+            "wing"
+         ]
+      }
+   },
+   {
       "tag": "vb0ac113",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/vb0ac113/parsers.min.json",
       "date": "2024-04-12 00:52:32 UTC",
