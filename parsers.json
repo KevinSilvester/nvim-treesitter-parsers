@@ -2013,7 +2013,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "08338dcee32603383fcef08f36321900bb7a354b",
+      "revision": "1653da09ccd183f4312fba819056a13af22a65f6",
       "url": "https://github.com/JoranHonig/tree-sitter-solidity"
    },
    "soql": {

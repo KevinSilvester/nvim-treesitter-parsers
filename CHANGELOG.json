@@ -1,5 +1,17 @@
 [
    {
+      "tag": "vf08a9d9",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/vf08a9d9/parsers.min.json",
+      "date": "2024-04-14 01:10:40 UTC",
+      "changes": {
+         "added": [],
+         "removed": [],
+         "updated": [
+            "solidity"
+         ]
+      }
+   },
+   {
       "tag": "vef267f0",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/vef267f0/parsers.min.json",
       "date": "2024-04-13 00:42:44 UTC",
