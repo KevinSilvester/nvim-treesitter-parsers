@@ -1,5 +1,28 @@
 [
    {
+      "tag": "v2a95ff1",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2a95ff1/parsers.min.json",
+      "date": "2024-04-16 00:51:46 UTC",
+      "changes": {
+         "added": [
+            "wit"
+         ],
+         "removed": [],
+         "updated": [
+            "cpp",
+            "cuda",
+            "glsl",
+            "hlsl",
+            "http",
+            "julia",
+            "norg",
+            "slang",
+            "unison",
+            "v"
+         ]
+      }
+   },
+   {
       "tag": "v40e8c92",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v40e8c92/parsers.min.json",
       "date": "2024-04-15 03:15:26 UTC",
