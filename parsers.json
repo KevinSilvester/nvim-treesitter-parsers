@@ -427,7 +427,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "fda374bd4e908b3a34be097b94857e08c22b1ec3",
+      "revision": "a079e6c472eeedd6b9a1e03ca0b6c82cd6a112a4",
       "url": "https://github.com/glehmann/tree-sitter-earthfile"
    },
    "ebnf": {
@@ -818,7 +818,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "b398a5a243c67f0b4d54728c983fa586bd5cd52e",
+      "revision": "6c5c8813233fe326e24c5ef032858d13f8006a8d",
       "url": "https://github.com/murtaza64/tree-sitter-groovy"
    },
    "gstlaunch": {
@@ -1100,7 +1100,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "0a80d33aca49dd257625ab25ef3a506e2b99a554",
+      "revision": "acd5ca12cc278df7960629c2429a096c7ac4bbea",
       "url": "https://github.com/tree-sitter/tree-sitter-julia"
    },
    "just": {
@@ -1424,7 +1424,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "ceb44e4cdb58fbeea52301835bdd461817ddb57e",
+      "revision": "dbe0bf559b379564bf63ffc139524fea0a983a95",
       "url": "https://github.com/nvim-neorg/tree-sitter-norg"
    },
    "nqc": {
@@ -1928,7 +1928,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "d3eb6b2382f3051cca164f4cc41cdb5bf0876e10",
+      "revision": "b76db435a7f876cf1ede837d66054c534783c72f",
       "url": "https://github.com/tree-sitter/tree-sitter-scala"
    },
    "scfg": {
@@ -1975,7 +1975,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "cce8df0a04e2db04ba7b5896a99139e4aac212a5",
+      "revision": "d5fbeaf0c26683f1417d00b6a5ab1cca445031f2",
       "url": "https://github.com/slint-ui/tree-sitter-slint"
    },
    "smali": {
@@ -2215,7 +2215,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "1f9dae9c273136551684cb41461d00e565150e23",
+      "revision": "ba859a973d3e9a901c425134f4477e083a305ed5",
       "url": "https://github.com/vrischmann/tree-sitter-templ"
    },
    "terraform": {
@@ -2413,7 +2413,7 @@
       ],
       "generate_from_grammar": false,
       "location": "tree_sitter_v",
-      "revision": "e8cbd4d61606186061967a80a30f2f3b5b1b5025",
+      "revision": "80b4a87c3b2f2ce572ce87cbe74dbb8de38ab8b1",
       "url": "https://github.com/vlang/v-analyzer"
    },
    "vala": {

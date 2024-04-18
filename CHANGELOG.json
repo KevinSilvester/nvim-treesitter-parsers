@@ -1,5 +1,24 @@
 [
    {
+      "tag": "v3e10cff",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v3e10cff/parsers.min.json",
+      "date": "2024-04-18 00:51:28 UTC",
+      "changes": {
+         "added": [],
+         "removed": [],
+         "updated": [
+            "earthfile",
+            "groovy",
+            "julia",
+            "norg",
+            "scala",
+            "slint",
+            "templ",
+            "v"
+         ]
+      }
+   },
+   {
       "tag": "v7099c9e",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v7099c9e/parsers.min.json",
       "date": "2024-04-17 00:52:38 UTC",
