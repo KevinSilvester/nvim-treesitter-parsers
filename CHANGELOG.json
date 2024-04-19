@@ -1,5 +1,25 @@
 [
    {
+      "tag": "v208d504",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v208d504/parsers.min.json",
+      "date": "2024-04-19 00:52:17 UTC",
+      "changes": {
+         "added": [],
+         "removed": [],
+         "updated": [
+            "earthfile",
+            "hlsplaylist",
+            "muttrc",
+            "nim",
+            "norg",
+            "tmux",
+            "unison",
+            "v",
+            "zathurarc"
+         ]
+      }
+   },
+   {
       "tag": "v3e10cff",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v3e10cff/parsers.min.json",
       "date": "2024-04-18 00:51:28 UTC",
