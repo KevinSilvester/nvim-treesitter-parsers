@@ -1,5 +1,40 @@
 [
    {
+      "tag": "v2024-04-20-ea4f6d5",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-04-20-ea4f6d5/parsers.min.json",
+      "date": "2024-04-20 23:09:46 UTC",
+      "changes": {
+         "added": [],
+         "removed": [],
+         "updated": [
+            "astro",
+            "bicep",
+            "capnp",
+            "cpon",
+            "dockerfile",
+            "earthfile",
+            "firrtl",
+            "hare",
+            "javascript",
+            "luau",
+            "norg",
+            "po",
+            "pony",
+            "puppet",
+            "ron",
+            "smali",
+            "squirrel",
+            "ssh_config",
+            "tablegen",
+            "templ",
+            "thrift",
+            "v",
+            "wing",
+            "yuck"
+         ]
+      }
+   },
+   {
       "tag": "vbc80862",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/vbc80862/parsers.min.json",
       "date": "2024-04-20 00:52:31 UTC",
