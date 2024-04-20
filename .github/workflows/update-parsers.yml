@@ -2,7 +2,7 @@ name: update parsers info
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 23 * * *"
   push:
     branches:
       - master
@@ -24,7 +24,7 @@ jobs:
         run: |
           # install nvim-treesitter
           git clone --depth=1 'https://github.com/nvim-treesitter/nvim-treesitter'
-          echo "RELEASE_TAG=v$(git --git-dir ./nvim-treesitter/.git rev-parse --short HEAD)" >> $GITHUB_OUTPUT
+          echo "RELEASE_TAG=v$(date -u +'%Y-%m-%d')-$(git --git-dir ./nvim-treesitter/.git rev-parse --short HEAD)" >> $GITHUB_OUTPUT
 
           # install neovim
           wget 'https://github.com/neovim/neovim/releases/download/stable/nvim-linux64.tar.gz'
