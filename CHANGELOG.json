@@ -1,5 +1,23 @@
 [
    {
+      "tag": "vbc80862",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/vbc80862/parsers.min.json",
+      "date": "2024-04-20 00:52:31 UTC",
+      "changes": {
+         "added": [],
+         "removed": [],
+         "updated": [
+            "earthfile",
+            "http",
+            "javascript",
+            "sql",
+            "tlaplus",
+            "unison",
+            "wit"
+         ]
+      }
+   },
+   {
       "tag": "v208d504",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v208d504/parsers.min.json",
       "date": "2024-04-19 00:52:17 UTC",
