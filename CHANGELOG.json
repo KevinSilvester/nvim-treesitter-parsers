@@ -1,5 +1,19 @@
 [
    {
+      "tag": "v2024-04-21-1e20226",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-04-21-1e20226/parsers.min.json",
+      "date": "2024-04-21 23:10:51 UTC",
+      "changes": {
+         "added": [],
+         "removed": [],
+         "updated": [
+            "astro",
+            "djot",
+            "earthfile"
+         ]
+      }
+   },
+   {
       "tag": "v2024-04-20-ea4f6d5",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-04-20-ea4f6d5/parsers.min.json",
       "date": "2024-04-20 23:09:46 UTC",
