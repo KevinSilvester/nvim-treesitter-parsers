@@ -1,5 +1,30 @@
 [
    {
+      "tag": "v2024-04-22-c1d1b40",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-04-22-c1d1b40/parsers.min.json",
+      "date": "2024-04-22 23:10:32 UTC",
+      "changes": {
+         "added": [],
+         "removed": [],
+         "updated": [
+            "arduino",
+            "djot",
+            "fennel",
+            "hlsplaylist",
+            "muttrc",
+            "readline",
+            "swift",
+            "templ",
+            "tlaplus",
+            "tmux",
+            "typst",
+            "unison",
+            "wit",
+            "zathurarc"
+         ]
+      }
+   },
+   {
       "tag": "v2024-04-21-1e20226",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-04-21-1e20226/parsers.min.json",
       "date": "2024-04-21 23:10:51 UTC",
