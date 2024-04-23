@@ -1,5 +1,23 @@
 [
    {
+      "tag": "v2024-04-23-dc71d94",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-04-23-dc71d94/parsers.min.json",
+      "date": "2024-04-23 23:10:06 UTC",
+      "changes": {
+         "added": [],
+         "removed": [],
+         "updated": [
+            "djot",
+            "fennel",
+            "mermaid",
+            "query",
+            "tlaplus",
+            "vim",
+            "vimdoc"
+         ]
+      }
+   },
+   {
       "tag": "v2024-04-22-c1d1b40",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-04-22-c1d1b40/parsers.min.json",
       "date": "2024-04-22 23:10:32 UTC",

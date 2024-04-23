@@ -379,7 +379,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "9d3fddf9ba8e9bd45c999d769a08d2515608ed5e",
+      "revision": "7be89f13c3a5e3c2ed34d29310259158ebe2e493",
       "url": "https://github.com/treeman/tree-sitter-djot"
    },
    "dockerfile": {
@@ -539,7 +539,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "e9e3e3f75e80e602b0d42fa3f713f2531fff16fd",
+      "revision": "325a3315be968b3d8ecdc5c414159be3c8bab212",
       "url": "https://github.com/alexmozaidze/tree-sitter-fennel"
    },
    "fidl": {
@@ -1332,7 +1332,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "49442bd087901c60f019b4e34dcb6ecdc8849067",
+      "revision": "90ae195b31933ceb9d079abfa8a3ad0a36fee4cc",
       "url": "https://github.com/monaqa/tree-sitter-mermaid"
    },
    "meson": {
@@ -1768,7 +1768,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "2e31ca2771f6042b0e4e0c41a6290014a9e1face",
+      "revision": "608c01187fb9f525a1e4cf585bb63d73dea280b7",
       "url": "https://github.com/nvim-treesitter/tree-sitter-query"
    },
    "r": {
@@ -2265,7 +2265,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "932d41c0f5b1884a84560718ab063af9259f126b",
+      "revision": "c842127c4385190c3326d5477c92d0816260b547",
       "url": "https://github.com/tlaplus-community/tree-sitter-tlaplus"
    },
    "tmux": {
@@ -2462,7 +2462,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "052279cd5e1d73b075640c64cef97e7bdcd32611",
+      "revision": "b448ca63f972ade12c373c808acdd2bf972937db",
       "url": "https://github.com/neovim/tree-sitter-vim"
    },
    "vimdoc": {
@@ -2471,7 +2471,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "0b36856db88680f662cc67545c82af4ce83bf158",
+      "revision": "b711df784dd43d0a8ed8ddbfca0ddcc3239d94b4",
       "url": "https://github.com/neovim/tree-sitter-vimdoc"
    },
    "vue": {
