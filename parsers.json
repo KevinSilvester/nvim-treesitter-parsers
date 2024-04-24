@@ -63,7 +63,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "506515c1dce4220fc9db278ce9eae2ad4e239cff",
+      "revision": "4be180759ec13651f72bacee65fa477c64222a1a",
       "url": "https://github.com/virchau13/tree-sitter-astro"
    },
    "authzed": {
@@ -331,7 +331,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "6da46473ab8accb13da48113f4634e729a71d335",
+      "revision": "4e101058b4ec7ce4ba92496311a7dd10a4c9c66a",
       "url": "https://github.com/UserNobody14/tree-sitter-dart"
    },
    "devicetree": {
@@ -700,7 +700,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "bcf9c45b56cbe46e9dac5eee0aee75df270000ac",
+      "revision": "a0b11a15935b95848176c747a8b5776752d90d7c",
       "url": "https://github.com/gleam-lang/tree-sitter-gleam"
    },
    "glimmer": {
@@ -1218,7 +1218,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "09a9e31e2af734a8974dad6ed349648f601eee8c",
+      "revision": "ea97fa1f7d6665a018353cb4483d07c8b121e374",
       "url": "https://github.com/savonet/tree-sitter-liquidsoap"
    },
    "llvm": {
@@ -2265,7 +2265,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "c842127c4385190c3326d5477c92d0816260b547",
+      "revision": "763f9a4edcb1747595842164614aa143eec084dd",
       "url": "https://github.com/tlaplus-community/tree-sitter-tlaplus"
    },
    "tmux": {
