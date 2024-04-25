@@ -53,7 +53,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "afdc3d5da18d42cbb471c0f40527dbed9cace7ad",
+      "revision": "b0306e9bb2ebe01c6562f1aef265cc42ccc53070",
       "url": "https://github.com/RubixDev/tree-sitter-asm"
    },
    "astro": {
@@ -379,7 +379,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "7be89f13c3a5e3c2ed34d29310259158ebe2e493",
+      "revision": "bc94a2867f7a1040c416212207e7e28e79ef0339",
       "url": "https://github.com/treeman/tree-sitter-djot"
    },
    "dockerfile": {
@@ -1145,6 +1145,16 @@
       "revision": "260afd9a92bac51b3a4546303103c3d40a430639",
       "url": "https://github.com/fwcd/tree-sitter-kotlin"
    },
+   "koto": {
+      "files": [
+         "src/parser.c",
+         "src/scanner.c"
+      ],
+      "generate_from_grammar": false,
+      "location": null,
+      "revision": "85e689c17abab691e033080da726a792b3711df0",
+      "url": "https://github.com/koto-lang/tree-sitter-koto"
+   },
    "kusto": {
       "files": [
          "src/parser.c"
@@ -1350,7 +1360,7 @@
       ],
       "generate_from_grammar": true,
       "location": null,
-      "revision": "c2845c1c0b23e2faf6febfa72a042e5346374ebf",
+      "revision": "c930b5f4a1fceec146b9074b8eb54bedcc266e56",
       "url": "https://github.com/artagnon/tree-sitter-mlir"
    },
    "muttrc": {
@@ -2387,7 +2397,7 @@
       ],
       "generate_from_grammar": true,
       "location": null,
-      "revision": "056a926d8998e24eaa687755767b83217901a1cc",
+      "revision": "5d1af86e954be775fc338396d27cd5858d0286be",
       "url": "https://github.com/kylegoetz/tree-sitter-unison"
    },
    "usd": {
@@ -2452,7 +2462,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "9534865e614c95eb9418e5e73f061c32fa4d9540",
+      "revision": "90028bbadb267ead5b87830380f6a825147f0c0f",
       "url": "https://github.com/charmbracelet/tree-sitter-vhs"
    },
    "vim": {
