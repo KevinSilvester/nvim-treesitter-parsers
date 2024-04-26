@@ -428,7 +428,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "513598b175928b6989e02bfc7ff73332955dcbf9",
+      "revision": "41e7d7fb61dc072cdddcf68af9919ab0a9c6d10e",
       "url": "https://github.com/glehmann/tree-sitter-earthfile"
    },
    "ebnf": {
@@ -1360,7 +1360,7 @@
       ],
       "generate_from_grammar": true,
       "location": null,
-      "revision": "c930b5f4a1fceec146b9074b8eb54bedcc266e56",
+      "revision": "f92e2e11a34a3b9e64252164ffdf5fc857628ad9",
       "url": "https://github.com/artagnon/tree-sitter-mlir"
    },
    "muttrc": {
@@ -1930,7 +1930,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "b77c0d8ac28a7c143224e6ed9b4f9e4bd044ff5b",
+      "revision": "04352146022062c101b8ddd853adf17eadd8cf56",
       "url": "https://github.com/tree-sitter/tree-sitter-rust"
    },
    "scala": {
@@ -2397,7 +2397,7 @@
       ],
       "generate_from_grammar": true,
       "location": null,
-      "revision": "5d1af86e954be775fc338396d27cd5858d0286be",
+      "revision": "59d36a09282be7e4d3374854126590f3dcebee6e",
       "url": "https://github.com/kylegoetz/tree-sitter-unison"
    },
    "usd": {
