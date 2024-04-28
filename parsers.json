@@ -34,7 +34,7 @@
       ],
       "generate_from_grammar": false,
       "location": "apex",
-      "revision": "857077f9e6bb04df0f769c18d32bfe036911adc8",
+      "revision": "74368c27537a932539904394df8e6beae8990c7f",
       "url": "https://github.com/aheber/tree-sitter-sfapex"
    },
    "arduino": {
@@ -140,7 +140,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "7e0e2ac6f1d0da1a91ab84f35edddfdfece54f1a",
+      "revision": "a5d04fdb5a69a02b8fa8eb5525a60dfb5309b73b",
       "url": "https://github.com/amaanq/tree-sitter-bitbake"
    },
    "blueprint": {
@@ -149,7 +149,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "863cea9f83ad5637300478e0559262f1e791684b",
+      "revision": "60ba73739c6083c693d86a1a7cf039c07eb4ed59",
       "url": "https://gitlab.com/gabmus/tree-sitter-blueprint.git"
    },
    "c": {
@@ -178,7 +178,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "6216c6ee5e9fc0649c4bd7b1aedd884a55bdd9ef",
+      "revision": "6238f609bea233040fe927858156dee5515a0745",
       "url": "https://github.com/amaanq/tree-sitter-cairo"
    },
    "capnp": {
@@ -196,7 +196,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "fe7a2a75d3d74c1215141b7a7ebebb57ae17a370",
+      "revision": "a461f20dedb43905febb12c1635bc7d2e43e96f0",
       "url": "https://github.com/ObserverOfTime/tree-sitter-chatito"
    },
    "clojure": {
@@ -234,7 +234,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "83ae738bed7e914cee9090c3fe4c80a32ab45905",
+      "revision": "bf2a65b1c119898a1a17389e07f2a399c05cdc0c",
       "url": "https://github.com/theHamsta/tree-sitter-commonlisp"
    },
    "cooklang": {
@@ -291,7 +291,7 @@
       ],
       "generate_from_grammar": false,
       "location": "csv",
-      "revision": "cda48a5e890b30619da5bc3ff55be1b1d3d08c8d",
+      "revision": "7eb7297823605392d2bbcc4c09b1cd18d6fa9529",
       "url": "https://github.com/amaanq/tree-sitter-csv"
    },
    "cuda": {
@@ -408,7 +408,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "a750758da90955c86fcc22fcbb6fa44a7d009865",
+      "revision": "4a30eba5d047d6a8c5b005202b4848c0b33d76ca",
       "url": "https://github.com/amaanq/tree-sitter-doxygen"
    },
    "dtd": {
@@ -606,7 +606,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "fa3347712f7a59ed02ccf508284554689c6cde28",
+      "revision": "fad2e175099a45efbc98f000cc196d3674cc45e0",
       "url": "https://github.com/mgramigna/tree-sitter-fsh"
    },
    "func": {
@@ -615,7 +615,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "0834e35ecf8b23fbf9ad15b088af6a897e19d4a8",
+      "revision": "f780ca55e65e7d7360d0229331763e16c452fc98",
       "url": "https://github.com/amaanq/tree-sitter-func"
    },
    "fusion": {
@@ -992,6 +992,15 @@
       "revision": "e5da7d0aa44403153e0394d87d9edea4e5bd6609",
       "url": "https://github.com/luckasRanarison/tree-sitter-hyprlang"
    },
+   "idl": {
+      "files": [
+         "src/parser.c"
+      ],
+      "generate_from_grammar": false,
+      "location": null,
+      "revision": "150d24bff72501640e8b6126c94b282450c4c479",
+      "url": "https://github.com/cathaysia/tree-sitter-idl"
+   },
    "ini": {
       "files": [
          "src/parser.c"
@@ -1181,7 +1190,7 @@
       ],
       "generate_from_grammar": true,
       "location": null,
-      "revision": "ae2134af67f6c5e45587ace9ec748dd6e7b356a2",
+      "revision": "cd82eb40d31bdfe65f846f4e06292d6c804b5e0e",
       "url": "https://github.com/latex-lsp/tree-sitter-latex"
    },
    "ledger": {
@@ -1693,7 +1702,7 @@
       ],
       "generate_from_grammar": false,
       "location": "psv",
-      "revision": "cda48a5e890b30619da5bc3ff55be1b1d3d08c8d",
+      "revision": "7eb7297823605392d2bbcc4c09b1cd18d6fa9529",
       "url": "https://github.com/amaanq/tree-sitter-csv"
    },
    "pug": {
@@ -1741,7 +1750,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "a22761025cdac6c314b7e3aa48fb44fa9e594d6a",
+      "revision": "b466ffb4d7ce0a833754429ad8d3a02e950ed74c",
       "url": "https://github.com/tree-sitter/tree-sitter-python"
    },
    "ql": {
@@ -1769,7 +1778,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "9fa49ff3315987f715ce5666ff979a7742fa8a98",
+      "revision": "239f2627b4c7859fd9adc53609cb40fa0a5431ce",
       "url": "https://github.com/yuja/tree-sitter-qmljs"
    },
    "query": {
@@ -1816,7 +1825,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "519a61132a51222e3ce73d3b7ef07465f587f346",
+      "revision": "e5e807a50fcd104a2d740d354632fc671700a0bf",
       "url": "https://github.com/joker1007/tree-sitter-rbs"
    },
    "re2c": {
@@ -1978,7 +1987,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "a9ca9d9a8c56d43cf5265779a482b4fd67d004ee",
+      "revision": "68587530d86aaeb1f1cb17fdada795281cdd0556",
       "url": "https://github.com/theHamsta/tree-sitter-slang"
    },
    "slint": {
@@ -2006,7 +2015,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "8327eb84d55639ffbe08c9dc82da7fff72a1ad07",
+      "revision": "fa898ac0885d1da9a253695c3e0e91f5efc587cd",
       "url": "https://github.com/indoorvivants/tree-sitter-smithy"
    },
    "snakemake": {
@@ -2034,7 +2043,7 @@
       ],
       "generate_from_grammar": false,
       "location": "soql",
-      "revision": "857077f9e6bb04df0f769c18d32bfe036911adc8",
+      "revision": "74368c27537a932539904394df8e6beae8990c7f",
       "url": "https://github.com/aheber/tree-sitter-sfapex"
    },
    "sosl": {
@@ -2043,7 +2052,7 @@
       ],
       "generate_from_grammar": false,
       "location": "sosl",
-      "revision": "857077f9e6bb04df0f769c18d32bfe036911adc8",
+      "revision": "74368c27537a932539904394df8e6beae8990c7f",
       "url": "https://github.com/aheber/tree-sitter-sfapex"
    },
    "sourcepawn": {
@@ -2312,7 +2321,7 @@
       ],
       "generate_from_grammar": false,
       "location": "tsv",
-      "revision": "cda48a5e890b30619da5bc3ff55be1b1d3d08c8d",
+      "revision": "7eb7297823605392d2bbcc4c09b1cd18d6fa9529",
       "url": "https://github.com/amaanq/tree-sitter-csv"
    },
    "tsx": {
@@ -2453,7 +2462,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "2dfddfcb891f74a1cdb9d8ce480a997d11846e17",
+      "revision": "075ebfc84543675f12e79a955f79d717772dcef3",
       "url": "https://github.com/tree-sitter/tree-sitter-verilog"
    },
    "vhs": {
@@ -2530,7 +2539,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "ed13e0a3ee77833900a095d57d2685a1f7f91237",
+      "revision": "16e263143e230b79a00f6cc353f6fd860c4e5de5",
       "url": "https://github.com/liamwh/tree-sitter-wit"
    },
    "xcompose": {

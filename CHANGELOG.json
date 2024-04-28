@@ -1,5 +1,40 @@
 [
    {
+      "tag": "v2024-04-28-19f69a5",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-04-28-19f69a5/parsers.min.json",
+      "date": "2024-04-28 23:09:37 UTC",
+      "changes": {
+         "added": [
+            "idl"
+         ],
+         "removed": [],
+         "updated": [
+            "apex",
+            "bitbake",
+            "blueprint",
+            "cairo",
+            "chatito",
+            "commonlisp",
+            "csv",
+            "doxygen",
+            "fsh",
+            "func",
+            "latex",
+            "psv",
+            "python",
+            "qmljs",
+            "rbs",
+            "slang",
+            "smithy",
+            "soql",
+            "sosl",
+            "tsv",
+            "verilog",
+            "wit"
+         ]
+      }
+   },
+   {
       "tag": "v2024-04-27-0883ff0",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-04-27-0883ff0/parsers.min.json",
       "date": "2024-04-27 23:10:27 UTC",
