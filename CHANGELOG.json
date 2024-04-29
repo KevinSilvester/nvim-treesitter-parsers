@@ -1,5 +1,20 @@
 [
    {
+      "tag": "v2024-04-29-160e5d5",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-04-29-160e5d5/parsers.min.json",
+      "date": "2024-04-29 23:09:47 UTC",
+      "changes": {
+         "added": [],
+         "removed": [],
+         "updated": [
+            "dart",
+            "idl",
+            "swift",
+            "usd"
+         ]
+      }
+   },
+   {
       "tag": "v2024-04-28-19f69a5",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-04-28-19f69a5/parsers.min.json",
       "date": "2024-04-28 23:09:37 UTC",

@@ -331,7 +331,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "4e101058b4ec7ce4ba92496311a7dd10a4c9c66a",
+      "revision": "ac0bb849ccd1a923963af47573b5e396736ff582",
       "url": "https://github.com/UserNobody14/tree-sitter-dart"
    },
    "devicetree": {
@@ -998,7 +998,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "150d24bff72501640e8b6126c94b282450c4c479",
+      "revision": "d9a260eda455deaa36d2edf398963b0736ed0845",
       "url": "https://github.com/cathaysia/tree-sitter-idl"
    },
    "ini": {
@@ -2168,7 +2168,7 @@
       ],
       "generate_from_grammar": true,
       "location": null,
-      "revision": "ee04ee19910bb9ea6daf14be7d1e5362a208207d",
+      "revision": "ae648bc42aac4473122918bf792bc3b50158deef",
       "url": "https://github.com/alex-pinkus/tree-sitter-swift"
    },
    "sxhkdrc": {
@@ -2415,7 +2415,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "ab8c30bde2df0e58c4b3f01f220fb0125ecb57a7",
+      "revision": "4e0875f724d94d0c2ff36f9b8cb0b12f8b20d216",
       "url": "https://github.com/ColinKennedy/tree-sitter-usd"
    },
    "uxntal": {
