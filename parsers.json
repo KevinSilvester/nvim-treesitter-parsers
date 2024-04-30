@@ -25,7 +25,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "b7a7167762e3863b3d6247c708b7f9bca1ca7bea",
+      "revision": "a9ec402bf8e0509f389dba64a6dba037ad199233",
       "url": "https://github.com/dlvandenberg/tree-sitter-angular"
    },
    "apex": {
@@ -34,7 +34,7 @@
       ],
       "generate_from_grammar": false,
       "location": "apex",
-      "revision": "74368c27537a932539904394df8e6beae8990c7f",
+      "revision": "c99ad4b16d112fea91745e3f1b769754239fdaba",
       "url": "https://github.com/aheber/tree-sitter-sfapex"
    },
    "arduino": {
@@ -428,7 +428,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "41e7d7fb61dc072cdddcf68af9919ab0a9c6d10e",
+      "revision": "3ded1cba9eab14b07377b700b1132d259480abae",
       "url": "https://github.com/glehmann/tree-sitter-earthfile"
    },
    "ebnf": {
@@ -539,7 +539,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "325a3315be968b3d8ecdc5c414159be3c8bab212",
+      "revision": "8ad17704b3c2469155947d4e8fcb618cf1328459",
       "url": "https://github.com/alexmozaidze/tree-sitter-fennel"
    },
    "fidl": {
@@ -2043,7 +2043,7 @@
       ],
       "generate_from_grammar": false,
       "location": "soql",
-      "revision": "74368c27537a932539904394df8e6beae8990c7f",
+      "revision": "c99ad4b16d112fea91745e3f1b769754239fdaba",
       "url": "https://github.com/aheber/tree-sitter-sfapex"
    },
    "sosl": {
@@ -2052,7 +2052,7 @@
       ],
       "generate_from_grammar": false,
       "location": "sosl",
-      "revision": "74368c27537a932539904394df8e6beae8990c7f",
+      "revision": "c99ad4b16d112fea91745e3f1b769754239fdaba",
       "url": "https://github.com/aheber/tree-sitter-sfapex"
    },
    "sourcepawn": {
@@ -2139,7 +2139,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "3b35bd0fded4423c8fb30e9585c7bacbcd0e8095",
+      "revision": "f8ccdc2bb4013d314c59c56079d9c2c8cbb2b624",
       "url": "https://github.com/madskjeldgaard/tree-sitter-supercollider"
    },
    "surface": {
@@ -2539,7 +2539,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "16e263143e230b79a00f6cc353f6fd860c4e5de5",
+      "revision": "3d6124cfe88555ecee1ba97d6d76c70d13af927a",
       "url": "https://github.com/liamwh/tree-sitter-wit"
    },
    "xcompose": {
@@ -2568,7 +2568,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "ee093118211be521742b9866a8ed8ce6d87c7a94",
+      "revision": "49db816e6a644ea5914daad801514d9f830e4c88",
       "url": "https://github.com/tree-sitter-grammars/tree-sitter-yaml"
    },
    "yang": {

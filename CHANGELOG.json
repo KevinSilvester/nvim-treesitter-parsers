@@ -1,5 +1,25 @@
 [
    {
+      "tag": "v2024-04-30-1a4274c",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-04-30-1a4274c/parsers.min.json",
+      "date": "2024-04-30 23:10:31 UTC",
+      "changes": {
+         "added": [],
+         "removed": [],
+         "updated": [
+            "angular",
+            "apex",
+            "earthfile",
+            "fennel",
+            "soql",
+            "sosl",
+            "supercollider",
+            "wit",
+            "yaml"
+         ]
+      }
+   },
+   {
       "tag": "v2024-04-29-160e5d5",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-04-29-160e5d5/parsers.min.json",
       "date": "2024-04-29 23:09:47 UTC",
