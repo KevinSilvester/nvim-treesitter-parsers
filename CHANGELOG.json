@@ -1,5 +1,26 @@
 [
    {
+      "tag": "v2024-05-01-bbc67f7",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-05-01-bbc67f7/parsers.min.json",
+      "date": "2024-05-01 23:11:31 UTC",
+      "changes": {
+         "added": [],
+         "removed": [],
+         "updated": [
+            "angular",
+            "cpp",
+            "djot",
+            "html",
+            "json5",
+            "mlir",
+            "python",
+            "solidity",
+            "supercollider",
+            "yaml"
+         ]
+      }
+   },
+   {
       "tag": "v2024-04-30-1a4274c",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-04-30-1a4274c/parsers.min.json",
       "date": "2024-04-30 23:10:31 UTC",

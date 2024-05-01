@@ -25,7 +25,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "a9ec402bf8e0509f389dba64a6dba037ad199233",
+      "revision": "f12fc56469d778285fb35b5bdb943edcfe77c48a",
       "url": "https://github.com/dlvandenberg/tree-sitter-angular"
    },
    "apex": {
@@ -272,7 +272,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "72fd00128f1c38319670cbf4bcedbba0dc849d96",
+      "revision": "2369fa991eba294e9238e28280ffcd58132f94bc",
       "url": "https://github.com/tree-sitter/tree-sitter-cpp"
    },
    "css": {
@@ -379,7 +379,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "bc94a2867f7a1040c416212207e7e28e79ef0339",
+      "revision": "0e9a836ec47612ade15645fb1680adb549894a6c",
       "url": "https://github.com/treeman/tree-sitter-djot"
    },
    "dockerfile": {
@@ -953,7 +953,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "bfa075d83c6b97cd48440b3829ab8d24a2319809",
+      "revision": "eee29ca0ce287b699d9d52118f9c1cd9094c48f9",
       "url": "https://github.com/tree-sitter/tree-sitter-html"
    },
    "htmldjango": {
@@ -1082,7 +1082,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "c23f7a9b1ee7d45f516496b1e0e4be067264fa0d",
+      "revision": "ab0ba8229d639ec4f3fa5f674c9133477f4b77bd",
       "url": "https://github.com/Joakker/tree-sitter-json5"
    },
    "jsonc": {
@@ -1369,7 +1369,7 @@
       ],
       "generate_from_grammar": true,
       "location": null,
-      "revision": "f92e2e11a34a3b9e64252164ffdf5fc857628ad9",
+      "revision": "d04201a28c9f93656634ca1c1d6ba775149522a0",
       "url": "https://github.com/artagnon/tree-sitter-mlir"
    },
    "muttrc": {
@@ -1750,7 +1750,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "b466ffb4d7ce0a833754429ad8d3a02e950ed74c",
+      "revision": "71778c2a472ed00a64abf4219544edbf8e4b86d7",
       "url": "https://github.com/tree-sitter/tree-sitter-python"
    },
    "ql": {
@@ -2034,7 +2034,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "1653da09ccd183f4312fba819056a13af22a65f6",
+      "revision": "fa5c61c7c5a2d9e8e99439e2cec90225f4acb86b",
       "url": "https://github.com/JoranHonig/tree-sitter-solidity"
    },
    "soql": {
@@ -2139,7 +2139,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "f8ccdc2bb4013d314c59c56079d9c2c8cbb2b624",
+      "revision": "affa4389186b6939d89673e1e9d2b28364f5ca6f",
       "url": "https://github.com/madskjeldgaard/tree-sitter-supercollider"
    },
    "surface": {
@@ -2568,7 +2568,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "49db816e6a644ea5914daad801514d9f830e4c88",
+      "revision": "08ab1fbc18beac06b2938495a2c6ab17b5a6abc5",
       "url": "https://github.com/tree-sitter-grammars/tree-sitter-yaml"
    },
    "yang": {
