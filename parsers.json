@@ -168,7 +168,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "9de565257ada70ac441c640e3b5d6850e2df5ab8",
+      "revision": "e1384e2f132936019b43aaaae154cd780fb497ce",
       "url": "https://github.com/tree-sitter/tree-sitter-c-sharp"
    },
    "cairo": {
@@ -1121,7 +1121,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "6c2f018ab1d90946c0ce029bb2f7d57f56895dff",
+      "revision": "72937dde3be430468796d4b91c0f0f104962b132",
       "url": "https://github.com/IndianBoy42/tree-sitter-just"
    },
    "kconfig": {
@@ -1237,7 +1237,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "ea97fa1f7d6665a018353cb4483d07c8b121e374",
+      "revision": "a9b8012366eab7d0c28bbda5f75a847be931008f",
       "url": "https://github.com/savonet/tree-sitter-liquidsoap"
    },
    "llvm": {
@@ -2236,7 +2236,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "4bedd882d47c55f22226307fe6bc6a7a87a94f43",
+      "revision": "85a0bb071e9d7405915220bcca82d0b62c39167b",
       "url": "https://github.com/vrischmann/tree-sitter-templ"
    },
    "terraform": {
