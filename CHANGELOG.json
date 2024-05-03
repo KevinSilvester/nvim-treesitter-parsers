@@ -1,5 +1,26 @@
 [
    {
+      "tag": "v2024-05-03-4ae2b45",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-05-03-4ae2b45/parsers.min.json",
+      "date": "2024-05-03 23:11:02 UTC",
+      "changes": {
+         "added": [
+            "inko",
+            "tact"
+         ],
+         "removed": [],
+         "updated": [
+            "javascript",
+            "just",
+            "mlir",
+            "nasm",
+            "slint",
+            "templ",
+            "toml"
+         ]
+      }
+   },
+   {
       "tag": "v2024-05-02-b1f3f02",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-05-02-b1f3f02/parsers.min.json",
       "date": "2024-05-02 23:12:40 UTC",
