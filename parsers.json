@@ -101,7 +101,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "c9ba4568af24cd3403029730687c0a43d1350a43",
+      "revision": "28dc7059722be090d04cd751aed915b2fee2f89a",
       "url": "https://github.com/vito/tree-sitter-bass"
    },
    "beancount": {
@@ -244,7 +244,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "81c2a8667846b1e60db68b5601d864fe00fd1d3a",
+      "revision": "4ebe237c1cf64cf3826fc249e9ec0988fe07e58e",
       "url": "https://github.com/addcninblue/tree-sitter-cooklang"
    },
    "corn": {
@@ -858,7 +858,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "95a4f0023741b3bee0cc500f3dab9c5bab2dc2be",
+      "revision": "af32d884088ce7b74541b5e51820baa7e305caae",
       "url": "https://github.com/tree-sitter/tree-sitter-haskell"
    },
    "haskell_persistent": {
@@ -1579,7 +1579,7 @@
       ],
       "generate_from_grammar": false,
       "location": "php",
-      "revision": "29838ad107f50b1f5f51a0beefa9c9d834fce2b3",
+      "revision": "58054be104db0809ea6f119514a4d904f95e5b5c",
       "url": "https://github.com/tree-sitter/tree-sitter-php"
    },
    "php_only": {
@@ -1589,7 +1589,7 @@
       ],
       "generate_from_grammar": false,
       "location": "php_only",
-      "revision": "29838ad107f50b1f5f51a0beefa9c9d834fce2b3",
+      "revision": "58054be104db0809ea6f119514a4d904f95e5b5c",
       "url": "https://github.com/tree-sitter/tree-sitter-php"
    },
    "phpdoc": {
@@ -1768,7 +1768,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "ff04ba61857ba05b80221e71b423b2728dbebe1e",
+      "revision": "fa5c3821dd2161f5c8528a8cbdb258daa6dc4de6",
       "url": "https://github.com/tree-sitter/tree-sitter-ql"
    },
    "qmldir": {
@@ -1806,7 +1806,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "c55f8b4dfaa32c80ddef6c0ac0e79b05cb0cbf57",
+      "revision": "391400572538ff9854341a175ed8ab4b1e45f44b",
       "url": "https://github.com/r-lib/tree-sitter-r"
    },
    "racket": {
@@ -2224,7 +2224,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "83d5de4c0566ce4415c30cd4633e4ebb09a1d6b8",
+      "revision": "68c48c51a9b9ef5280a172acfa3c73b35078e8a7",
       "url": "https://github.com/tact-lang/tree-sitter-tact"
    },
    "tcl": {
@@ -2330,7 +2330,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "221526cb106e4f0e26d715922e573c2903ecc72a",
+      "revision": "16a30c83ce427385b8d14939c45c137fcfca6c42",
       "url": "https://github.com/tree-sitter-grammars/tree-sitter-toml"
    },
    "tsv": {

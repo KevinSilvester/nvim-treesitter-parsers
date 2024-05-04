@@ -1,5 +1,25 @@
 [
    {
+      "tag": "v2024-05-04-4e21361",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-05-04-4e21361/parsers.min.json",
+      "date": "2024-05-04 23:10:43 UTC",
+      "changes": {
+         "added": [],
+         "removed": [],
+         "updated": [
+            "bass",
+            "cooklang",
+            "haskell",
+            "php",
+            "php_only",
+            "ql",
+            "r",
+            "tact",
+            "toml"
+         ]
+      }
+   },
+   {
       "tag": "v2024-05-03-4ae2b45",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-05-03-4ae2b45/parsers.min.json",
       "date": "2024-05-03 23:11:02 UTC",
