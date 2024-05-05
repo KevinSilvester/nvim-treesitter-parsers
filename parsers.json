@@ -282,7 +282,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "02b4ee757654b7d54fe35352fd8e53a8a4385d42",
+      "revision": "2e868a75a518531656b493cba36ef60d8c61cc89",
       "url": "https://github.com/tree-sitter/tree-sitter-css"
    },
    "csv": {
@@ -953,7 +953,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "eee29ca0ce287b699d9d52118f9c1cd9094c48f9",
+      "revision": "e4d834eb4918df01dcad5c27d1b15d56e3bd94cd",
       "url": "https://github.com/tree-sitter/tree-sitter-html"
    },
    "htmldjango": {
@@ -1016,7 +1016,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "6983354c13a14bc621d7a3619f1790149e901187",
+      "revision": "4cef9aa4980606311b906b2f2b8c6cf791c60396",
       "url": "https://github.com/inko-lang/tree-sitter-inko"
    },
    "ispc": {
@@ -1160,7 +1160,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "260afd9a92bac51b3a4546303103c3d40a430639",
+      "revision": "eca05edbab1918d7d36a0d30d086ba7b6b1e8803",
       "url": "https://github.com/fwcd/tree-sitter-kotlin"
    },
    "koto": {
@@ -2177,7 +2177,7 @@
       ],
       "generate_from_grammar": true,
       "location": null,
-      "revision": "ae648bc42aac4473122918bf792bc3b50158deef",
+      "revision": "5f5d7a2a04f2d367a010ed908cc956e7b05fde4f",
       "url": "https://github.com/alex-pinkus/tree-sitter-swift"
    },
    "sxhkdrc": {
@@ -2224,7 +2224,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "68c48c51a9b9ef5280a172acfa3c73b35078e8a7",
+      "revision": "f65460eb0746037bc15913e2737afcf87745b66b",
       "url": "https://github.com/tact-lang/tree-sitter-tact"
    },
    "tcl": {
