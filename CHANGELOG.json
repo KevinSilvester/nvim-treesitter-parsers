@@ -1,5 +1,41 @@
 [
    {
+      "tag": "v2024-05-06-268611e",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-05-06-268611e/parsers.min.json",
+      "date": "2024-05-06 23:10:04 UTC",
+      "changes": {
+         "added": [],
+         "removed": [],
+         "updated": [
+            "arduino",
+            "css",
+            "embedded_template",
+            "idl",
+            "javascript",
+            "jsdoc",
+            "mlir",
+            "perl",
+            "php",
+            "php_only",
+            "query",
+            "regex",
+            "ron",
+            "ruby",
+            "rust",
+            "smali",
+            "squirrel",
+            "swift",
+            "tablegen",
+            "templ",
+            "tsx",
+            "typescript",
+            "typst",
+            "uxntal",
+            "yuck"
+         ]
+      }
+   },
+   {
       "tag": "v2024-05-05-4b70dde",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-05-05-4b70dde/parsers.min.json",
       "date": "2024-05-05 23:10:06 UTC",
