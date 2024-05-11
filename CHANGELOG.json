@@ -1,5 +1,23 @@
 [
    {
+      "tag": "v2024-05-11-6587d8e",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-05-11-6587d8e/parsers.min.json",
+      "date": "2024-05-11 23:10:36 UTC",
+      "changes": {
+         "added": [],
+         "removed": [],
+         "updated": [
+            "c_sharp",
+            "dtd",
+            "go",
+            "idl",
+            "javascript",
+            "tact",
+            "xml"
+         ]
+      }
+   },
+   {
       "tag": "v2024-05-10-d6dcfe8",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-05-10-d6dcfe8/parsers.min.json",
       "date": "2024-05-10 23:11:08 UTC",

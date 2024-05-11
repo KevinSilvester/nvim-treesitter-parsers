@@ -168,7 +168,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "e1384e2f132936019b43aaaae154cd780fb497ce",
+      "revision": "f47328563999efb9d6438d8ea28999711fbe473f",
       "url": "https://github.com/tree-sitter/tree-sitter-c-sharp"
    },
    "cairo": {
@@ -418,7 +418,7 @@
       ],
       "generate_from_grammar": false,
       "location": "dtd",
-      "revision": "7c467645e7ab77c57ba9d293e2e28d563829cbdc",
+      "revision": "648183d86f6f8ffb240ea11b4c6873f6f45d8b67",
       "url": "https://github.com/tree-sitter-grammars/tree-sitter-xml"
    },
    "earthfile": {
@@ -747,7 +747,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "eb68645662a3f7bf7fdd4bcb9531585f54c8570e",
+      "revision": "7ee8d928db5202f6831a78f8112fd693bf69f98b",
       "url": "https://github.com/tree-sitter/tree-sitter-go"
    },
    "godot_resource": {
@@ -998,7 +998,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "9d7380151583d43a333add8a5a6918aec8c3f275",
+      "revision": "e885d7fd66c2549b7a28172400d645d27656f5cb",
       "url": "https://github.com/cathaysia/tree-sitter-idl"
    },
    "ini": {
@@ -1054,7 +1054,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "4928d3d18019a848906855476fde2dc8be030217",
+      "revision": "e88537c2703546f3f0887dd3f16898e1749cdba5",
       "url": "https://github.com/tree-sitter/tree-sitter-javascript"
    },
    "jq": {
@@ -2224,7 +2224,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "f65460eb0746037bc15913e2737afcf87745b66b",
+      "revision": "034df2162ed7b654efd999942e266be713c7cde0",
       "url": "https://github.com/tact-lang/tree-sitter-tact"
    },
    "tcl": {
@@ -2576,7 +2576,7 @@
       ],
       "generate_from_grammar": false,
       "location": "xml",
-      "revision": "7c467645e7ab77c57ba9d293e2e28d563829cbdc",
+      "revision": "648183d86f6f8ffb240ea11b4c6873f6f45d8b67",
       "url": "https://github.com/tree-sitter-grammars/tree-sitter-xml"
    },
    "yaml": {
