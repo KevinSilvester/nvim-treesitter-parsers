@@ -1,5 +1,23 @@
 [
    {
+      "tag": "v2024-05-12-0d2c80b",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-05-12-0d2c80b/parsers.min.json",
+      "date": "2024-05-12 23:10:54 UTC",
+      "changes": {
+         "added": [],
+         "removed": [],
+         "updated": [
+            "c_sharp",
+            "cuda",
+            "glsl",
+            "hlsl",
+            "mlir",
+            "solidity",
+            "sourcepawn"
+         ]
+      }
+   },
+   {
       "tag": "v2024-05-11-6587d8e",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-05-11-6587d8e/parsers.min.json",
       "date": "2024-05-11 23:10:36 UTC",

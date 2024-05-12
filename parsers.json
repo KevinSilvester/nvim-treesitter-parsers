@@ -168,7 +168,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "f47328563999efb9d6438d8ea28999711fbe473f",
+      "revision": "82fa8f05f41a33e9bc830f85d74a9548f0291738",
       "url": "https://github.com/tree-sitter/tree-sitter-c-sharp"
    },
    "cairo": {
@@ -301,7 +301,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "c794560823013fc4cc29944d862b7158d9585408",
+      "revision": "e7878a9cf4157e9d6c8013ff5605c9f26d62894d",
       "url": "https://github.com/theHamsta/tree-sitter-cuda"
    },
    "cue": {
@@ -719,7 +719,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "9f611774fb5b95993e31e03f137b4a689c63f827",
+      "revision": "8c9fb41836dc202bbbcf0e2369f256055786dedb",
       "url": "https://github.com/theHamsta/tree-sitter-glsl"
    },
    "gn": {
@@ -915,7 +915,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "de5d490e52aa7be2a877df7022f93dff05f03eb9",
+      "revision": "feea0ff6eccda8be958c133985dca8977db3d887",
       "url": "https://github.com/theHamsta/tree-sitter-hlsl"
    },
    "hlsplaylist": {
@@ -1378,7 +1378,7 @@
       ],
       "generate_from_grammar": true,
       "location": null,
-      "revision": "2812b6c6aa03f1ca8dba2fb1c33d14abb87809e7",
+      "revision": "a708e9b3f3d7f2fc85ac3fd1d4317c51b101eab0",
       "url": "https://github.com/artagnon/tree-sitter-mlir"
    },
    "muttrc": {
@@ -2043,7 +2043,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "fa5c61c7c5a2d9e8e99439e2cec90225f4acb86b",
+      "revision": "b5a23ead0f69d38b5c9a630f52f5c129132c16ed",
       "url": "https://github.com/JoranHonig/tree-sitter-solidity"
    },
    "soql": {
@@ -2071,7 +2071,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "3ca89fdf998340a7973e276b39516d8902950f86",
+      "revision": "6a67772eed866cd6d247cc478a28c6a9272fc0ef",
       "url": "https://github.com/nilshelmig/tree-sitter-sourcepawn"
    },
    "sparql": {
