@@ -359,7 +359,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "710e881127512bda8157096e26c1f3e91702823a",
+      "revision": "629676fc3919606964231b2c7b9677d6998a2cb4",
       "url": "https://github.com/the-mikedavis/tree-sitter-diff"
    },
    "disassembly": {
@@ -998,7 +998,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "e885d7fd66c2549b7a28172400d645d27656f5cb",
+      "revision": "d1ee47cbe7fbe3c68a491e5e50236f009f618faa",
       "url": "https://github.com/cathaysia/tree-sitter-idl"
    },
    "ini": {
@@ -1579,7 +1579,7 @@
       ],
       "generate_from_grammar": false,
       "location": "php",
-      "revision": "d5aea05a70c5d021fa746516391f156d35658875",
+      "revision": "27afeb02e49ff30acd17b67897b1c0114561a38c",
       "url": "https://github.com/tree-sitter/tree-sitter-php"
    },
    "php_only": {
@@ -1589,7 +1589,7 @@
       ],
       "generate_from_grammar": false,
       "location": "php_only",
-      "revision": "d5aea05a70c5d021fa746516391f156d35658875",
+      "revision": "27afeb02e49ff30acd17b67897b1c0114561a38c",
       "url": "https://github.com/tree-sitter/tree-sitter-php"
    },
    "phpdoc": {
@@ -2380,6 +2380,15 @@
       "revision": "7b4275d077ae196fc0ce42ab3ad091574e3ec519",
       "url": "https://github.com/tree-sitter/tree-sitter-typescript"
    },
+   "typespec": {
+      "files": [
+         "src/parser.c"
+      ],
+      "generate_from_grammar": false,
+      "location": null,
+      "revision": "fd9a83c6c0aaaff4b1354454b5b9f130f59dd553",
+      "url": "https://github.com/happenslol/tree-sitter-typespec"
+   },
    "typoscript": {
       "files": [
          "src/parser.c"
@@ -2557,7 +2566,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "3d6124cfe88555ecee1ba97d6d76c70d13af927a",
+      "revision": "cab94791450524a542324d8cbe8017d69c516d8e",
       "url": "https://github.com/liamwh/tree-sitter-wit"
    },
    "xcompose": {
