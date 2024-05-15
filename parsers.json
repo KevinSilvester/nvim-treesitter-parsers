@@ -998,7 +998,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "d1ee47cbe7fbe3c68a491e5e50236f009f618faa",
+      "revision": "385a75b737fb3bd0c33e59d779021adfe644de2d",
       "url": "https://github.com/cathaysia/tree-sitter-idl"
    },
    "ini": {
@@ -2071,7 +2071,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "6a67772eed866cd6d247cc478a28c6a9272fc0ef",
+      "revision": "4c62065c4136873ef42a9efe128380cbe7ae4f64",
       "url": "https://github.com/nilshelmig/tree-sitter-sourcepawn"
    },
    "sparql": {
