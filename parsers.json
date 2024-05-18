@@ -428,7 +428,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "450546b6db9a37a178fd87aeda93a287301e9570",
+      "revision": "875d81149e3130f843503f157b3f41732e29ce0b",
       "url": "https://github.com/glehmann/tree-sitter-earthfile"
    },
    "ebnf": {
@@ -784,7 +784,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "17144a77be0acdecebd9d557398883569fed41de",
+      "revision": "9d3f6e526dd074b9edae9070b7bb778f00e87a5b",
       "url": "https://github.com/ngalaiko/tree-sitter-go-template"
    },
    "gowork": {
@@ -896,7 +896,7 @@
       ],
       "generate_from_grammar": false,
       "location": "dialects/helm",
-      "revision": "17144a77be0acdecebd9d557398883569fed41de",
+      "revision": "9d3f6e526dd074b9edae9070b7bb778f00e87a5b",
       "url": "https://github.com/ngalaiko/tree-sitter-go-template"
    },
    "hjson": {
@@ -915,7 +915,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "feea0ff6eccda8be958c133985dca8977db3d887",
+      "revision": "a84e8d4f675d0006f7c07f6c7bcea2fca04cdb6e",
       "url": "https://github.com/theHamsta/tree-sitter-hlsl"
    },
    "hlsplaylist": {
@@ -1996,7 +1996,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "68587530d86aaeb1f1cb17fdada795281cdd0556",
+      "revision": "35684819cec627bc32955600ee9a093ed29c3375",
       "url": "https://github.com/theHamsta/tree-sitter-slang"
    },
    "slint": {
@@ -2071,7 +2071,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "4c62065c4136873ef42a9efe128380cbe7ae4f64",
+      "revision": "227656e72a5f0d430bb82a467bc8078f078bba84",
       "url": "https://github.com/nilshelmig/tree-sitter-sourcepawn"
    },
    "sparql": {
@@ -2302,7 +2302,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "ef18145e7f985f592ad41b04004b24a590f58b71",
+      "revision": "200f9dab6b23f3b9bb8f67fc811221517f56c373",
       "url": "https://github.com/tlaplus-community/tree-sitter-tlaplus"
    },
    "tmux": {

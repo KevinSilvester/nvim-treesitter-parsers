@@ -1,5 +1,23 @@
 [
    {
+      "tag": "v2024-05-18-1eabe69",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-05-18-1eabe69/parsers.min.json",
+      "date": "2024-05-18 23:09:55 UTC",
+      "changes": {
+         "added": [],
+         "removed": [],
+         "updated": [
+            "earthfile",
+            "gotmpl",
+            "helm",
+            "hlsl",
+            "slang",
+            "sourcepawn",
+            "tlaplus"
+         ]
+      }
+   },
+   {
       "tag": "v2024-05-17-00a8cfd",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-05-17-00a8cfd/parsers.min.json",
       "date": "2024-05-17 23:12:10 UTC",
