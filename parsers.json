@@ -1579,7 +1579,7 @@
       ],
       "generate_from_grammar": false,
       "location": "php",
-      "revision": "27afeb02e49ff30acd17b67897b1c0114561a38c",
+      "revision": "b38c53537769df05871643c9688c264074fb6076",
       "url": "https://github.com/tree-sitter/tree-sitter-php"
    },
    "php_only": {
@@ -1589,7 +1589,7 @@
       ],
       "generate_from_grammar": false,
       "location": "php_only",
-      "revision": "27afeb02e49ff30acd17b67897b1c0114561a38c",
+      "revision": "b38c53537769df05871643c9688c264074fb6076",
       "url": "https://github.com/tree-sitter/tree-sitter-php"
    },
    "phpdoc": {
@@ -2177,7 +2177,7 @@
       ],
       "generate_from_grammar": true,
       "location": null,
-      "revision": "c9c669b4513479e07a0ff44cf14f72351959ac21",
+      "revision": "03af4d057afc56edf6a703e6606b86f782353f22",
       "url": "https://github.com/alex-pinkus/tree-sitter-swift"
    },
    "sxhkdrc": {
