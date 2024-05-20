@@ -1054,7 +1054,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "e88537c2703546f3f0887dd3f16898e1749cdba5",
+      "revision": "ce29c27450810249dde98ca9d0d95b6ae25fe154",
       "url": "https://github.com/tree-sitter/tree-sitter-javascript"
    },
    "jq": {
@@ -1246,7 +1246,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "a9b8012366eab7d0c28bbda5f75a847be931008f",
+      "revision": "14feafa91630afb1ab9988cf9b738b7ea29f3f89",
       "url": "https://github.com/savonet/tree-sitter-liquidsoap"
    },
    "llvm": {
@@ -1522,7 +1522,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "f25b8c5201c1480dc0c8c4155a059a79a5a40719",
+      "revision": "edfc92802b0df40c1dcf7f6e624714c21121ac44",
       "url": "https://github.com/amaanq/tree-sitter-odin"
    },
    "org": {
