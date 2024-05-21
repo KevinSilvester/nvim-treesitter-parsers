@@ -428,7 +428,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "875d81149e3130f843503f157b3f41732e29ce0b",
+      "revision": "b556c9f4cf1c6a4a8ebbca47e520653801fcf535",
       "url": "https://github.com/glehmann/tree-sitter-earthfile"
    },
    "ebnf": {
@@ -998,7 +998,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "006a5266d771cab57da58a6ade483ebd3075638d",
+      "revision": "32eade147a3714c768049ba0ddabd3f3ecbe5e99",
       "url": "https://github.com/cathaysia/tree-sitter-idl"
    },
    "ini": {
@@ -1016,7 +1016,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "4cef9aa4980606311b906b2f2b8c6cf791c60396",
+      "revision": "7860637ce1b43f5f79cfb7cc3311bf3234e9479f",
       "url": "https://github.com/inko-lang/tree-sitter-inko"
    },
    "ispc": {
@@ -1035,7 +1035,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "25d0687433ed0ed8e320861c2c625711ce1716f9",
+      "revision": "f3d6e09cc47e76833f23f83b2c59ea0878660953",
       "url": "https://github.com/sogaiu/tree-sitter-janet-simple"
    },
    "java": {
@@ -1293,7 +1293,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "5b088fac748f2666a315cafd1638a214388eb23e",
+      "revision": "09df1696adefcee8a4422dea85990a56e668547e",
       "url": "https://github.com/amaanq/tree-sitter-luau"
    },
    "m68k": {
@@ -1522,7 +1522,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "edfc92802b0df40c1dcf7f6e624714c21121ac44",
+      "revision": "d37b8f24f653378b268ec18404e9c14ad355b128",
       "url": "https://github.com/amaanq/tree-sitter-odin"
    },
    "org": {
@@ -1569,7 +1569,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "d4ebabd45bcb053fcc7f6688b5c8ed80c7ae7a32",
+      "revision": "b5b65720fa1a8640ea36602a0ac8287284fb4e42",
       "url": "https://github.com/tree-sitter-perl/tree-sitter-perl"
    },
    "php": {
@@ -1879,7 +1879,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "8666a4dfeb3107144398158bc3dd7a3f59d89ccb",
+      "revision": "360c6a6b31076a482663806f7a8241de9cad6b4e",
       "url": "https://github.com/ObserverOfTime/tree-sitter-requirements"
    },
    "rnoweb": {
