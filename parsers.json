@@ -998,7 +998,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "32eade147a3714c768049ba0ddabd3f3ecbe5e99",
+      "revision": "b5b53e2ca0521b98277d5e4b109f0b0e362e850e",
       "url": "https://github.com/cathaysia/tree-sitter-idl"
    },
    "ini": {
@@ -1825,7 +1825,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "43196d934a9a6ab3c7093a8683efd0111bb03db1",
+      "revision": "6c9bbcfdf5f0f553d9ebc01750a3aa247a37b8aa",
       "url": "https://github.com/Fymyte/tree-sitter-rasi"
    },
    "rbs": {
@@ -1938,7 +1938,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "788a63ca1b7619288980aaafd37d890ee2469421",
+      "revision": "b41dc0f4c8e040905fcbb5d93bab667541c08ec7",
       "url": "https://github.com/tree-sitter/tree-sitter-ruby"
    },
    "rust": {
@@ -2254,7 +2254,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "d631f60287c0904770bc41aa865e249594b52422",
+      "revision": "33d261ad46bd66f5f1fa12d41d0c78e55e97e48b",
       "url": "https://github.com/vrischmann/tree-sitter-templ"
    },
    "terraform": {
