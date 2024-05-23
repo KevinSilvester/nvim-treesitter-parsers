@@ -5,7 +5,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "ba0894efa03beb70780156b91e28c716b7a4764d",
+      "revision": "5417b9ffc790d2b2aff61db5113d6d89b0d17a25",
       "url": "https://github.com/briot/tree-sitter-ada"
    },
    "agda": {
@@ -152,6 +152,15 @@
       "revision": "60ba73739c6083c693d86a1a7cf039c07eb4ed59",
       "url": "https://gitlab.com/gabmus/tree-sitter-blueprint.git"
    },
+   "bp": {
+      "files": [
+         "src/parser.c"
+      ],
+      "generate_from_grammar": false,
+      "location": null,
+      "revision": "2326d709fb9cf73cf124fdbc803c267f851721a4",
+      "url": "https://github.com/ambroisie/tree-sitter-bp"
+   },
    "c": {
       "files": [
          "src/parser.c"
@@ -205,7 +214,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "3a1ace906c151dd631cf6f149b5083f2b60e6a9e",
+      "revision": "f4236d4da8aa92bc105d9c118746474c608e6af7",
       "url": "https://github.com/sogaiu/tree-sitter-clojure"
    },
    "cmake": {
@@ -1378,7 +1387,7 @@
       ],
       "generate_from_grammar": true,
       "location": null,
-      "revision": "a708e9b3f3d7f2fc85ac3fd1d4317c51b101eab0",
+      "revision": "c31894561aa7f747ef84a8fb4f6e37689b086f85",
       "url": "https://github.com/artagnon/tree-sitter-mlir"
    },
    "muttrc": {
@@ -2254,7 +2263,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "33d261ad46bd66f5f1fa12d41d0c78e55e97e48b",
+      "revision": "cf84ea53e2e2531f23009d676ac206090c1e2392",
       "url": "https://github.com/vrischmann/tree-sitter-templ"
    },
    "terraform": {
