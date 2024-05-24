@@ -5,7 +5,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "5417b9ffc790d2b2aff61db5113d6d89b0d17a25",
+      "revision": "e8e2515465cc2d7c444498e68bdb9f1d86767f95",
       "url": "https://github.com/briot/tree-sitter-ada"
    },
    "agda": {
@@ -520,7 +520,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "b2ab8f2ef8f4a8aba3e44f7007d1793a9ee5bb70",
+      "revision": "98ea1f9c957b2ad520415eecb5a5b406e931101e",
       "url": "https://github.com/WhatsApp/tree-sitter-erlang"
    },
    "facility": {
@@ -728,7 +728,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "8c9fb41836dc202bbbcf0e2369f256055786dedb",
+      "revision": "33a16b6ff4d7206a16f2dc96c40e149c657db65f",
       "url": "https://github.com/theHamsta/tree-sitter-glsl"
    },
    "gn": {
@@ -1387,7 +1387,7 @@
       ],
       "generate_from_grammar": true,
       "location": null,
-      "revision": "c31894561aa7f747ef84a8fb4f6e37689b086f85",
+      "revision": "640c1ed624364dbdd3e4e2b36c9efe7075c44f64",
       "url": "https://github.com/artagnon/tree-sitter-mlir"
    },
    "muttrc": {
@@ -1947,7 +1947,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "b41dc0f4c8e040905fcbb5d93bab667541c08ec7",
+      "revision": "dc2d7d6b50f9975bc3c35bbec0ba11b2617b736b",
       "url": "https://github.com/tree-sitter/tree-sitter-ruby"
    },
    "rust": {
@@ -2005,7 +2005,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "35684819cec627bc32955600ee9a093ed29c3375",
+      "revision": "989bfe5ae69e7bad13454b8f52e4ab0c343d8ded",
       "url": "https://github.com/theHamsta/tree-sitter-slang"
    },
    "slint": {
@@ -2556,7 +2556,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "59d5fbd562c0e17c45312f49485098cce467f5ac",
+      "revision": "1e12c7925c41bb09818d86e30cd78644fde7d31a",
       "url": "https://github.com/theHamsta/tree-sitter-wgsl-bevy"
    },
    "wing": {
