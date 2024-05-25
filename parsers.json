@@ -437,7 +437,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "b556c9f4cf1c6a4a8ebbca47e520653801fcf535",
+      "revision": "91fc9434283aec06139e37fc007ad00922f278b4",
       "url": "https://github.com/glehmann/tree-sitter-earthfile"
    },
    "ebnf": {
@@ -1063,7 +1063,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "ce29c27450810249dde98ca9d0d95b6ae25fe154",
+      "revision": "a5de24dc7939cb07a758f8d89c089cfdb6f479aa",
       "url": "https://github.com/tree-sitter/tree-sitter-javascript"
    },
    "jq": {
@@ -1302,7 +1302,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "09df1696adefcee8a4422dea85990a56e668547e",
+      "revision": "5aa9b88a8e3327276ec6e72de997f04ac80b1ae4",
       "url": "https://github.com/amaanq/tree-sitter-luau"
    },
    "m68k": {
@@ -1387,7 +1387,7 @@
       ],
       "generate_from_grammar": true,
       "location": null,
-      "revision": "640c1ed624364dbdd3e4e2b36c9efe7075c44f64",
+      "revision": "00c32d8562dc957b187da110a3443307962b8da8",
       "url": "https://github.com/artagnon/tree-sitter-mlir"
    },
    "muttrc": {
@@ -1578,7 +1578,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "b5b65720fa1a8640ea36602a0ac8287284fb4e42",
+      "revision": "309cb8d33bcfd0a81050b21be08f9eb3f2fe2138",
       "url": "https://github.com/tree-sitter-perl/tree-sitter-perl"
    },
    "php": {
@@ -1805,7 +1805,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "d25e8d183f319497b8b22a2a1585975b020da722",
+      "revision": "e6a775551f6e32cc0efd5b822b2987138c338d9b",
       "url": "https://github.com/nvim-treesitter/tree-sitter-query"
    },
    "r": {
@@ -2128,7 +2128,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "b31a616aac5d05f927f3f9dd809789db7805b632",
+      "revision": "018d0e09d9d0f0dd6740a37682b8ee4512e8b2ac",
       "url": "https://github.com/amaanq/tree-sitter-starlark"
    },
    "strace": {
