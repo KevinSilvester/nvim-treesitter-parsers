@@ -167,7 +167,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "82fb86aa544843bd17a9f0f3dc16edf645a34349",
+      "revision": "00ed08f1a6c18141bfd7a81638e4d239a0bb55cc",
       "url": "https://github.com/tree-sitter/tree-sitter-c"
    },
    "c_sharp": {
@@ -281,7 +281,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "2369fa991eba294e9238e28280ffcd58132f94bc",
+      "revision": "d29fbff09a8c9ff4f3074de2595dfca12cb33da9",
       "url": "https://github.com/tree-sitter/tree-sitter-cpp"
    },
    "css": {
@@ -437,7 +437,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "91fc9434283aec06139e37fc007ad00922f278b4",
+      "revision": "336001d79dd62668088bc6fe6d72a774a449fa2d",
       "url": "https://github.com/glehmann/tree-sitter-earthfile"
    },
    "ebnf": {
@@ -1805,7 +1805,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "e6a775551f6e32cc0efd5b822b2987138c338d9b",
+      "revision": "f767fb0ac5e711b6d44c5e0c8d1f349687a86ce0",
       "url": "https://github.com/nvim-treesitter/tree-sitter-query"
    },
    "r": {
@@ -2052,7 +2052,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "b5a23ead0f69d38b5c9a630f52f5c129132c16ed",
+      "revision": "520f04a9579f9d2a7079b0c81a4439e5d5c9156f",
       "url": "https://github.com/JoranHonig/tree-sitter-solidity"
    },
    "soql": {
