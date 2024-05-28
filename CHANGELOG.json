@@ -1,5 +1,21 @@
 [
    {
+      "tag": "v2024-05-28-ea2b137",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-05-28-ea2b137/parsers.min.json",
+      "date": "2024-05-28 23:11:28 UTC",
+      "changes": {
+         "added": [],
+         "removed": [],
+         "updated": [
+            "inko",
+            "nickel",
+            "solidity",
+            "swift",
+            "zathurarc"
+         ]
+      }
+   },
+   {
       "tag": "v2024-05-27-aa02427",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-05-27-aa02427/parsers.min.json",
       "date": "2024-05-27 23:11:57 UTC",
