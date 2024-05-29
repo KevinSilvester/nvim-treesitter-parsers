@@ -310,7 +310,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "e7878a9cf4157e9d6c8013ff5605c9f26d62894d",
+      "revision": "1f188eff83b562ffae36d13e1b804ec6f3b9f1d9",
       "url": "https://github.com/theHamsta/tree-sitter-cuda"
    },
    "cue": {
@@ -709,7 +709,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "8432ffe32ccd360534837256747beb5b1c82fca1",
+      "revision": "02a17bf9d0553406268cdbf466d57808ae712bf3",
       "url": "https://github.com/gleam-lang/tree-sitter-gleam"
    },
    "glimmer": {
@@ -728,7 +728,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "33a16b6ff4d7206a16f2dc96c40e149c657db65f",
+      "revision": "7f91bf34cadc06a96efc475df501ffca4dda9410",
       "url": "https://github.com/theHamsta/tree-sitter-glsl"
    },
    "gn": {
@@ -924,7 +924,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "a84e8d4f675d0006f7c07f6c7bcea2fca04cdb6e",
+      "revision": "5e1225a30712ca0a9040509806c7ba274a1bbcde",
       "url": "https://github.com/theHamsta/tree-sitter-hlsl"
    },
    "hlsplaylist": {
@@ -1016,7 +1016,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "bcb84a2d4bcd6f55b911c42deade75c8f90cb0c5",
+      "revision": "87176e524f0a98f5be75fa44f4f0ff5c6eac069c",
       "url": "https://github.com/justinmk/tree-sitter-ini"
    },
    "inko": {
@@ -1179,7 +1179,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "919440e1376109bab4edac52594c17c02ae0be5a",
+      "revision": "2ff158a3c7c8ac8e50c1aefe8a3162a9156a73e7",
       "url": "https://github.com/koto-lang/tree-sitter-koto"
    },
    "kusto": {
@@ -2005,7 +2005,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "989bfe5ae69e7bad13454b8f52e4ab0c343d8ded",
+      "revision": "865d79e236c7f0e04276c969453d021d1da4b15f",
       "url": "https://github.com/theHamsta/tree-sitter-slang"
    },
    "slint": {
@@ -2632,7 +2632,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "5918bf1785662c43a841b0b6a27a129337ec3a23",
+      "revision": "6e7c8edfcd6f5f7c12b2fa9ffc6d042f1b6d7068",
       "url": "https://github.com/Freed-Wu/tree-sitter-zathurarc"
    },
    "zig": {
