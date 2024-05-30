@@ -1007,7 +1007,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "b5b53e2ca0521b98277d5e4b109f0b0e362e850e",
+      "revision": "66709df69626b5f1f139a868ad8480179e60481d",
       "url": "https://github.com/cathaysia/tree-sitter-idl"
    },
    "ini": {
@@ -1129,7 +1129,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "acd5ca12cc278df7960629c2429a096c7ac4bbea",
+      "revision": "f1baa5f8e271109d01cc8ff7473c11df2d8a9aee",
       "url": "https://github.com/tree-sitter/tree-sitter-julia"
    },
    "just": {
@@ -1415,7 +1415,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "52478738c5a072ab3ad62c74db5d0902dab064cd",
+      "revision": "0a796f3a312917724c1d9f486a201f7402a8acfd",
       "url": "https://github.com/nickel-lang/tree-sitter-nickel"
    },
    "nim": {
@@ -2080,7 +2080,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "227656e72a5f0d430bb82a467bc8078f078bba84",
+      "revision": "64ad670dd59e88c5d32bc3d759ae8562b522cad9",
       "url": "https://github.com/nilshelmig/tree-sitter-sourcepawn"
    },
    "sparql": {

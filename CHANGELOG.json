@@ -1,5 +1,20 @@
 [
    {
+      "tag": "v2024-05-30-5c92440",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-05-30-5c92440/parsers.min.json",
+      "date": "2024-05-30 23:11:41 UTC",
+      "changes": {
+         "added": [],
+         "removed": [],
+         "updated": [
+            "idl",
+            "julia",
+            "nickel",
+            "sourcepawn"
+         ]
+      }
+   },
+   {
       "tag": "v2024-05-29-b91ae14",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-05-29-b91ae14/parsers.min.json",
       "date": "2024-05-29 23:11:05 UTC",
