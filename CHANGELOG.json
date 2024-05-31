@@ -1,5 +1,19 @@
 [
    {
+      "tag": "v2024-05-31-b7d50e5",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-05-31-b7d50e5/parsers.min.json",
+      "date": "2024-05-31 23:10:35 UTC",
+      "changes": {
+         "added": [],
+         "removed": [],
+         "updated": [
+            "earthfile",
+            "idl",
+            "javascript"
+         ]
+      }
+   },
+   {
       "tag": "v2024-05-30-5c92440",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-05-30-5c92440/parsers.min.json",
       "date": "2024-05-30 23:11:41 UTC",
