@@ -167,7 +167,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "00ed08f1a6c18141bfd7a81638e4d239a0bb55cc",
+      "revision": "deca017a554045b4c203e7ddff39ae64ff05e071",
       "url": "https://github.com/tree-sitter/tree-sitter-c"
    },
    "c_sharp": {
@@ -548,7 +548,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "8ad17704b3c2469155947d4e8fcb618cf1328459",
+      "revision": "cfbfa478dc2dbef267ee94ae4323d9c886f45e94",
       "url": "https://github.com/alexmozaidze/tree-sitter-fennel"
    },
    "fidl": {
@@ -1044,7 +1044,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "f3d6e09cc47e76833f23f83b2c59ea0878660953",
+      "revision": "6bfbaadac2ba0da21087041eff85d26129c4c920",
       "url": "https://github.com/sogaiu/tree-sitter-janet-simple"
    },
    "java": {
@@ -1879,7 +1879,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "9ac75e71b2d791e0aadeef68098319d86a2a14cf",
+      "revision": "39771ed2d7eec293543c81afe705617f39d607f5",
       "url": "https://github.com/FallenAngel97/tree-sitter-rego"
    },
    "requirements": {
@@ -2014,7 +2014,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "0701312b74b87fe20e61aa662ba41c5815b5d428",
+      "revision": "59ace2390848e8ab17b47e0b9fa1e5fde8077316",
       "url": "https://github.com/slint-ui/tree-sitter-slint"
    },
    "smali": {
