@@ -2147,7 +2147,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "c68a4572e2d6403b6e99066c9a113b43f4a07a27",
+      "revision": "65835cca33a5f033bcde580ed66cde01c1fabbbe",
       "url": "https://github.com/mskelton/tree-sitter-styled"
    },
    "supercollider": {
