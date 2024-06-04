@@ -1,5 +1,29 @@
 [
    {
+      "tag": "v2024-06-04-69e41a2",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-06-04-69e41a2/parsers.min.json",
+      "date": "2024-06-04 23:12:16 UTC",
+      "changes": {
+         "added": [
+            "ralph"
+         ],
+         "removed": [],
+         "updated": [
+            "arduino",
+            "cpp",
+            "djot",
+            "earthfile",
+            "koto",
+            "rego",
+            "slint",
+            "sql",
+            "teal",
+            "typespec",
+            "vimdoc"
+         ]
+      }
+   },
+   {
       "tag": "v2024-06-02-a80fe08",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-06-02-a80fe08/parsers.min.json",
       "date": "2024-06-02 23:10:52 UTC",
