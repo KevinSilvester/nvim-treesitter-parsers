@@ -437,7 +437,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "6de809419cdfb23e3a8383b6575fa3634900f276",
+      "revision": "b2672286174c078eb80cdffc61375d0364e7fafb",
       "url": "https://github.com/glehmann/tree-sitter-earthfile"
    },
    "ebnf": {
@@ -1415,7 +1415,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "0a796f3a312917724c1d9f486a201f7402a8acfd",
+      "revision": "43433d8477b24cd13acaac20a66deda49b7e2547",
       "url": "https://github.com/nickel-lang/tree-sitter-nickel"
    },
    "nim": {
