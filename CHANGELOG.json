@@ -1,5 +1,21 @@
 [
    {
+      "tag": "v2024-06-06-3a74b58",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-06-06-3a74b58/parsers.min.json",
+      "date": "2024-06-06 23:14:37 UTC",
+      "changes": {
+         "added": [],
+         "removed": [],
+         "updated": [
+            "cmake",
+            "elixir",
+            "pymanifest",
+            "requirements",
+            "sql"
+         ]
+      }
+   },
+   {
       "tag": "v2024-06-05-49e4e2b",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-06-05-49e4e2b/parsers.min.json",
       "date": "2024-06-05 23:12:34 UTC",

@@ -224,7 +224,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "20ffd6d3b4da1acdbf2d08204b2130a5b2f7c4b3",
+      "revision": "4864abb95a1f6e54d6b362677beef9fb674b41e9",
       "url": "https://github.com/uyha/tree-sitter-cmake"
    },
    "comment": {
@@ -474,7 +474,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "de690fa8a028f122af46d9d2685679fe5f2d7d60",
+      "revision": "c7ae8b77e2749826dcf23df6514f08fdd68c66a3",
       "url": "https://github.com/elixir-lang/tree-sitter-elixir"
    },
    "elm": {
@@ -1758,7 +1758,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "e3b82b78721aee07f676dac8473ae69db51debcf",
+      "revision": "be062582956165019d3253794b4d712f66dfeaaa",
       "url": "https://github.com/ObserverOfTime/tree-sitter-pymanifest"
    },
    "python": {
@@ -1897,7 +1897,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "360c6a6b31076a482663806f7a8241de9cad6b4e",
+      "revision": "5ad9b7581b3334f6ad492847d007f2fac6e6e5f2",
       "url": "https://github.com/ObserverOfTime/tree-sitter-requirements"
    },
    "rnoweb": {
@@ -2108,7 +2108,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "6a99f4aff780f98bc119c7f034406e41d7e0b80d",
+      "revision": "504a551555393e6771d2aad06f1166b7a5248fab",
       "url": "https://github.com/derekstride/tree-sitter-sql"
    },
    "squirrel": {
