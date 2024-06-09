@@ -1,5 +1,21 @@
 [
    {
+      "tag": "v2024-06-09-9ebc589",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-06-09-9ebc589/parsers.min.json",
+      "date": "2024-06-09 23:11:05 UTC",
+      "changes": {
+         "added": [],
+         "removed": [],
+         "updated": [
+            "kdl",
+            "luap",
+            "sourcepawn",
+            "swift",
+            "vimdoc"
+         ]
+      }
+   },
+   {
       "tag": "v2024-06-08-c1e1e24",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-06-08-c1e1e24/parsers.min.json",
       "date": "2024-06-08 23:11:17 UTC",
