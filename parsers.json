@@ -417,7 +417,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "4a30eba5d047d6a8c5b005202b4848c0b33d76ca",
+      "revision": "ccd998f378c3f9345ea4eeb223f56d7b84d16687",
       "url": "https://github.com/amaanq/tree-sitter-doxygen"
    },
    "dtd": {
