@@ -2052,7 +2052,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "ba1b3868eaa960b945593404af9a7c2f296d3643",
+      "revision": "5a7b14074bca95b25935e865ca8f1efad32317e4",
       "url": "https://github.com/osthomas/tree-sitter-snakemake"
    },
    "solidity": {
@@ -2650,7 +2650,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "0d08703e4c3f426ec61695d7617415fff97029bd",
+      "revision": "7c5a29b721d409be8842017351bf007d7e384401",
       "url": "https://github.com/maxxnino/tree-sitter-zig"
    }
 }
