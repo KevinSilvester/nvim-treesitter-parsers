@@ -998,7 +998,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "e5da7d0aa44403153e0394d87d9edea4e5bd6609",
+      "revision": "088bcd4052de1b9b5d051dffc3d76e658f295a50",
       "url": "https://github.com/luckasRanarison/tree-sitter-hyprlang"
    },
    "idl": {
@@ -1796,7 +1796,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "2c57cac27e207425f8df15327884434cb12365a3",
+      "revision": "febf48a5b6928600cd8fb2a01254743af550780d",
       "url": "https://github.com/yuja/tree-sitter-qmljs"
    },
    "query": {
@@ -1926,8 +1926,8 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "7df2c0892e62efb81a7504d9799d4e0d0443d241",
-      "url": "https://github.com/nat-418/tree-sitter-roc"
+      "revision": "df46a85abda9f948d38f5d4e3684cec49c42fef2",
+      "url": "https://github.com/faldor20/tree-sitter-roc"
    },
    "ron": {
       "files": [
@@ -2479,7 +2479,7 @@
       ],
       "generate_from_grammar": false,
       "location": "tree_sitter_v",
-      "revision": "7e11a6f8f369df935664fadd2f0c99d90fe3226f",
+      "revision": "c5bb1659385a9a82af63f07d3a1bb321e1de75e4",
       "url": "https://github.com/vlang/v-analyzer"
    },
    "vala": {
