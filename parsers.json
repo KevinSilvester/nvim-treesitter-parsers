@@ -432,12 +432,11 @@
    },
    "earthfile": {
       "files": [
-         "src/parser.c",
-         "src/scanner.c"
+         "src/parser.c"
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "b2672286174c078eb80cdffc61375d0364e7fafb",
+      "revision": "1a4ec8431bf6c8d77dc00f75f57eacde3ed6826f",
       "url": "https://github.com/glehmann/tree-sitter-earthfile"
    },
    "ebnf": {
@@ -998,7 +997,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "088bcd4052de1b9b5d051dffc3d76e658f295a50",
+      "revision": "c9012d6dcaaa939f17c21e1fdb17b013d139e6b9",
       "url": "https://github.com/luckasRanarison/tree-sitter-hyprlang"
    },
    "idl": {
@@ -1044,7 +1043,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "6bfbaadac2ba0da21087041eff85d26129c4c920",
+      "revision": "b5ce47537b47c408d83440efed44a10c9ba28c34",
       "url": "https://github.com/sogaiu/tree-sitter-janet-simple"
    },
    "java": {
@@ -2185,7 +2184,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "2c97326cd96b7c3016c3d249e8dc244c89b4abeb",
+      "revision": "7218cf622b057ae9c530e1f0a7a3ce49806ca55e",
       "url": "https://github.com/tree-sitter-grammars/tree-sitter-svelte"
    },
    "swift": {
@@ -2385,7 +2384,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "eaf80e6af969e25993576477a9dbdba3e48c1305",
+      "revision": "085648e01d1422163a1702a44e72303b4e2a0bd1",
       "url": "https://github.com/gbprod/tree-sitter-twig"
    },
    "typescript": {
@@ -2479,7 +2478,7 @@
       ],
       "generate_from_grammar": false,
       "location": "tree_sitter_v",
-      "revision": "c5bb1659385a9a82af63f07d3a1bb321e1de75e4",
+      "revision": "e91f8a42de7842f24f4ce600754f2b6651985fd4",
       "url": "https://github.com/vlang/v-analyzer"
    },
    "vala": {

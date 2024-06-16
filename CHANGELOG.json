@@ -1,5 +1,22 @@
 [
    {
+      "tag": "v2024-06-16-71a8e8b",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-06-16-71a8e8b/parsers.min.json",
+      "date": "2024-06-16 23:12:54 UTC",
+      "changes": {
+         "added": [],
+         "removed": [],
+         "updated": [
+            "earthfile",
+            "hyprlang",
+            "janet_simple",
+            "svelte",
+            "twig",
+            "v"
+         ]
+      }
+   },
+   {
       "tag": "v2024-06-15-4d11297",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-06-15-4d11297/parsers.min.json",
       "date": "2024-06-15 23:11:33 UTC",
