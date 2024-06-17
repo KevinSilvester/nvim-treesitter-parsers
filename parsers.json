@@ -262,7 +262,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "604d73c38d4c28ca68e9e441ffd405d68cb63051",
+      "revision": "464654742cbfd3a3de560aba120998f1d5dfa844",
       "url": "https://github.com/jakestanger/tree-sitter-corn"
    },
    "cpon": {
@@ -436,7 +436,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "1a4ec8431bf6c8d77dc00f75f57eacde3ed6826f",
+      "revision": "b5bdcb5813ce0e582fbd8e03eb42c80d3cc8984e",
       "url": "https://github.com/glehmann/tree-sitter-earthfile"
    },
    "ebnf": {
@@ -886,7 +886,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "e936d3fef8bac884661472dce71ad82284761eb1",
+      "revision": "e2d416afeba80e8cf711ed6792e089ed5c8e184e",
       "url": "https://github.com/MichaHoffmann/tree-sitter-hcl"
    },
    "heex": {
@@ -1043,7 +1043,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "b5ce47537b47c408d83440efed44a10c9ba28c34",
+      "revision": "2a05cab838dfec52daa76f10920917d2e69a85bc",
       "url": "https://github.com/sogaiu/tree-sitter-janet-simple"
    },
    "java": {
@@ -1851,7 +1851,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "e5e807a50fcd104a2d740d354632fc671700a0bf",
+      "revision": "88d8ed487b5449ddda2fc0c4fe23b71cba29ca24",
       "url": "https://github.com/joker1007/tree-sitter-rbs"
    },
    "re2c": {
