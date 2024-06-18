@@ -281,7 +281,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "9d412ba7e597fe158f209da33e60f31b1f0df967",
+      "revision": "7ce8946cae4bb25adebe5b50394f702beb007026",
       "url": "https://github.com/tree-sitter/tree-sitter-cpp"
    },
    "css": {
@@ -886,7 +886,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "e2d416afeba80e8cf711ed6792e089ed5c8e184e",
+      "revision": "422cbe1d93a8ae3847744b664041fc76876babcd",
       "url": "https://github.com/MichaHoffmann/tree-sitter-hcl"
    },
    "heex": {
@@ -2194,7 +2194,7 @@
       ],
       "generate_from_grammar": true,
       "location": null,
-      "revision": "13ffaec4068facfff608e3afbdb7a581c185f6a6",
+      "revision": "d657f98dd6bbc34cb48438c9e5956f15a6d89f1d",
       "url": "https://github.com/alex-pinkus/tree-sitter-swift"
    },
    "sxhkdrc": {
@@ -2281,7 +2281,7 @@
       ],
       "generate_from_grammar": false,
       "location": "dialects/terraform",
-      "revision": "e936d3fef8bac884661472dce71ad82284761eb1",
+      "revision": "422cbe1d93a8ae3847744b664041fc76876babcd",
       "url": "https://github.com/MichaHoffmann/tree-sitter-hcl"
    },
    "textproto": {

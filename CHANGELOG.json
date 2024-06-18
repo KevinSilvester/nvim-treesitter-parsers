@@ -1,5 +1,20 @@
 [
    {
+      "tag": "v2024-06-18-4bbd2e7",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-06-18-4bbd2e7/parsers.min.json",
+      "date": "2024-06-18 23:12:04 UTC",
+      "changes": {
+         "added": [],
+         "removed": [],
+         "updated": [
+            "cpp",
+            "hcl",
+            "swift",
+            "terraform"
+         ]
+      }
+   },
+   {
       "tag": "v2024-06-17-c29989f",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-06-17-c29989f/parsers.min.json",
       "date": "2024-06-17 23:12:16 UTC",
