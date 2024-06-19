@@ -1,5 +1,19 @@
 [
    {
+      "tag": "v2024-06-19-66ae874",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-06-19-66ae874/parsers.min.json",
+      "date": "2024-06-19 23:11:48 UTC",
+      "changes": {
+         "added": [],
+         "removed": [],
+         "updated": [
+            "djot",
+            "tsx",
+            "typescript"
+         ]
+      }
+   },
+   {
       "tag": "v2024-06-18-4bbd2e7",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-06-18-4bbd2e7/parsers.min.json",
       "date": "2024-06-18 23:12:04 UTC",

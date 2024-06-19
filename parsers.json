@@ -388,7 +388,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "ea851b9cf1a71e475f4e2ac4dc03609a1b9ca56d",
+      "revision": "87bf82874c86dcf563f5521069d603ed50e5f0cc",
       "url": "https://github.com/treeman/tree-sitter-djot"
    },
    "dockerfile": {
@@ -2366,7 +2366,7 @@
       ],
       "generate_from_grammar": false,
       "location": "tsx",
-      "revision": "4ad3010c91d700026d036b5230e2d99ba94ae8a4",
+      "revision": "4f3eb6655a1cd1a1f87ef10201f8e22886dcd76e",
       "url": "https://github.com/tree-sitter/tree-sitter-typescript"
    },
    "turtle": {
@@ -2394,7 +2394,7 @@
       ],
       "generate_from_grammar": false,
       "location": "typescript",
-      "revision": "4ad3010c91d700026d036b5230e2d99ba94ae8a4",
+      "revision": "4f3eb6655a1cd1a1f87ef10201f8e22886dcd76e",
       "url": "https://github.com/tree-sitter/tree-sitter-typescript"
    },
    "typespec": {
