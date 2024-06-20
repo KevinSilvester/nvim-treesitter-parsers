@@ -224,7 +224,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "4864abb95a1f6e54d6b362677beef9fb674b41e9",
+      "revision": "69d7a8b0f7493b0dbb07d54e8fea96c5421e8a71",
       "url": "https://github.com/uyha/tree-sitter-cmake"
    },
    "comment": {
@@ -436,7 +436,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "b5bdcb5813ce0e582fbd8e03eb42c80d3cc8984e",
+      "revision": "5a864159ff728b6d4f7d0aab3723f85a467d180f",
       "url": "https://github.com/glehmann/tree-sitter-earthfile"
    },
    "ebnf": {
@@ -1006,7 +1006,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "9f56001f8ed29b0ea9fa4f02813f3e83ab0a2aaa",
+      "revision": "6aa57adb5f6d14ea768d5d1b3d8a3fae11e6b97f",
       "url": "https://github.com/cathaysia/tree-sitter-idl"
    },
    "ini": {
@@ -1386,7 +1386,7 @@
       ],
       "generate_from_grammar": true,
       "location": null,
-      "revision": "00c32d8562dc957b187da110a3443307962b8da8",
+      "revision": "268bc99020f7ba7a219f839e3a6a31c36ad0826b",
       "url": "https://github.com/artagnon/tree-sitter-mlir"
    },
    "muttrc": {
