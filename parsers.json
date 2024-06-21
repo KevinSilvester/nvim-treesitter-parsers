@@ -1925,7 +1925,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "df46a85abda9f948d38f5d4e3684cec49c42fef2",
+      "revision": "a662513450e163dc2056603b1f426b4787aac0fd",
       "url": "https://github.com/faldor20/tree-sitter-roc"
    },
    "ron": {
@@ -1955,7 +1955,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "dc2d7d6b50f9975bc3c35bbec0ba11b2617b736b",
+      "revision": "0ffe457fb6aabf064f173fd30ea356845cef2513",
       "url": "https://github.com/tree-sitter/tree-sitter-ruby"
    },
    "rust": {
