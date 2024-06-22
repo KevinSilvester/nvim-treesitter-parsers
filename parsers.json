@@ -519,7 +519,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "b8e44bc0a3b2ce6bceea47c0b1c0f303a6b322b8",
+      "revision": "54cecce7454bab1e1c92d6fdeeb2e34625684397",
       "url": "https://github.com/WhatsApp/tree-sitter-erlang"
    },
    "facility": {
@@ -1043,7 +1043,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "2a05cab838dfec52daa76f10920917d2e69a85bc",
+      "revision": "4e23a9ef6ec8769bc4063f0fdb049b4d564ea6bc",
       "url": "https://github.com/sogaiu/tree-sitter-janet-simple"
    },
    "java": {
@@ -1452,7 +1452,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "b3cda619248e7dd0f216088bd152f59ce0bbe488",
+      "revision": "0fdada10f1f845ca9116e279ad8f5d0ca93e9949",
       "url": "https://github.com/cstrahan/tree-sitter-nix"
    },
    "norg": {
