@@ -1,5 +1,26 @@
 [
    {
+      "tag": "v2024-06-23-9d80c14",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-06-23-9d80c14/parsers.min.json",
+      "date": "2024-06-23 23:11:17 UTC",
+      "changes": {
+         "added": [
+            "systemverilog"
+         ],
+         "removed": [],
+         "updated": [
+            "cuda",
+            "glsl",
+            "hlsl",
+            "janet_simple",
+            "latex",
+            "scala",
+            "slang",
+            "wgsl_bevy"
+         ]
+      }
+   },
+   {
       "tag": "v2024-06-22-122b4d3",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-06-22-122b4d3/parsers.min.json",
       "date": "2024-06-22 23:10:08 UTC",
