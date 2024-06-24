@@ -886,7 +886,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "422cbe1d93a8ae3847744b664041fc76876babcd",
+      "revision": "9e3ec9848f28d26845ba300fd73c740459b83e9b",
       "url": "https://github.com/MichaHoffmann/tree-sitter-hcl"
    },
    "heex": {
@@ -1301,7 +1301,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "5aa9b88a8e3327276ec6e72de997f04ac80b1ae4",
+      "revision": "fbadc96272f718dba267628ba7b0e694c368cef3",
       "url": "https://github.com/amaanq/tree-sitter-luau"
    },
    "m68k": {
@@ -2221,7 +2221,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "7dc4904578a29315c64f0f6500920baff41cc3af",
+      "revision": "a478beb76be72fa8f305f5fe9cc6141ac91b91a4",
       "url": "https://github.com/zhangwwpeng/tree-sitter-systemverilog"
    },
    "t32": {
@@ -2290,7 +2290,7 @@
       ],
       "generate_from_grammar": false,
       "location": "dialects/terraform",
-      "revision": "422cbe1d93a8ae3847744b664041fc76876babcd",
+      "revision": "9e3ec9848f28d26845ba300fd73c740459b83e9b",
       "url": "https://github.com/MichaHoffmann/tree-sitter-hcl"
    },
    "textproto": {
