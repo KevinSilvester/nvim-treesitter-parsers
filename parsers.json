@@ -1138,7 +1138,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "fd814fc6c579f68c2a642f5e0268cf69daae92d7",
+      "revision": "379fbe36d1e441bc9414ea050ad0c85c9d6935ea",
       "url": "https://github.com/IndianBoy42/tree-sitter-just"
    },
    "kconfig": {
@@ -1414,7 +1414,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "43433d8477b24cd13acaac20a66deda49b7e2547",
+      "revision": "3039ad9e9af3c1ffe049a04ee83a2b489915b0b9",
       "url": "https://github.com/nickel-lang/tree-sitter-nickel"
    },
    "nim": {
@@ -1833,7 +1833,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "48b9d9d6e2b55ce8f9eb09ceb0d952e4b1cc87a0",
+      "revision": "f6d81bf7a4599c77388035439cf5801cd461ff77",
       "url": "https://github.com/alephium/tree-sitter-ralph"
    },
    "rasi": {
@@ -2250,7 +2250,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "034df2162ed7b654efd999942e266be713c7cde0",
+      "revision": "91cc49a83f4f0b3a756bf7d0e65403a9cf757003",
       "url": "https://github.com/tact-lang/tree-sitter-tact"
    },
    "tcl": {

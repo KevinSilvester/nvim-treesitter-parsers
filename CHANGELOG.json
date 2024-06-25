@@ -1,5 +1,20 @@
 [
    {
+      "tag": "v2024-06-25-09700b8",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-06-25-09700b8/parsers.min.json",
+      "date": "2024-06-25 23:10:56 UTC",
+      "changes": {
+         "added": [],
+         "removed": [],
+         "updated": [
+            "just",
+            "nickel",
+            "ralph",
+            "tact"
+         ]
+      }
+   },
+   {
       "tag": "v2024-06-24-d4a888a",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-06-24-d4a888a/parsers.min.json",
       "date": "2024-06-24 23:13:17 UTC",
