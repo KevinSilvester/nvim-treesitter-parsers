@@ -1043,7 +1043,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "6eb1525872013f58c64b0526ac9d64174f7136f1",
+      "revision": "74f054bfe916a8f5fd5e5f90bda5549000eaaa56",
       "url": "https://github.com/sogaiu/tree-sitter-janet-simple"
    },
    "java": {
@@ -1925,7 +1925,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "a662513450e163dc2056603b1f426b4787aac0fd",
+      "revision": "6ea64b6434a45472bd87b0772fd84a017de0a557",
       "url": "https://github.com/faldor20/tree-sitter-roc"
    },
    "ron": {
@@ -2194,7 +2194,7 @@
       ],
       "generate_from_grammar": true,
       "location": null,
-      "revision": "d657f98dd6bbc34cb48438c9e5956f15a6d89f1d",
+      "revision": "631f1e66bfbf55791b7a9ed23fa6dc90ee55550a",
       "url": "https://github.com/alex-pinkus/tree-sitter-swift"
    },
    "sxhkdrc": {

@@ -1,5 +1,19 @@
 [
    {
+      "tag": "v2024-06-26-53b32a6",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-06-26-53b32a6/parsers.min.json",
+      "date": "2024-06-26 23:11:12 UTC",
+      "changes": {
+         "added": [],
+         "removed": [],
+         "updated": [
+            "janet_simple",
+            "roc",
+            "swift"
+         ]
+      }
+   },
+   {
       "tag": "v2024-06-25-09700b8",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-06-25-09700b8/parsers.min.json",
       "date": "2024-06-25 23:10:56 UTC",
