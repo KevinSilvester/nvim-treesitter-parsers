@@ -1,5 +1,23 @@
 [
    {
+      "tag": "v2024-06-27-9846042",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-06-27-9846042/parsers.min.json",
+      "date": "2024-06-27 23:12:52 UTC",
+      "changes": {
+         "added": [],
+         "removed": [],
+         "updated": [
+            "erlang",
+            "gitcommit",
+            "hyprlang",
+            "janet_simple",
+            "m68k",
+            "r",
+            "sparql"
+         ]
+      }
+   },
+   {
       "tag": "v2024-06-26-53b32a6",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-06-26-53b32a6/parsers.min.json",
       "date": "2024-06-26 23:11:12 UTC",

@@ -515,11 +515,12 @@
    },
    "erlang": {
       "files": [
-         "src/parser.c"
+         "src/parser.c",
+         "src/scanner.c"
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "54cecce7454bab1e1c92d6fdeeb2e34625684397",
+      "revision": "da275db3ae46bbd00f97d11f888d8c58c14faa6d",
       "url": "https://github.com/WhatsApp/tree-sitter-erlang"
    },
    "facility": {
@@ -689,7 +690,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "edd817e0532f179b7f7f371dc180629070945f0c",
+      "revision": "821994a8029b0e271171da4331b8cfc0294d08ed",
       "url": "https://github.com/gbprod/tree-sitter-gitcommit"
    },
    "gitignore": {
@@ -997,7 +998,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "c9012d6dcaaa939f17c21e1fdb17b013d139e6b9",
+      "revision": "6858695eba0e63b9e0fceef081d291eb352abce8",
       "url": "https://github.com/luckasRanarison/tree-sitter-hyprlang"
    },
    "idl": {
@@ -1043,7 +1044,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "74f054bfe916a8f5fd5e5f90bda5549000eaaa56",
+      "revision": "3b08641373cb3e37bc531e6e3cdb85d02b454702",
       "url": "https://github.com/sogaiu/tree-sitter-janet-simple"
    },
    "java": {
@@ -1310,7 +1311,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "d097b123f19c6eaba2bf181c05420d88b9fc489d",
+      "revision": "9e082a2253c50eb3d80e84bbd635e57cfb1476a2",
       "url": "https://github.com/grahambates/tree-sitter-m68k"
    },
    "make": {
@@ -1814,7 +1815,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "391400572538ff9854341a175ed8ab4b1e45f44b",
+      "revision": "b1e211f52ad8f8e1e182bbbcc16dcd5e3688eb7d",
       "url": "https://github.com/r-lib/tree-sitter-r"
    },
    "racket": {
@@ -2097,7 +2098,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "05f949d3c1c15e3261473a244d3ce87777374dec",
+      "revision": "d853661ca680d8ff7f8d800182d5782b61d0dd58",
       "url": "https://github.com/BonaBeavis/tree-sitter-sparql"
    },
    "sql": {
