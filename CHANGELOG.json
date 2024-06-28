@@ -1,5 +1,18 @@
 [
    {
+      "tag": "v2024-06-28-3e535e8",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-06-28-3e535e8/parsers.min.json",
+      "date": "2024-06-28 23:11:52 UTC",
+      "changes": {
+         "added": [],
+         "removed": [],
+         "updated": [
+            "idl",
+            "xcompose"
+         ]
+      }
+   },
+   {
       "tag": "v2024-06-27-9846042",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-06-27-9846042/parsers.min.json",
       "date": "2024-06-27 23:12:52 UTC",

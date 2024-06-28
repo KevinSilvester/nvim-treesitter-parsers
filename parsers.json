@@ -1007,7 +1007,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "6aa57adb5f6d14ea768d5d1b3d8a3fae11e6b97f",
+      "revision": "dcc727329d383145a57f8ce7209f20c19a3765c6",
       "url": "https://github.com/cathaysia/tree-sitter-idl"
    },
    "ini": {
@@ -2602,7 +2602,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "2383cc69a2c42cfade41c7cb971fb3862bec6df1",
+      "revision": "fff3e72242aa110ebba6441946ea4d12d200fa68",
       "url": "https://github.com/ObserverOfTime/tree-sitter-xcompose"
    },
    "xml": {
