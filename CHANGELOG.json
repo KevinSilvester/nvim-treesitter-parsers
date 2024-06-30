@@ -1,5 +1,21 @@
 [
    {
+      "tag": "v2024-06-30-7ff0b8d",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-06-30-7ff0b8d/parsers.min.json",
+      "date": "2024-06-30 23:12:17 UTC",
+      "changes": {
+         "added": [
+            "robots"
+         ],
+         "removed": [],
+         "updated": [
+            "http",
+            "matlab",
+            "scala"
+         ]
+      }
+   },
+   {
       "tag": "v2024-06-29-f0e3b5c",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-06-29-f0e3b5c/parsers.min.json",
       "date": "2024-06-29 23:11:44 UTC",
