@@ -25,7 +25,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "10f21f3f1b10584e62ecc113ab3cda1196d0ceb8",
+      "revision": "5c9b47c6a978072808b356065fe8f223cdc8fc07",
       "url": "https://github.com/dlvandenberg/tree-sitter-angular"
    },
    "apex": {
@@ -158,7 +158,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "2326d709fb9cf73cf124fdbc803c267f851721a4",
+      "revision": "4e60cf3c2e613625c06f6f85540b3631e2d06cd3",
       "url": "https://github.com/ambroisie/tree-sitter-bp"
    },
    "c": {
@@ -368,7 +368,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "629676fc3919606964231b2c7b9677d6998a2cb4",
+      "revision": "19dd5aa52fe339a1d974768a09ee2537303e8ca5",
       "url": "https://github.com/the-mikedavis/tree-sitter-diff"
    },
    "disassembly": {
@@ -427,7 +427,7 @@
       ],
       "generate_from_grammar": false,
       "location": "dtd",
-      "revision": "648183d86f6f8ffb240ea11b4c6873f6f45d8b67",
+      "revision": "809266ed1694d64dedc168a18893cc254e3edf7e",
       "url": "https://github.com/tree-sitter-grammars/tree-sitter-xml"
    },
    "earthfile": {
@@ -980,7 +980,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "8d22f33faa5aa95c6526606fb656ada342e59e40",
+      "revision": "2dacda923bafcfeae487e457df0fc1c95f6d1848",
       "url": "https://github.com/rest-nvim/tree-sitter-http"
    },
    "hurl": {
@@ -1007,7 +1007,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "dcc727329d383145a57f8ce7209f20c19a3765c6",
+      "revision": "966797b8c581526efdd2252f815dde6de1a8f932",
       "url": "https://github.com/cathaysia/tree-sitter-idl"
    },
    "ini": {
@@ -1350,7 +1350,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "79d8b25f57b48f83ae1333aff6723b83c9532e37",
+      "revision": "2825fb578325ac308945318881445a89ea06e0f6",
       "url": "https://github.com/acristoffers/tree-sitter-matlab"
    },
    "menhir": {
@@ -1501,7 +1501,7 @@
       ],
       "generate_from_grammar": false,
       "location": "grammars/ocaml",
-      "revision": "0b12614ded3ec7ed7ab7933a9ba4f695ba4c342e",
+      "revision": "cd95a67cea8c839d62fc5206ed1f5c66ff9ca255",
       "url": "https://github.com/tree-sitter/tree-sitter-ocaml"
    },
    "ocaml_interface": {
@@ -1511,7 +1511,7 @@
       ],
       "generate_from_grammar": false,
       "location": "grammars/interface",
-      "revision": "0b12614ded3ec7ed7ab7933a9ba4f695ba4c342e",
+      "revision": "cd95a67cea8c839d62fc5206ed1f5c66ff9ca255",
       "url": "https://github.com/tree-sitter/tree-sitter-ocaml"
    },
    "ocamllex": {
@@ -1919,6 +1919,16 @@
       "revision": "322e4cc65754d2b3fdef4f2f8a71e0762e3d13af",
       "url": "https://github.com/Hubro/tree-sitter-robot"
    },
+   "robots": {
+      "files": [
+         "src/parser.c",
+         "src/scanner.c"
+      ],
+      "generate_from_grammar": false,
+      "location": null,
+      "revision": "8e3a4205b76236bb6dbebdbee5afc262ce38bb62",
+      "url": "https://github.com/opa-oz/tree-sitter-robots-txt"
+   },
    "roc": {
       "files": [
          "src/parser.c",
@@ -1976,7 +1986,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "5bce09bdd9d3dda5af5f4c67ca5e9bcbc7c44be2",
+      "revision": "599d12b59fed092f5a3d4a7019fd85d90cb39ec1",
       "url": "https://github.com/tree-sitter/tree-sitter-scala"
    },
    "scfg": {
@@ -2612,7 +2622,7 @@
       ],
       "generate_from_grammar": false,
       "location": "xml",
-      "revision": "648183d86f6f8ffb240ea11b4c6873f6f45d8b67",
+      "revision": "809266ed1694d64dedc168a18893cc254e3edf7e",
       "url": "https://github.com/tree-sitter-grammars/tree-sitter-xml"
    },
    "yaml": {

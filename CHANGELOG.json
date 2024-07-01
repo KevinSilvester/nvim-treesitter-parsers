@@ -1,5 +1,29 @@
 [
    {
+      "tag": "v2024-07-01-ffd7725",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-07-01-ffd7725/parsers.min.json",
+      "date": "2024-07-01 23:11:37 UTC",
+      "changes": {
+         "added": [
+            "robots"
+         ],
+         "removed": [],
+         "updated": [
+            "angular",
+            "bp",
+            "diff",
+            "dtd",
+            "http",
+            "idl",
+            "matlab",
+            "ocaml",
+            "ocaml_interface",
+            "scala",
+            "xml"
+         ]
+      }
+   },
+   {
       "tag": "v2024-06-30-7ff0b8d",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-06-30-7ff0b8d/parsers.min.json",
       "date": "2024-06-30 23:12:17 UTC",
