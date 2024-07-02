@@ -671,7 +671,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "d8a4207ebbc47bd78bacdf48f883db58283f9fd8",
+      "revision": "274e27ea0f09371122ab55b8a812a32d6ef644e8",
       "url": "https://github.com/the-mikedavis/tree-sitter-git-rebase"
    },
    "gitattributes": {
@@ -690,7 +690,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "821994a8029b0e271171da4331b8cfc0294d08ed",
+      "revision": "aa5c279287f0895a7ebc76a06e55ac3e4b2df7c7",
       "url": "https://github.com/gbprod/tree-sitter-gitcommit"
    },
    "gitignore": {
@@ -1676,6 +1676,24 @@
       "location": null,
       "revision": "eca2596a355b1a9952b4f80f8f9caed300a272b5",
       "url": "https://github.com/victorhqc/tree-sitter-prisma"
+   },
+   "problog": {
+      "files": [
+         "src/parser.c"
+      ],
+      "generate_from_grammar": false,
+      "location": "grammars/problog",
+      "revision": "d8bc22c007825d3af3d62b4326f9d8f9ca529974",
+      "url": "https://codeberg.org/foxy/tree-sitter-prolog"
+   },
+   "prolog": {
+      "files": [
+         "src/parser.c"
+      ],
+      "generate_from_grammar": false,
+      "location": "grammars/prolog",
+      "revision": "d8bc22c007825d3af3d62b4326f9d8f9ca529974",
+      "url": "https://codeberg.org/foxy/tree-sitter-prolog"
    },
    "promql": {
       "files": [

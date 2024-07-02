@@ -1,5 +1,21 @@
 [
    {
+      "tag": "v2024-07-02-6cd4ce6",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-07-02-6cd4ce6/parsers.min.json",
+      "date": "2024-07-02 23:10:59 UTC",
+      "changes": {
+         "added": [
+            "problog",
+            "prolog"
+         ],
+         "removed": [],
+         "updated": [
+            "git_rebase",
+            "gitcommit"
+         ]
+      }
+   },
+   {
       "tag": "v2024-07-01-ffd7725",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-07-01-ffd7725/parsers.min.json",
       "date": "2024-07-01 23:11:37 UTC",
