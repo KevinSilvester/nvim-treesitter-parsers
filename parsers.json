@@ -1007,7 +1007,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "966797b8c581526efdd2252f815dde6de1a8f932",
+      "revision": "dd5ce556451e51d6f67a8f53f103193e39ee49aa",
       "url": "https://github.com/cathaysia/tree-sitter-idl"
    },
    "ini": {
@@ -1684,7 +1684,7 @@
       "generate_from_grammar": false,
       "location": "grammars/problog",
       "revision": "d8bc22c007825d3af3d62b4326f9d8f9ca529974",
-      "url": "https://codeberg.org/foxy/tree-sitter-prolog"
+      "url": "https://github.com/foxyseta/tree-sitter-prolog"
    },
    "prolog": {
       "files": [
@@ -1693,7 +1693,7 @@
       "generate_from_grammar": false,
       "location": "grammars/prolog",
       "revision": "d8bc22c007825d3af3d62b4326f9d8f9ca529974",
-      "url": "https://codeberg.org/foxy/tree-sitter-prolog"
+      "url": "https://github.com/foxyseta/tree-sitter-prolog"
    },
    "promql": {
       "files": [
@@ -1870,7 +1870,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "88d8ed487b5449ddda2fc0c4fe23b71cba29ca24",
+      "revision": "8d8e65ac3f77fbc9e15b1cdb9f980a3e0ac3ab99",
       "url": "https://github.com/joker1007/tree-sitter-rbs"
    },
    "re2c": {
@@ -2127,7 +2127,7 @@
       "generate_from_grammar": false,
       "location": null,
       "revision": "d853661ca680d8ff7f8d800182d5782b61d0dd58",
-      "url": "https://github.com/BonaBeavis/tree-sitter-sparql"
+      "url": "https://github.com/GordianDziwis/tree-sitter-sparql"
    },
    "sql": {
       "files": [
@@ -2413,8 +2413,8 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "085437f5cb117703b7f520dd92161140a684f092",
-      "url": "https://github.com/BonaBeavis/tree-sitter-turtle"
+      "revision": "7f789ea7ef765080f71a298fc96b7c957fa24422",
+      "url": "https://github.com/GordianDziwis/tree-sitter-turtle"
    },
    "twig": {
       "files": [
@@ -2516,7 +2516,7 @@
       ],
       "generate_from_grammar": false,
       "location": "tree_sitter_v",
-      "revision": "e91f8a42de7842f24f4ce600754f2b6651985fd4",
+      "revision": "7f80a0441ff2ca6aa8ced8e1ee87cead9dd26515",
       "url": "https://github.com/vlang/v-analyzer"
    },
    "vala": {
