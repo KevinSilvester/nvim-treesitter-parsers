@@ -1,5 +1,20 @@
 [
    {
+      "tag": "v2024-07-04-f2f828c",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-07-04-f2f828c/parsers.min.json",
+      "date": "2024-07-04 23:11:37 UTC",
+      "changes": {
+         "added": [
+            "editorconfig"
+         ],
+         "removed": [],
+         "updated": [
+            "c_sharp",
+            "erlang"
+         ]
+      }
+   },
+   {
       "tag": "v2024-07-03-caf2753",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-07-03-caf2753/parsers.min.json",
       "date": "2024-07-03 23:13:12 UTC",

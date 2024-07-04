@@ -177,7 +177,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "82fa8f05f41a33e9bc830f85d74a9548f0291738",
+      "revision": "8623a7276b63a99b19f7793b1f81357335adb54f",
       "url": "https://github.com/tree-sitter/tree-sitter-c-sharp"
    },
    "cairo": {
@@ -448,6 +448,16 @@
       "revision": "8e635b0b723c620774dfb8abf382a7f531894b40",
       "url": "https://github.com/RubixDev/ebnf"
    },
+   "editorconfig": {
+      "files": [
+         "src/parser.c",
+         "src/scanner.c"
+      ],
+      "generate_from_grammar": false,
+      "location": null,
+      "revision": "aec8400b9554eae784125054ac4af7b767804844",
+      "url": "https://github.com/ValdezFOmar/tree-sitter-editorconfig"
+   },
    "eds": {
       "files": [
          "src/parser.c"
@@ -520,7 +530,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "da275db3ae46bbd00f97d11f888d8c58c14faa6d",
+      "revision": "9a04980accfe29a708e738376af50b96d8b562b7",
       "url": "https://github.com/WhatsApp/tree-sitter-erlang"
    },
    "facility": {
