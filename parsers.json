@@ -455,7 +455,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "aec8400b9554eae784125054ac4af7b767804844",
+      "revision": "a1f293faf993209cbbc324c4d73cd907a6aee205",
       "url": "https://github.com/ValdezFOmar/tree-sitter-editorconfig"
    },
    "eds": {
@@ -1073,7 +1073,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "391a8fcc48a11f63bf18ec9885f6f069e760949a",
+      "revision": "12e45374422f6051648717be62f0ffc40a279ee2",
       "url": "https://github.com/tree-sitter/tree-sitter-javascript"
    },
    "jq": {
@@ -2631,7 +2631,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "cab94791450524a542324d8cbe8017d69c516d8e",
+      "revision": "7351db0da11900e7f0c754b3483d39fc6a9d53e8",
       "url": "https://github.com/liamwh/tree-sitter-wit"
    },
    "xcompose": {
