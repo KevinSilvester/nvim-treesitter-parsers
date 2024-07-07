@@ -150,7 +150,7 @@
       "generate_from_grammar": false,
       "location": null,
       "revision": "60ba73739c6083c693d86a1a7cf039c07eb4ed59",
-      "url": "https://gitlab.com/gabmus/tree-sitter-blueprint.git"
+      "url": "https://gitlab.com/gabmus/tree-sitter-blueprint"
    },
    "bp": {
       "files": [
@@ -645,7 +645,7 @@
       "generate_from_grammar": false,
       "location": null,
       "revision": "19db2f47ba4c3a0f6238d4ae0e2abfca16e61dd6",
-      "url": "https://gitlab.com/jirgn/tree-sitter-fusion.git"
+      "url": "https://gitlab.com/jirgn/tree-sitter-fusion"
    },
    "gdscript": {
       "files": [
@@ -768,6 +768,15 @@
       "location": null,
       "revision": "7ee8d928db5202f6831a78f8112fd693bf69f98b",
       "url": "https://github.com/tree-sitter/tree-sitter-go"
+   },
+   "goctl": {
+      "files": [
+         "src/parser.c"
+      ],
+      "generate_from_grammar": false,
+      "location": null,
+      "revision": "f107937259c7ec4bb05f7e3d2c24b89ac36d4cc3",
+      "url": "https://github.com/chaozwn/tree-sitter-goctl"
    },
    "godot_resource": {
       "files": [
@@ -1120,7 +1129,7 @@
       "generate_from_grammar": false,
       "location": null,
       "revision": "02b01653c8a1c198ae7287d566efa86a135b30d5",
-      "url": "https://gitlab.com/WhyNotHugo/tree-sitter-jsonc.git"
+      "url": "https://gitlab.com/WhyNotHugo/tree-sitter-jsonc"
    },
    "jsonnet": {
       "files": [
@@ -1561,7 +1570,7 @@
       "generate_from_grammar": false,
       "location": null,
       "revision": "a9ee969dec5b2e3b2ccccc5954fec04100c7619e",
-      "url": "https://github.com/Isopod/tree-sitter-pascal.git"
+      "url": "https://github.com/Isopod/tree-sitter-pascal"
    },
    "passwd": {
       "files": [
@@ -2271,7 +2280,7 @@
       "generate_from_grammar": false,
       "location": null,
       "revision": "6182836f4128725f1e74ce986840d7317021a015",
-      "url": "https://gitlab.com/xasc/tree-sitter-t32.git"
+      "url": "https://gitlab.com/xasc/tree-sitter-t32"
    },
    "tablegen": {
       "files": [
@@ -2386,7 +2395,7 @@
       "generate_from_grammar": false,
       "location": null,
       "revision": "3937c5cd105ec4127448651a21aef45f52d19609",
-      "url": "https://github.com/arnarg/tree-sitter-todotxt.git"
+      "url": "https://github.com/arnarg/tree-sitter-todotxt"
    },
    "toml": {
       "files": [
@@ -2631,7 +2640,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "7351db0da11900e7f0c754b3483d39fc6a9d53e8",
+      "revision": "cd7e6534fd9a22e3e9a7a85feecf4e35461e47cb",
       "url": "https://github.com/liamwh/tree-sitter-wit"
    },
    "xcompose": {

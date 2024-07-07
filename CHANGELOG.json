@@ -1,5 +1,19 @@
 [
    {
+      "tag": "v2024-07-07-64f6f0a",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-07-07-64f6f0a/parsers.min.json",
+      "date": "2024-07-07 23:11:59 UTC",
+      "changes": {
+         "added": [
+            "goctl"
+         ],
+         "removed": [],
+         "updated": [
+            "wit"
+         ]
+      }
+   },
+   {
       "tag": "v2024-07-05-a8c082b",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-07-05-a8c082b/parsers.min.json",
       "date": "2024-07-05 23:11:51 UTC",
