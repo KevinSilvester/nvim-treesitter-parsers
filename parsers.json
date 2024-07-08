@@ -150,7 +150,7 @@
       "generate_from_grammar": false,
       "location": null,
       "revision": "60ba73739c6083c693d86a1a7cf039c07eb4ed59",
-      "url": "https://gitlab.com/gabmus/tree-sitter-blueprint"
+      "url": "https://gitlab.com/gabmus/tree-sitter-blueprint.git"
    },
    "bp": {
       "files": [
@@ -455,7 +455,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "a1f293faf993209cbbc324c4d73cd907a6aee205",
+      "revision": "c5f83685a64117872ae750ce14333a7a1dddcf0b",
       "url": "https://github.com/ValdezFOmar/tree-sitter-editorconfig"
    },
    "eds": {
@@ -616,7 +616,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "f73d473e3530862dee7cbb38520f28824e7804f6",
+      "revision": "dde9829554b831cf6cbf927294f22dfb9a8f0419",
       "url": "https://github.com/stadelmanma/tree-sitter-fortran"
    },
    "fsh": {
@@ -645,7 +645,7 @@
       "generate_from_grammar": false,
       "location": null,
       "revision": "19db2f47ba4c3a0f6238d4ae0e2abfca16e61dd6",
-      "url": "https://gitlab.com/jirgn/tree-sitter-fusion"
+      "url": "https://gitlab.com/jirgn/tree-sitter-fusion.git"
    },
    "gdscript": {
       "files": [
@@ -876,7 +876,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "070524937539eb8bb4f10debd9c83b66c434f3a2",
+      "revision": "4af5d82cf9ec39f67cb1db5b7a9269d337406592",
       "url": "https://github.com/amaanq/tree-sitter-hare"
    },
    "haskell": {
@@ -1026,7 +1026,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "dd5ce556451e51d6f67a8f53f103193e39ee49aa",
+      "revision": "443308c0f32af6681e5b0a09bb7071f3c0c85d74",
       "url": "https://github.com/cathaysia/tree-sitter-idl"
    },
    "ini": {
@@ -1129,7 +1129,7 @@
       "generate_from_grammar": false,
       "location": null,
       "revision": "02b01653c8a1c198ae7287d566efa86a135b30d5",
-      "url": "https://gitlab.com/WhyNotHugo/tree-sitter-jsonc"
+      "url": "https://gitlab.com/WhyNotHugo/tree-sitter-jsonc.git"
    },
    "jsonnet": {
       "files": [
@@ -1406,7 +1406,7 @@
       ],
       "generate_from_grammar": true,
       "location": null,
-      "revision": "268bc99020f7ba7a219f839e3a6a31c36ad0826b",
+      "revision": "935a551f76fb07f66d0ce6f1f6e955d22cd44f15",
       "url": "https://github.com/artagnon/tree-sitter-mlir"
    },
    "muttrc": {
@@ -1444,7 +1444,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "961c2798cec9250c44f7d7225ddb33d47d25856a",
+      "revision": "bb2f809b65c5c943d16c45dd17e631bf3d5d4f07",
       "url": "https://github.com/alaviss/tree-sitter-nim"
    },
    "nim_format_string": {
@@ -1607,7 +1607,7 @@
       ],
       "generate_from_grammar": false,
       "location": "php",
-      "revision": "4f124bc6075e1c3333e80190c1c170933ed72c95",
+      "revision": "575a0801f430c8672db70b73493c033a9dcfc328",
       "url": "https://github.com/tree-sitter/tree-sitter-php"
    },
    "php_only": {
@@ -1617,7 +1617,7 @@
       ],
       "generate_from_grammar": false,
       "location": "php_only",
-      "revision": "4f124bc6075e1c3333e80190c1c170933ed72c95",
+      "revision": "575a0801f430c8672db70b73493c033a9dcfc328",
       "url": "https://github.com/tree-sitter/tree-sitter-php"
    },
    "phpdoc": {
@@ -1805,7 +1805,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "71778c2a472ed00a64abf4219544edbf8e4b86d7",
+      "revision": "ccc2408e558029ad82b0dea63ff55ada495965da",
       "url": "https://github.com/tree-sitter/tree-sitter-python"
    },
    "ql": {
@@ -2165,7 +2165,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "0a50d31098e83c668d34d1160a0f6c7d23b571cc",
+      "revision": "072c969749e66f000dba35a33c387650e203e96e",
       "url": "https://github.com/amaanq/tree-sitter-squirrel"
    },
    "ssh_config": {
@@ -2280,7 +2280,7 @@
       "generate_from_grammar": false,
       "location": null,
       "revision": "6182836f4128725f1e74ce986840d7317021a015",
-      "url": "https://gitlab.com/xasc/tree-sitter-t32"
+      "url": "https://gitlab.com/xasc/tree-sitter-t32.git"
    },
    "tablegen": {
       "files": [
@@ -2376,7 +2376,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "200f9dab6b23f3b9bb8f67fc811221517f56c373",
+      "revision": "bba02e79f85e335f310fc95e21c677e49f2c4439",
       "url": "https://github.com/tlaplus-community/tree-sitter-tlaplus"
    },
    "tmux": {

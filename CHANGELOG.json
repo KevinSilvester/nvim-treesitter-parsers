@@ -1,5 +1,27 @@
 [
    {
+      "tag": "v2024-07-08-ebdffa7",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-07-08-ebdffa7/parsers.min.json",
+      "date": "2024-07-08 23:11:16 UTC",
+      "changes": {
+         "added": [],
+         "removed": [],
+         "updated": [
+            "editorconfig",
+            "fortran",
+            "hare",
+            "idl",
+            "mlir",
+            "nim",
+            "php",
+            "php_only",
+            "python",
+            "squirrel",
+            "tlaplus"
+         ]
+      }
+   },
+   {
       "tag": "v2024-07-07-64f6f0a",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-07-07-64f6f0a/parsers.min.json",
       "date": "2024-07-07 23:11:59 UTC",
