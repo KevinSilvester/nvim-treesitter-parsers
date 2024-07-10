@@ -1026,7 +1026,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "443308c0f32af6681e5b0a09bb7071f3c0c85d74",
+      "revision": "d8c1cf254f2e9d0cf9f111190c408bf3480e34e2",
       "url": "https://github.com/cathaysia/tree-sitter-idl"
    },
    "ini": {
@@ -2033,7 +2033,7 @@
       "generate_from_grammar": true,
       "location": null,
       "revision": "6deae0cbb458c849a4d1e2985093e9c9c32d7fd0",
-      "url": "https://git.sr.ht/~rockorager/tree-sitter-scfg"
+      "url": "https://github.com/rockorager/tree-sitter-scfg"
    },
    "scheme": {
       "files": [
@@ -2242,7 +2242,7 @@
       ],
       "generate_from_grammar": true,
       "location": null,
-      "revision": "631f1e66bfbf55791b7a9ed23fa6dc90ee55550a",
+      "revision": "6248145bd1c221f75feb3460e59de57f81fda58f",
       "url": "https://github.com/alex-pinkus/tree-sitter-swift"
    },
    "sxhkdrc": {
