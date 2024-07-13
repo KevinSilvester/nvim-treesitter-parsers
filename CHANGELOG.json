@@ -1,5 +1,19 @@
 [
    {
+      "tag": "v2024-07-13-7f4ac67",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-07-13-7f4ac67/parsers.min.json",
+      "date": "2024-07-13 23:10:36 UTC",
+      "changes": {
+         "added": [],
+         "removed": [],
+         "updated": [
+            "erlang",
+            "groovy",
+            "typst"
+         ]
+      }
+   },
+   {
       "tag": "v2024-07-12-972aa54",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-07-12-972aa54/parsers.min.json",
       "date": "2024-07-12 23:10:41 UTC",
@@ -2782,21 +2796,6 @@
          ],
          "removed": [],
          "updated": []
-      }
-   },
-   {
-      "tag": "v76700e1",
-      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v76700e1/parsers.min.json",
-      "date": "2024-02-09 00:50:12 UTC",
-      "changes": {
-         "added": [
-            "faust",
-            "readline"
-         ],
-         "removed": [],
-         "updated": [
-            "d"
-         ]
       }
    }
 ]
