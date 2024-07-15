@@ -436,7 +436,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "5a864159ff728b6d4f7d0aab3723f85a467d180f",
+      "revision": "b0a9bc5737340a9b80b489fe9ae93d7b2fe78cd7",
       "url": "https://github.com/glehmann/tree-sitter-earthfile"
    },
    "ebnf": {
@@ -1805,7 +1805,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "ccc2408e558029ad82b0dea63ff55ada495965da",
+      "revision": "0dee05ef958ba2eae88d1e65f24b33cad70d4367",
       "url": "https://github.com/tree-sitter/tree-sitter-python"
    },
    "ql": {
@@ -2242,7 +2242,7 @@
       ],
       "generate_from_grammar": true,
       "location": null,
-      "revision": "6248145bd1c221f75feb3460e59de57f81fda58f",
+      "revision": "9653f291ab2179185dc3703672d9fbbd29e80cfb",
       "url": "https://github.com/alex-pinkus/tree-sitter-swift"
    },
    "sxhkdrc": {
