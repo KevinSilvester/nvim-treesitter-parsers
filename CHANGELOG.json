@@ -1,5 +1,22 @@
 [
    {
+      "tag": "v2024-07-16-3076b9a",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-07-16-3076b9a/parsers.min.json",
+      "date": "2024-07-16 23:12:33 UTC",
+      "changes": {
+         "added": [],
+         "removed": [],
+         "updated": [
+            "angular",
+            "facility",
+            "idl",
+            "ocaml",
+            "ocaml_interface",
+            "templ"
+         ]
+      }
+   },
+   {
       "tag": "v2024-07-15-a6b2f4e",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-07-15-a6b2f4e/parsers.min.json",
       "date": "2024-07-15 23:12:13 UTC",
@@ -2775,26 +2792,6 @@
             "wing",
             "zathurarc"
          ]
-      }
-   },
-   {
-      "tag": "v143a342",
-      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v143a342/parsers.min.json",
-      "date": "2024-02-10 17:11:17 UTC",
-      "changes": {
-         "removed": [],
-         "updated": [
-            "arduino",
-            "bash",
-            "beancount",
-            "cpp",
-            "dtd",
-            "luadoc",
-            "slint",
-            "wing",
-            "xml"
-         ],
-         "added": []
       }
    }
 ]

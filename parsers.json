@@ -25,7 +25,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "5c9b47c6a978072808b356065fe8f223cdc8fc07",
+      "revision": "3d7f50e88acc34d7452d6fcec1b11b555da60f00",
       "url": "https://github.com/dlvandenberg/tree-sitter-angular"
    },
    "apex": {
@@ -539,7 +539,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "a52579670e2b14ec03d410c3c980fafaf6d659c4",
+      "revision": "a09ba9fea4b5e0a489d1fad9b03e3be7c12044ff",
       "url": "https://github.com/FacilityApi/tree-sitter-facility"
    },
    "faust": {
@@ -1026,7 +1026,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "1a495f4520fdd85ae4c9286fb69d9d92fb623343",
+      "revision": "2c6abedc335989f070a5b00fc8837530d0aa30bd",
       "url": "https://github.com/cathaysia/tree-sitter-idl"
    },
    "ini": {
@@ -1520,7 +1520,7 @@
       ],
       "generate_from_grammar": false,
       "location": "grammars/ocaml",
-      "revision": "cd95a67cea8c839d62fc5206ed1f5c66ff9ca255",
+      "revision": "036226e5edb410aec004cc7ac0f4b2014dd04a0e",
       "url": "https://github.com/tree-sitter/tree-sitter-ocaml"
    },
    "ocaml_interface": {
@@ -1530,7 +1530,7 @@
       ],
       "generate_from_grammar": false,
       "location": "grammars/interface",
-      "revision": "cd95a67cea8c839d62fc5206ed1f5c66ff9ca255",
+      "revision": "036226e5edb410aec004cc7ac0f4b2014dd04a0e",
       "url": "https://github.com/tree-sitter/tree-sitter-ocaml"
    },
    "ocamllex": {
@@ -2328,7 +2328,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "a4f14aa248b84df73cc1c00bf06edac8d7c96acd",
+      "revision": "23c820e2bd2b53198763d9e7bf12cebb4bf7b98f",
       "url": "https://github.com/vrischmann/tree-sitter-templ"
    },
    "terraform": {
