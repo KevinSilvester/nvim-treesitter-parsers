@@ -1,5 +1,22 @@
 [
    {
+      "tag": "v2024-07-17-0758155",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-07-17-0758155/parsers.min.json",
+      "date": "2024-07-17 23:12:37 UTC",
+      "changes": {
+         "added": [
+            "nginx"
+         ],
+         "removed": [],
+         "updated": [
+            "angular",
+            "facility",
+            "idl",
+            "templ"
+         ]
+      }
+   },
+   {
       "tag": "v2024-07-16-3076b9a",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-07-16-3076b9a/parsers.min.json",
       "date": "2024-07-16 23:12:33 UTC",
@@ -2769,26 +2786,6 @@
             "properties",
             "scala",
             "slang",
-            "wing",
-            "zathurarc"
-         ]
-      }
-   },
-   {
-      "tag": "v10e8dff",
-      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v10e8dff/parsers.min.json",
-      "date": "2024-02-12 00:51:24 UTC",
-      "changes": {
-         "added": [],
-         "removed": [],
-         "updated": [
-            "bash",
-            "cpp",
-            "dart",
-            "gitattributes",
-            "hyprlang",
-            "ruby",
-            "v",
             "wing",
             "zathurarc"
          ]

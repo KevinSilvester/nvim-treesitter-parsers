@@ -25,7 +25,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "3d7f50e88acc34d7452d6fcec1b11b555da60f00",
+      "revision": "b96a0d1605da3492f6474245098b6f0c503e596d",
       "url": "https://github.com/dlvandenberg/tree-sitter-angular"
    },
    "apex": {
@@ -539,7 +539,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "a09ba9fea4b5e0a489d1fad9b03e3be7c12044ff",
+      "revision": "2d037f2f2bf668737f72e6be6eda4b7918b68d86",
       "url": "https://github.com/FacilityApi/tree-sitter-facility"
    },
    "faust": {
@@ -1026,7 +1026,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "2c6abedc335989f070a5b00fc8837530d0aa30bd",
+      "revision": "556f2878db1c26da33a921df8226f3268fadef75",
       "url": "https://github.com/cathaysia/tree-sitter-idl"
    },
    "ini": {
@@ -1426,6 +1426,16 @@
       "location": null,
       "revision": "570f3d7be01fffc751237f4cfcf52d04e20532d1",
       "url": "https://github.com/naclsn/tree-sitter-nasm"
+   },
+   "nginx": {
+      "files": [
+         "src/parser.c",
+         "src/scanner.c"
+      ],
+      "generate_from_grammar": false,
+      "location": null,
+      "revision": "281d184b8240b2b22670b8907b57b6d6842db6f3",
+      "url": "https://github.com/opa-oz/tree-sitter-nginx"
    },
    "nickel": {
       "files": [
@@ -2328,7 +2338,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "23c820e2bd2b53198763d9e7bf12cebb4bf7b98f",
+      "revision": "de0d0ee129cf643872e8e0d5c4a6589b5a3aae23",
       "url": "https://github.com/vrischmann/tree-sitter-templ"
    },
    "terraform": {
