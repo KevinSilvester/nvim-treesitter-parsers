@@ -25,7 +25,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "b96a0d1605da3492f6474245098b6f0c503e596d",
+      "revision": "31182d43b062a350d4bd2449f2fc0d5654972be9",
       "url": "https://github.com/dlvandenberg/tree-sitter-angular"
    },
    "apex": {
@@ -388,7 +388,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "87bf82874c86dcf563f5521069d603ed50e5f0cc",
+      "revision": "886601b67d1f4690173a4925c214343c30704d32",
       "url": "https://github.com/treeman/tree-sitter-djot"
    },
    "dockerfile": {
@@ -616,7 +616,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "dde9829554b831cf6cbf927294f22dfb9a8f0419",
+      "revision": "6b633433fb3f132f21250cf8e8be76d5a6389b7e",
       "url": "https://github.com/stadelmanma/tree-sitter-fortran"
    },
    "fsh": {
@@ -1227,7 +1227,7 @@
       ],
       "generate_from_grammar": true,
       "location": null,
-      "revision": "08d8b885a3fa67a6e8aa8edd8988eaa55db46ba4",
+      "revision": "107435ada4c4c422ba4f951336b5e566b86ac3ca",
       "url": "https://github.com/latex-lsp/tree-sitter-latex"
    },
    "ledger": {
@@ -2033,7 +2033,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "599d12b59fed092f5a3d4a7019fd85d90cb39ec1",
+      "revision": "a13f2d1ee9609cc5c4c8ffce9640c353b77a24d8",
       "url": "https://github.com/tree-sitter/tree-sitter-scala"
    },
    "scfg": {
@@ -2080,7 +2080,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "d82ab8c19ea1b60ff570256eaef7d137cc5ecb63",
+      "revision": "4a0558cc0fcd7a6110815b9bbd7cc12d7ab31e74",
       "url": "https://github.com/slint-ui/tree-sitter-slint"
    },
    "smali": {
@@ -2575,6 +2575,16 @@
       "location": null,
       "revision": "075ebfc84543675f12e79a955f79d717772dcef3",
       "url": "https://github.com/tree-sitter/tree-sitter-verilog"
+   },
+   "vhdl": {
+      "files": [
+         "src/parser.c",
+         "src/scanner.c"
+      ],
+      "generate_from_grammar": false,
+      "location": null,
+      "revision": "4ab3e251eae8890a020d083d00acd1b8c2653c07",
+      "url": "https://github.com/jpt13653903/tree-sitter-vhdl"
    },
    "vhs": {
       "files": [

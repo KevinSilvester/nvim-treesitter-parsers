@@ -1,5 +1,24 @@
 [
    {
+      "tag": "v2024-07-18-de8d91d",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-07-18-de8d91d/parsers.min.json",
+      "date": "2024-07-18 23:11:20 UTC",
+      "changes": {
+         "added": [
+            "vhdl"
+         ],
+         "removed": [],
+         "updated": [
+            "angular",
+            "djot",
+            "fortran",
+            "latex",
+            "scala",
+            "slint"
+         ]
+      }
+   },
+   {
       "tag": "v2024-07-17-0758155",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-07-17-0758155/parsers.min.json",
       "date": "2024-07-17 23:12:37 UTC",
@@ -2771,22 +2790,6 @@
             "wing",
             "xcompose",
             "xml",
-            "zathurarc"
-         ]
-      }
-   },
-   {
-      "tag": "v10d79b5",
-      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v10d79b5/parsers.min.json",
-      "date": "2024-02-13 00:51:18 UTC",
-      "changes": {
-         "added": [],
-         "removed": [],
-         "updated": [
-            "properties",
-            "scala",
-            "slang",
-            "wing",
             "zathurarc"
          ]
       }
