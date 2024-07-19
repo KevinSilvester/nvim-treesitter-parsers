@@ -1,5 +1,18 @@
 [
    {
+      "tag": "v2024-07-19-4e387dd",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-07-19-4e387dd/parsers.min.json",
+      "date": "2024-07-19 23:11:48 UTC",
+      "changes": {
+         "added": [],
+         "removed": [],
+         "updated": [
+            "cuda",
+            "idl"
+         ]
+      }
+   },
+   {
       "tag": "v2024-07-18-de8d91d",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-07-18-de8d91d/parsers.min.json",
       "date": "2024-07-18 23:11:20 UTC",
@@ -2760,38 +2773,6 @@
          ],
          "added": [],
          "removed": []
-      }
-   },
-   {
-      "tag": "v4416d21",
-      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v4416d21/parsers.min.json",
-      "date": "2024-02-13 12:12:58 UTC",
-      "changes": {
-         "added": [],
-         "removed": [],
-         "updated": [
-            "arduino",
-            "bash",
-            "chatito",
-            "dtd",
-            "gitattributes",
-            "gpg",
-            "pem",
-            "poe_filter",
-            "printf",
-            "properties",
-            "pymanifest",
-            "rasi",
-            "requirements",
-            "scala",
-            "ssh_config",
-            "swift",
-            "udev",
-            "wing",
-            "xcompose",
-            "xml",
-            "zathurarc"
-         ]
       }
    }
 ]
