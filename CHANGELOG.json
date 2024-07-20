@@ -1,5 +1,19 @@
 [
    {
+      "tag": "v2024-07-20-667b9db",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-07-20-667b9db/parsers.min.json",
+      "date": "2024-07-20 23:11:17 UTC",
+      "changes": {
+         "added": [],
+         "removed": [],
+         "updated": [
+            "beancount",
+            "gleam",
+            "idl"
+         ]
+      }
+   },
+   {
       "tag": "v2024-07-19-4e387dd",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-07-19-4e387dd/parsers.min.json",
       "date": "2024-07-19 23:11:48 UTC",
@@ -2752,27 +2766,6 @@
          "added": [
             "hlsplaylist"
          ]
-      }
-   },
-   {
-      "tag": "v7e9139d",
-      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v7e9139d/parsers.min.json",
-      "date": "2024-02-14 00:51:32 UTC",
-      "changes": {
-         "updated": [
-            "c",
-            "chatito",
-            "dtd",
-            "lalrpop",
-            "properties",
-            "query",
-            "slint",
-            "wing",
-            "xml",
-            "zathurarc"
-         ],
-         "added": [],
-         "removed": []
       }
    }
 ]
