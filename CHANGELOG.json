@@ -1,5 +1,26 @@
 [
    {
+      "tag": "v2024-07-21-002537a",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-07-21-002537a/parsers.min.json",
+      "date": "2024-07-21 23:11:50 UTC",
+      "changes": {
+         "added": [],
+         "removed": [],
+         "updated": [
+            "c",
+            "cpp",
+            "cuda",
+            "glsl",
+            "latex",
+            "snakemake",
+            "svelte",
+            "swift",
+            "tsx",
+            "typescript"
+         ]
+      }
+   },
+   {
       "tag": "v2024-07-20-667b9db",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-07-20-667b9db/parsers.min.json",
       "date": "2024-07-20 23:11:17 UTC",
@@ -2750,21 +2771,6 @@
             "wing",
             "xml",
             "zathurarc"
-         ]
-      }
-   },
-   {
-      "tag": "vd96bf9d",
-      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/vd96bf9d/parsers.min.json",
-      "date": "2024-02-15 00:51:18 UTC",
-      "changes": {
-         "removed": [],
-         "updated": [
-            "tcl",
-            "wing"
-         ],
-         "added": [
-            "hlsplaylist"
          ]
       }
    }
