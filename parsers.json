@@ -1026,7 +1026,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "be067aa6146d88ac7b6276f72fc22a681f744ccb",
+      "revision": "e0fb8591d0acbb195d190d644140f821671f0011",
       "url": "https://github.com/cathaysia/tree-sitter-idl"
    },
    "ini": {
@@ -1227,7 +1227,7 @@
       ],
       "generate_from_grammar": true,
       "location": null,
-      "revision": "d018f2e6620bbaee229cb31fc8b67fabd713d770",
+      "revision": "12523bd1ffd2c428b2dad177e2b4555574d90973",
       "url": "https://github.com/latex-lsp/tree-sitter-latex"
    },
    "ledger": {
@@ -1687,6 +1687,16 @@
       "location": null,
       "revision": "73ff874ae4c9e9b45462673cbc0a1e350e2522a7",
       "url": "https://github.com/amaanq/tree-sitter-pony"
+   },
+   "powershell": {
+      "files": [
+         "src/parser.c",
+         "src/scanner.c"
+      ],
+      "generate_from_grammar": false,
+      "location": null,
+      "revision": "804d86fd4ad286bd0cc1c1f0f7b28bd7af6755ad",
+      "url": "https://github.com/airbus-cert/tree-sitter-powershell"
    },
    "printf": {
       "files": [

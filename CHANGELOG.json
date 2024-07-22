@@ -1,5 +1,20 @@
 [
    {
+      "tag": "v2024-07-22-5f5077f",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-07-22-5f5077f/parsers.min.json",
+      "date": "2024-07-22 23:11:23 UTC",
+      "changes": {
+         "added": [
+            "powershell"
+         ],
+         "removed": [],
+         "updated": [
+            "idl",
+            "latex"
+         ]
+      }
+   },
+   {
       "tag": "v2024-07-21-002537a",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-07-21-002537a/parsers.min.json",
       "date": "2024-07-21 23:11:50 UTC",
@@ -2722,56 +2737,6 @@
             "zathurarc"
          ],
          "added": []
-      }
-   },
-   {
-      "tag": "vd49a8f8",
-      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/vd49a8f8/parsers.min.json",
-      "date": "2024-02-16 00:50:15 UTC",
-      "changes": {
-         "added": [
-            "muttrc"
-         ],
-         "removed": [],
-         "updated": [
-            "agda",
-            "bash",
-            "c",
-            "c_sharp",
-            "cpp",
-            "css",
-            "devicetree",
-            "dtd",
-            "embedded_template",
-            "go",
-            "haskell",
-            "html",
-            "java",
-            "javascript",
-            "jsdoc",
-            "json",
-            "julia",
-            "kotlin",
-            "latex",
-            "ocaml",
-            "ocaml_interface",
-            "php",
-            "php_only",
-            "python",
-            "ql",
-            "regex",
-            "ruby",
-            "rust",
-            "scala",
-            "slang",
-            "sql",
-            "tsx",
-            "typescript",
-            "verilog",
-            "wing",
-            "xml",
-            "zathurarc"
-         ]
       }
    }
 ]
