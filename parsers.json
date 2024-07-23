@@ -455,7 +455,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "c5f83685a64117872ae750ce14333a7a1dddcf0b",
+      "revision": "fd0d64d2fc91eab903bed4c11ce280b62e46f16e",
       "url": "https://github.com/ValdezFOmar/tree-sitter-editorconfig"
    },
    "eds": {
@@ -681,7 +681,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "274e27ea0f09371122ab55b8a812a32d6ef644e8",
+      "revision": "bff4b66b44b020d918d67e2828eada1974a966aa",
       "url": "https://github.com/the-mikedavis/tree-sitter-git-rebase"
    },
    "gitattributes": {
@@ -1227,7 +1227,7 @@
       ],
       "generate_from_grammar": true,
       "location": null,
-      "revision": "12523bd1ffd2c428b2dad177e2b4555574d90973",
+      "revision": "6706f88d5b563ed8aaf7babb45e5f85dab001db1",
       "url": "https://github.com/latex-lsp/tree-sitter-latex"
    },
    "ledger": {
@@ -1607,7 +1607,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "309cb8d33bcfd0a81050b21be08f9eb3f2fe2138",
+      "revision": "7384aa0903f55b9a2247775b29f09df6c093cd1a",
       "url": "https://github.com/tree-sitter-perl/tree-sitter-perl"
    },
    "php": {
@@ -2156,7 +2156,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "645d093763bcaaf7535edbdf6575a5c978b16491",
+      "revision": "6b9bf9cbab91443380d2ca8a2f6c491cc7fac5bf",
       "url": "https://github.com/nilshelmig/tree-sitter-sourcepawn"
    },
    "sparql": {
@@ -2175,7 +2175,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "89fd00d0aff3bc9985ac37caf362ec4fd9b2ba1d",
+      "revision": "91c5ce054925728109f90d5c057cbf5b47f93fda",
       "url": "https://github.com/derekstride/tree-sitter-sql"
    },
    "squirrel": {
@@ -2499,7 +2499,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "90f6af21271dee246a9cafe109e2b456c5bc10a6",
+      "revision": "abe60cbed7986ee475d93f816c1be287f220c5d8",
       "url": "https://github.com/uben0/tree-sitter-typst"
    },
    "udev": {
