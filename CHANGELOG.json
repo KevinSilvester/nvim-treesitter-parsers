@@ -1,5 +1,19 @@
 [
    {
+      "tag": "v2024-07-24-96c5cb2",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-07-24-96c5cb2/parsers.min.json",
+      "date": "2024-07-24 23:12:28 UTC",
+      "changes": {
+         "added": [],
+         "removed": [],
+         "updated": [
+            "heex",
+            "perl",
+            "sql"
+         ]
+      }
+   },
+   {
       "tag": "v2024-07-23-9d252d0",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-07-23-9d252d0/parsers.min.json",
       "date": "2024-07-23 23:13:15 UTC",
@@ -2720,21 +2734,6 @@
             "puppet",
             "swift",
             "wgsl_bevy"
-         ]
-      }
-   },
-   {
-      "tag": "v17d68ac",
-      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v17d68ac/parsers.min.json",
-      "date": "2024-02-18 00:54:05 UTC",
-      "changes": {
-         "added": [],
-         "removed": [],
-         "updated": [
-            "c",
-            "javascript",
-            "rust",
-            "wing"
          ]
       }
    }

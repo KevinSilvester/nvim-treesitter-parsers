@@ -915,7 +915,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "b5ad6e34eea18a15bbd1466ca707a17f9bff7b93",
+      "revision": "6dd0303acf7138dd2b9b432a229e16539581c701",
       "url": "https://github.com/connorlay/tree-sitter-heex"
    },
    "helm": {
@@ -1607,7 +1607,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "7384aa0903f55b9a2247775b29f09df6c093cd1a",
+      "revision": "7581cbf8fb793bce94d0241c89fe49b01b1477f9",
       "url": "https://github.com/tree-sitter-perl/tree-sitter-perl"
    },
    "php": {
@@ -2175,7 +2175,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "91c5ce054925728109f90d5c057cbf5b47f93fda",
+      "revision": "bd0a2de0ae5e1dd5ded77b26f8a3e67367e90560",
       "url": "https://github.com/derekstride/tree-sitter-sql"
    },
    "squirrel": {
