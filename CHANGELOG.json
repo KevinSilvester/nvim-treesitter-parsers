@@ -1,5 +1,21 @@
 [
    {
+      "tag": "v2024-07-25-63be47f",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-07-25-63be47f/parsers.min.json",
+      "date": "2024-07-25 23:12:51 UTC",
+      "changes": {
+         "added": [],
+         "removed": [],
+         "updated": [
+            "erlang",
+            "janet_simple",
+            "latex",
+            "m68k",
+            "matlab"
+         ]
+      }
+   },
+   {
       "tag": "v2024-07-24-96c5cb2",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-07-24-96c5cb2/parsers.min.json",
       "date": "2024-07-24 23:12:28 UTC",
@@ -2718,23 +2734,6 @@
             "tmux"
          ],
          "removed": []
-      }
-   },
-   {
-      "tag": "vd10e856",
-      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/vd10e856/parsers.min.json",
-      "date": "2024-02-19 00:51:59 UTC",
-      "changes": {
-         "added": [
-            "typst"
-         ],
-         "removed": [],
-         "updated": [
-            "d",
-            "puppet",
-            "swift",
-            "wgsl_bevy"
-         ]
       }
    }
 ]
