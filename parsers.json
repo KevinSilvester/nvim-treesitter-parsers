@@ -719,7 +719,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "84fa6b0d53b6dd9414797e659923719799e3b0a8",
+      "revision": "426e67087fd62be5f4533581b5916b2cf010fb5b",
       "url": "https://github.com/gleam-lang/tree-sitter-gleam"
    },
    "glimmer": {
@@ -1026,7 +1026,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "e0fb8591d0acbb195d190d644140f821671f0011",
+      "revision": "be58a725cccee2e9e555500d97a543940bded18a",
       "url": "https://github.com/cathaysia/tree-sitter-idl"
    },
    "ini": {
@@ -2175,7 +2175,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "bd0a2de0ae5e1dd5ded77b26f8a3e67367e90560",
+      "revision": "431233e5720cd356aaccb4db7fab00093d7b80ba",
       "url": "https://github.com/derekstride/tree-sitter-sql"
    },
    "squirrel": {

@@ -1,5 +1,19 @@
 [
    {
+      "tag": "v2024-07-26-e265fec",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-07-26-e265fec/parsers.min.json",
+      "date": "2024-07-26 23:11:14 UTC",
+      "changes": {
+         "added": [],
+         "removed": [],
+         "updated": [
+            "gleam",
+            "idl",
+            "sql"
+         ]
+      }
+   },
+   {
       "tag": "v2024-07-25-63be47f",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-07-25-63be47f/parsers.min.json",
       "date": "2024-07-25 23:12:51 UTC",
@@ -2710,29 +2724,6 @@
             "zathurarc"
          ],
          "added": [],
-         "removed": []
-      }
-   },
-   {
-      "tag": "ve04ce8b",
-      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/ve04ce8b/parsers.min.json",
-      "date": "2024-02-20 00:49:58 UTC",
-      "changes": {
-         "updated": [
-            "bass",
-            "c",
-            "cpp",
-            "elm",
-            "html",
-            "markdown",
-            "markdown_inline",
-            "svelte",
-            "swift",
-            "vimdoc"
-         ],
-         "added": [
-            "tmux"
-         ],
          "removed": []
       }
    }
