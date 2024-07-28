@@ -1,5 +1,18 @@
 [
    {
+      "tag": "v2024-07-28-2d5133f",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-07-28-2d5133f/parsers.min.json",
+      "date": "2024-07-28 23:12:02 UTC",
+      "changes": {
+         "added": [],
+         "removed": [],
+         "updated": [
+            "d",
+            "latex"
+         ]
+      }
+   },
+   {
       "tag": "v2024-07-27-f97e0de",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-07-27-f97e0de/parsers.min.json",
       "date": "2024-07-27 23:12:27 UTC",
@@ -2705,28 +2718,6 @@
             "xml"
          ],
          "added": []
-      }
-   },
-   {
-      "tag": "vebf0532",
-      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/vebf0532/parsers.min.json",
-      "date": "2024-02-22 00:50:22 UTC",
-      "changes": {
-         "added": [],
-         "removed": [],
-         "updated": [
-            "chatito",
-            "cuda",
-            "dtd",
-            "fennel",
-            "gdscript",
-            "hlsl",
-            "readline",
-            "slang",
-            "sourcepawn",
-            "wing",
-            "xml"
-         ]
       }
    }
 ]
