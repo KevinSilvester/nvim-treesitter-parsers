@@ -1,5 +1,21 @@
 [
    {
+      "tag": "v2024-07-31-65310b6",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-07-31-65310b6/parsers.min.json",
+      "date": "2024-07-31 23:11:28 UTC",
+      "changes": {
+         "added": [],
+         "removed": [],
+         "updated": [
+            "http",
+            "hurl",
+            "matlab",
+            "sql",
+            "swift"
+         ]
+      }
+   },
+   {
       "tag": "v2024-07-30-9f8c99e",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-07-30-9f8c99e/parsers.min.json",
       "date": "2024-07-30 23:10:27 UTC",
@@ -2669,29 +2685,6 @@
             "swift",
             "udev",
             "v"
-         ],
-         "added": [],
-         "removed": []
-      }
-   },
-   {
-      "tag": "v9896ef5",
-      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v9896ef5/parsers.min.json",
-      "date": "2024-02-25 00:54:15 UTC",
-      "changes": {
-         "updated": [
-            "c",
-            "fennel",
-            "gitattributes",
-            "json",
-            "nim",
-            "pem",
-            "poe_filter",
-            "printf",
-            "readline",
-            "sourcepawn",
-            "wing",
-            "xcompose"
          ],
          "added": [],
          "removed": []
