@@ -1,5 +1,20 @@
 [
    {
+      "tag": "v2024-08-01-d13f018",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-08-01-d13f018/parsers.min.json",
+      "date": "2024-08-01 23:11:51 UTC",
+      "changes": {
+         "added": [],
+         "removed": [],
+         "updated": [
+            "gomod",
+            "groovy",
+            "powershell",
+            "roc"
+         ]
+      }
+   },
+   {
       "tag": "v2024-07-31-65310b6",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-07-31-65310b6/parsers.min.json",
       "date": "2024-07-31 23:11:28 UTC",
@@ -2667,27 +2682,6 @@
             "php_only",
             "wing"
          ]
-      }
-   },
-   {
-      "tag": "v6e2b56c",
-      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v6e2b56c/parsers.min.json",
-      "date": "2024-02-26 00:51:50 UTC",
-      "changes": {
-         "updated": [
-            "cooklang",
-            "gpg",
-            "properties",
-            "pymanifest",
-            "requirements",
-            "rust",
-            "ssh_config",
-            "swift",
-            "udev",
-            "v"
-         ],
-         "added": [],
-         "removed": []
       }
    }
 ]
