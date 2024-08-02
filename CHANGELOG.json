@@ -1,5 +1,19 @@
 [
    {
+      "tag": "v2024-08-02-09bad64",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-08-02-09bad64/parsers.min.json",
+      "date": "2024-08-02 23:11:12 UTC",
+      "changes": {
+         "added": [],
+         "removed": [],
+         "updated": [
+            "kotlin",
+            "nix",
+            "perl"
+         ]
+      }
+   },
+   {
       "tag": "v2024-08-01-d13f018",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-08-01-d13f018/parsers.min.json",
       "date": "2024-08-01 23:11:51 UTC",
@@ -2665,21 +2679,6 @@
             "nickel",
             "python",
             "solidity",
-            "wing"
-         ]
-      }
-   },
-   {
-      "tag": "v18aa5ae",
-      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v18aa5ae/parsers.min.json",
-      "date": "2024-02-27 00:49:57 UTC",
-      "changes": {
-         "added": [],
-         "removed": [],
-         "updated": [
-            "arduino",
-            "php",
-            "php_only",
             "wing"
          ]
       }
