@@ -1,5 +1,22 @@
 [
    {
+      "tag": "v2024-08-03-a7a3b9c",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-08-03-a7a3b9c/parsers.min.json",
+      "date": "2024-08-03 23:12:05 UTC",
+      "changes": {
+         "added": [],
+         "removed": [],
+         "updated": [
+            "cuda",
+            "hlsl",
+            "kotlin",
+            "slang",
+            "typespec",
+            "vim"
+         ]
+      }
+   },
+   {
       "tag": "v2024-08-02-09bad64",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-08-02-09bad64/parsers.min.json",
       "date": "2024-08-02 23:11:12 UTC",
@@ -2664,23 +2681,6 @@
             "xml"
          ],
          "added": []
-      }
-   },
-   {
-      "tag": "vdb12bd4",
-      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/vdb12bd4/parsers.min.json",
-      "date": "2024-02-28 00:50:04 UTC",
-      "changes": {
-         "added": [],
-         "removed": [],
-         "updated": [
-            "fidl",
-            "haskell",
-            "nickel",
-            "python",
-            "solidity",
-            "wing"
-         ]
       }
    }
 ]
