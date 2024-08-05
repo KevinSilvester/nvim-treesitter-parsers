@@ -1,5 +1,24 @@
 [
    {
+      "tag": "v2024-08-05-1aad04e",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-08-05-1aad04e/parsers.min.json",
+      "date": "2024-08-05 23:13:04 UTC",
+      "changes": {
+         "added": [],
+         "removed": [],
+         "updated": [
+            "apex",
+            "hlsplaylist",
+            "muttrc",
+            "nix",
+            "soql",
+            "sosl",
+            "tmux",
+            "zathurarc"
+         ]
+      }
+   },
+   {
       "tag": "v2024-08-04-d7353a6",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-08-04-d7353a6/parsers.min.json",
       "date": "2024-08-04 23:12:51 UTC",
@@ -2638,38 +2657,6 @@
             "wing"
          ],
          "added": []
-      }
-   },
-   {
-      "tag": "v62b0bb4",
-      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v62b0bb4/parsers.min.json",
-      "date": "2024-03-01 00:55:20 UTC",
-      "changes": {
-         "updated": [
-            "angular",
-            "beancount",
-            "chatito",
-            "gitattributes",
-            "gitcommit",
-            "gpg",
-            "groovy",
-            "hlsl",
-            "mermaid",
-            "pem",
-            "poe_filter",
-            "properties",
-            "pymanifest",
-            "requirements",
-            "ssh_config",
-            "udev",
-            "vimdoc",
-            "wing",
-            "xcompose"
-         ],
-         "added": [
-            "gdshader"
-         ],
-         "removed": []
       }
    }
 ]
