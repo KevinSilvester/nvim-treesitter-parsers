@@ -1,5 +1,22 @@
 [
    {
+      "tag": "v2024-08-06-9e66d5c",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-08-06-9e66d5c/parsers.min.json",
+      "date": "2024-08-06 23:12:01 UTC",
+      "changes": {
+         "added": [],
+         "removed": [],
+         "updated": [
+            "apex",
+            "beancount",
+            "idl",
+            "snakemake",
+            "soql",
+            "sosl"
+         ]
+      }
+   },
+   {
       "tag": "v2024-08-05-1aad04e",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-08-05-1aad04e/parsers.min.json",
       "date": "2024-08-05 23:13:04 UTC",
@@ -2641,22 +2658,6 @@
          ],
          "added": [],
          "removed": []
-      }
-   },
-   {
-      "tag": "vc2a2651",
-      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/vc2a2651/parsers.min.json",
-      "date": "2024-03-02 00:49:19 UTC",
-      "changes": {
-         "removed": [],
-         "updated": [
-            "astro",
-            "beancount",
-            "requirements",
-            "v",
-            "wing"
-         ],
-         "added": []
       }
    }
 ]
