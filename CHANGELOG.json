@@ -1,5 +1,18 @@
 [
    {
+      "tag": "v2024-08-07-3e0feeb",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-08-07-3e0feeb/parsers.min.json",
+      "date": "2024-08-07 23:11:26 UTC",
+      "changes": {
+         "added": [],
+         "removed": [],
+         "updated": [
+            "idl",
+            "scala"
+         ]
+      }
+   },
+   {
       "tag": "v2024-08-06-9e66d5c",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-08-06-9e66d5c/parsers.min.json",
       "date": "2024-08-06 23:12:01 UTC",
@@ -2644,20 +2657,6 @@
             "gotmpl",
             "helm"
          ]
-      }
-   },
-   {
-      "tag": "ve3e5ff4",
-      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/ve3e5ff4/parsers.min.json",
-      "date": "2024-03-03 00:53:18 UTC",
-      "changes": {
-         "updated": [
-            "sourcepawn",
-            "vimdoc",
-            "vue"
-         ],
-         "added": [],
-         "removed": []
       }
    }
 ]
