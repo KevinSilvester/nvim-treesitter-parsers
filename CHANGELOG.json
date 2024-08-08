@@ -1,5 +1,23 @@
 [
    {
+      "tag": "v2024-08-08-a8535b2",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-08-08-a8535b2/parsers.min.json",
+      "date": "2024-08-08 23:12:14 UTC",
+      "changes": {
+         "added": [],
+         "removed": [],
+         "updated": [
+            "hlsl",
+            "idl",
+            "nix",
+            "pascal",
+            "scala",
+            "sql",
+            "systemtap"
+         ]
+      }
+   },
+   {
       "tag": "v2024-08-07-3e0feeb",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-08-07-3e0feeb/parsers.min.json",
       "date": "2024-08-07 23:11:26 UTC",
@@ -2636,27 +2654,6 @@
          ],
          "added": [],
          "removed": []
-      }
-   },
-   {
-      "tag": "v63ca90e",
-      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v63ca90e/parsers.min.json",
-      "date": "2024-03-04 00:51:26 UTC",
-      "changes": {
-         "removed": [],
-         "updated": [
-            "arduino",
-            "gpg",
-            "sourcepawn",
-            "ssh_config",
-            "swift",
-            "vue",
-            "wing"
-         ],
-         "added": [
-            "gotmpl",
-            "helm"
-         ]
       }
    }
 ]
