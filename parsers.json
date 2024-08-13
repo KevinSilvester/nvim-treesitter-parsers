@@ -848,7 +848,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "105ee343682b7eee86b38ec6858a269e16474a72",
+      "revision": "6b91d508bee2e7679fcdac5312644fc5e5cfacb8",
       "url": "https://github.com/murtaza64/tree-sitter-groovy"
    },
    "gstlaunch": {
@@ -1264,7 +1264,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "7862a3424832c3a9d45eb21143b375837bd6573b",
+      "revision": "f84c94a4c0e93fe1231f6cda9c3a14df9c839ab2",
       "url": "https://github.com/hankthetank27/tree-sitter-liquid"
    },
    "liquidsoap": {
@@ -2053,7 +2053,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "be7184df70dd3b5790becfb2c93ba796b2797781",
+      "revision": "ae9db4bdea5f90751718f4f9a90551c809d180f7",
       "url": "https://github.com/tree-sitter/tree-sitter-scala"
    },
    "scfg": {
@@ -2367,7 +2367,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "de0d0ee129cf643872e8e0d5c4a6589b5a3aae23",
+      "revision": "4dc2c5e2b5469dc35afc3cfae4c3783d971fd51b",
       "url": "https://github.com/vrischmann/tree-sitter-templ"
    },
    "terraform": {

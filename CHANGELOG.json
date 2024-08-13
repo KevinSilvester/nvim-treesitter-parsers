@@ -1,5 +1,20 @@
 [
    {
+      "tag": "v2024-08-13-047ce49",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-08-13-047ce49/parsers.min.json",
+      "date": "2024-08-13 23:11:28 UTC",
+      "changes": {
+         "added": [],
+         "removed": [],
+         "updated": [
+            "groovy",
+            "liquid",
+            "scala",
+            "templ"
+         ]
+      }
+   },
+   {
       "tag": "v2024-08-11-e5a05ba",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-08-11-e5a05ba/parsers.min.json",
       "date": "2024-08-11 23:11:11 UTC",
@@ -2645,19 +2660,6 @@
          ],
          "added": [],
          "removed": []
-      }
-   },
-   {
-      "tag": "v9775d5d",
-      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v9775d5d/parsers.min.json",
-      "date": "2024-03-08 00:50:32 UTC",
-      "changes": {
-         "added": [],
-         "removed": [],
-         "updated": [
-            "python",
-            "wing"
-         ]
       }
    }
 ]
