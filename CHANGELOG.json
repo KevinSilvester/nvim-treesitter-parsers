@@ -1,5 +1,21 @@
 [
    {
+      "tag": "v2024-08-15-bfb50de",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-08-15-bfb50de/parsers.min.json",
+      "date": "2024-08-15 23:21:46 UTC",
+      "changes": {
+         "added": [],
+         "removed": [],
+         "updated": [
+            "angular",
+            "erlang",
+            "goctl",
+            "liquid",
+            "nix"
+         ]
+      }
+   },
+   {
       "tag": "v2024-08-13-047ce49",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-08-13-047ce49/parsers.min.json",
       "date": "2024-08-13 23:11:28 UTC",
@@ -2641,25 +2657,6 @@
             "vim",
             "wing"
          ]
-      }
-   },
-   {
-      "tag": "v5720531",
-      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v5720531/parsers.min.json",
-      "date": "2024-03-09 00:48:41 UTC",
-      "changes": {
-         "updated": [
-            "hcl",
-            "mlir",
-            "nickel",
-            "query",
-            "slint",
-            "sourcepawn",
-            "terraform",
-            "wing"
-         ],
-         "added": [],
-         "removed": []
       }
    }
 ]

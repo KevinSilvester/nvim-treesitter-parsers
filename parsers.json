@@ -25,7 +25,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "31182d43b062a350d4bd2449f2fc0d5654972be9",
+      "revision": "660e6c4d0d533da8a1d4faa1bb0870f8ccbdbf92",
       "url": "https://github.com/dlvandenberg/tree-sitter-angular"
    },
    "apex": {
@@ -530,7 +530,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "8f41b588fe38b981156651ef56b192ed3d158efd",
+      "revision": "0b5a0dcfcedd9b397252cb5568cc55ab1905b1a9",
       "url": "https://github.com/WhatsApp/tree-sitter-erlang"
    },
    "facility": {
@@ -775,7 +775,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "f107937259c7ec4bb05f7e3d2c24b89ac36d4cc3",
+      "revision": "49c43532689fe1f53e8b9e009d0521cab02c432b",
       "url": "https://github.com/chaozwn/tree-sitter-goctl"
    },
    "godot_resource": {
@@ -1264,7 +1264,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "f84c94a4c0e93fe1231f6cda9c3a14df9c839ab2",
+      "revision": "5be130ef4308d65bdd3d323dbb8a93e2bd16d623",
       "url": "https://github.com/hankthetank27/tree-sitter-liquid"
    },
    "liquidsoap": {
@@ -1482,7 +1482,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "80b9318aa0e05d9539c7adb74f4aee5cf650a25e",
+      "revision": "c00de3108b4f868e83ba67e78550e4829b3de27e",
       "url": "https://github.com/cstrahan/tree-sitter-nix"
    },
    "norg": {
