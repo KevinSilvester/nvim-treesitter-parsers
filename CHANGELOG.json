@@ -1,5 +1,25 @@
 [
    {
+      "tag": "v2024-08-18-ec8776e",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-08-18-ec8776e/parsers.min.json",
+      "date": "2024-08-18 23:12:44 UTC",
+      "changes": {
+         "added": [],
+         "removed": [],
+         "updated": [
+            "go",
+            "html",
+            "json",
+            "php",
+            "php_only",
+            "python",
+            "rust",
+            "swift",
+            "vhs"
+         ]
+      }
+   },
+   {
       "tag": "v2024-08-17-6d74da7",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-08-17-6d74da7/parsers.min.json",
       "date": "2024-08-17 23:10:28 UTC",
@@ -2627,42 +2647,6 @@
             "swift",
             "wing"
          ]
-      }
-   },
-   {
-      "tag": "v35c1a32",
-      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v35c1a32/parsers.min.json",
-      "date": "2024-03-14 00:50:50 UTC",
-      "changes": {
-         "removed": [],
-         "updated": [
-            "angular",
-            "bash",
-            "c",
-            "cmake",
-            "cue",
-            "java",
-            "javascript",
-            "kotlin",
-            "lua",
-            "php",
-            "php_only",
-            "python",
-            "racket",
-            "ruby",
-            "rust",
-            "scala",
-            "scheme",
-            "slint",
-            "solidity",
-            "swift",
-            "tlaplus",
-            "tsx",
-            "typescript",
-            "vimdoc",
-            "wing"
-         ],
-         "added": []
       }
    }
 ]
