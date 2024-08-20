@@ -848,7 +848,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "6b91d508bee2e7679fcdac5312644fc5e5cfacb8",
+      "revision": "171b3b7412bc93284fc0dad0a7a7bbbbd1b51289",
       "url": "https://github.com/murtaza64/tree-sitter-groovy"
    },
    "gstlaunch": {
@@ -1369,7 +1369,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "ad1c471f30ba754578d4b2e27a4c4ec662a10e6f",
+      "revision": "e770bddc7bfc938f24d06dd98dcbfe3469fcece4",
       "url": "https://github.com/acristoffers/tree-sitter-matlab"
    },
    "menhir": {
