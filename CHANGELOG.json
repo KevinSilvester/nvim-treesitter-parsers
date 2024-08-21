@@ -1,5 +1,23 @@
 [
    {
+      "tag": "v2024-08-21-0b8b78f",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-08-21-0b8b78f/parsers.min.json",
+      "date": "2024-08-21 23:11:41 UTC",
+      "changes": {
+         "added": [],
+         "removed": [],
+         "updated": [
+            "cuda",
+            "glimmer",
+            "http",
+            "javascript",
+            "matlab",
+            "styled",
+            "templ"
+         ]
+      }
+   },
+   {
       "tag": "v2024-08-20-6699eae",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-08-20-6699eae/parsers.min.json",
       "date": "2024-08-20 23:13:05 UTC",
@@ -2622,26 +2640,6 @@
             "ocaml_interface",
             "swift",
             "v"
-         ]
-      }
-   },
-   {
-      "tag": "v143ca5c",
-      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v143ca5c/parsers.min.json",
-      "date": "2024-03-17 00:54:11 UTC",
-      "changes": {
-         "added": [],
-         "removed": [],
-         "updated": [
-            "devicetree",
-            "dtd",
-            "htmldjango",
-            "perl",
-            "racket",
-            "scheme",
-            "v",
-            "wing",
-            "xml"
          ]
       }
    }
