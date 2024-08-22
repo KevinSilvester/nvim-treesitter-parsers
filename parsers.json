@@ -1607,7 +1607,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "3a21d9cb2a20a062c17f8f53d5983fd473c4673c",
+      "revision": "18f855fcac9a2aa055ffb9f1a0b29d2db3e2f514",
       "url": "https://github.com/tree-sitter-perl/tree-sitter-perl"
    },
    "php": {
