@@ -25,7 +25,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "660e6c4d0d533da8a1d4faa1bb0870f8ccbdbf92",
+      "revision": "c2d1f6d4c5f1993afce7f984ca2675af8d67457c",
       "url": "https://github.com/dlvandenberg/tree-sitter-angular"
    },
    "apex": {
@@ -34,7 +34,7 @@
       ],
       "generate_from_grammar": false,
       "location": "apex",
-      "revision": "9fe5d1fbfd75c11ba48a32db27ac0ed5da57ec78",
+      "revision": "602cc4b050ef1e14a69acc2ea094968bf928fa59",
       "url": "https://github.com/aheber/tree-sitter-sfapex"
    },
    "arduino": {
@@ -310,7 +310,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "22ad3429b839d5ab23b74ce3d77b61b3b5395abb",
+      "revision": "8812343a1f8496fc219f3d07a270f9c1d6ba3391",
       "url": "https://github.com/theHamsta/tree-sitter-cuda"
    },
    "cue": {
@@ -999,7 +999,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "b88cd0c7dba0128b8f28fcb25cca13eea0d193b3",
+      "revision": "bbcd67642e5749b90277c353b72e762f3be16993",
       "url": "https://github.com/rest-nvim/tree-sitter-http"
    },
    "hurl": {
@@ -1492,7 +1492,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "aa1a1a7ded81a094cc3d5cb14bea6f34b86d8688",
+      "revision": "1aab69c95bd9d5e7c0e172ecbe5d29bcf5834612",
       "url": "https://github.com/nvim-neorg/tree-sitter-norg"
    },
    "nqc": {
@@ -2090,7 +2090,7 @@
       ],
       "generate_from_grammar": false,
       "location": "sflog",
-      "revision": "9fe5d1fbfd75c11ba48a32db27ac0ed5da57ec78",
+      "revision": "602cc4b050ef1e14a69acc2ea094968bf928fa59",
       "url": "https://github.com/aheber/tree-sitter-sfapex"
    },
    "slang": {
@@ -2156,7 +2156,7 @@
       ],
       "generate_from_grammar": false,
       "location": "soql",
-      "revision": "9fe5d1fbfd75c11ba48a32db27ac0ed5da57ec78",
+      "revision": "602cc4b050ef1e14a69acc2ea094968bf928fa59",
       "url": "https://github.com/aheber/tree-sitter-sfapex"
    },
    "sosl": {
@@ -2165,7 +2165,7 @@
       ],
       "generate_from_grammar": false,
       "location": "sosl",
-      "revision": "9fe5d1fbfd75c11ba48a32db27ac0ed5da57ec78",
+      "revision": "602cc4b050ef1e14a69acc2ea094968bf928fa59",
       "url": "https://github.com/aheber/tree-sitter-sfapex"
    },
    "sourcepawn": {
@@ -2281,7 +2281,7 @@
       ],
       "generate_from_grammar": true,
       "location": null,
-      "revision": "bad2e675c58c1f5403bf0914a0f30ac045e9f15b",
+      "revision": "261d880b081def748da113262a96279ff4fffeb1",
       "url": "https://github.com/alex-pinkus/tree-sitter-swift"
    },
    "sxhkdrc": {
