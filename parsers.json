@@ -234,7 +234,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "ca6ef6c8ae0f1970d7e691d47f75ccca884a6060",
+      "revision": "3555706cef8b98d3e4c7379d7260548ff03ad363",
       "url": "https://github.com/stsewd/tree-sitter-comment"
    },
    "commonlisp": {
@@ -1607,7 +1607,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "e78a161d5b1f3d0c7ebe439bfc6b2dff6f530ea8",
+      "revision": "ad69b44c32dc099e8dc90322fe52fe1d0206ce5f",
       "url": "https://github.com/tree-sitter-perl/tree-sitter-perl"
    },
    "php": {
@@ -1853,7 +1853,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "febf48a5b6928600cd8fb2a01254743af550780d",
+      "revision": "cc4186f15e2829385be33440561fdd17b1c40cf7",
       "url": "https://github.com/yuja/tree-sitter-qmljs"
    },
    "query": {
@@ -2281,7 +2281,7 @@
       ],
       "generate_from_grammar": true,
       "location": null,
-      "revision": "261d880b081def748da113262a96279ff4fffeb1",
+      "revision": "d627a54d7266f0a8ee61b447b34d0ad07dadf1d6",
       "url": "https://github.com/alex-pinkus/tree-sitter-swift"
    },
    "sxhkdrc": {
@@ -2337,7 +2337,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "f264041de35b9e89393169dc464cfd9d3a5c750b",
+      "revision": "b3710fe2723bd9b285de7f3d0c0717bebf3f17bd",
       "url": "https://github.com/tact-lang/tree-sitter-tact"
    },
    "tcl": {
@@ -2621,7 +2621,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "780a8a21e8e8d85bf2f33f1fef06951b47ccd8ca",
+      "revision": "09f8fbfe40a3a699b200daca7d92e65fbbe9f9e6",
       "url": "https://github.com/charmbracelet/tree-sitter-vhs"
    },
    "vim": {
