@@ -999,7 +999,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "bbcd67642e5749b90277c353b72e762f3be16993",
+      "revision": "f762623c6a52a96898db325574de1ba18580cc2d",
       "url": "https://github.com/rest-nvim/tree-sitter-http"
    },
    "hurl": {
@@ -1035,7 +1035,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "87176e524f0a98f5be75fa44f4f0ff5c6eac069c",
+      "revision": "fc37e95b8d9651c60d81cccbcbbc55867dbb0afd",
       "url": "https://github.com/justinmk/tree-sitter-ini"
    },
    "inko": {
@@ -1245,7 +1245,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "07fbb1d1dd193cf9995945e5412aff61c95c67e0",
+      "revision": "6ca11a96fc2cab51217e0cf4a2f9ed3ea63e28fb",
       "url": "https://github.com/r001/tree-sitter-leo"
    },
    "linkerscript": {
@@ -2764,7 +2764,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "2bac4cc6c697d46a193905fef6d003bfa0bfabfd",
-      "url": "https://github.com/maxxnino/tree-sitter-zig"
+      "revision": "21e2218e0ec7f4e3c0640d16bf8c67e6f0a61e18",
+      "url": "https://github.com/tree-sitter-grammars/tree-sitter-zig"
    }
 }
