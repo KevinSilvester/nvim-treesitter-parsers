@@ -730,7 +730,27 @@
       "generate_from_grammar": false,
       "location": null,
       "revision": "da605af8c5999b43e6839b575eae5e6cafabb06f",
-      "url": "https://github.com/alexlafroscia/tree-sitter-glimmer"
+      "url": "https://github.com/ember-tooling/tree-sitter-glimmer"
+   },
+   "glimmer_javascript": {
+      "files": [
+         "src/parser.c",
+         "src/scanner.c"
+      ],
+      "generate_from_grammar": false,
+      "location": null,
+      "revision": "a260911201684f80cf815418b3771e6c39309f81",
+      "url": "https://github.com/NullVoxPopuli/tree-sitter-glimmer-javascript"
+   },
+   "glimmer_typescript": {
+      "files": [
+         "src/parser.c",
+         "src/scanner.c"
+      ],
+      "generate_from_grammar": false,
+      "location": null,
+      "revision": "9d018a0f93417e6951264a26093b89ee63df7315",
+      "url": "https://github.com/NullVoxPopuli/tree-sitter-glimmer-typescript"
    },
    "glsl": {
       "files": [
@@ -999,7 +1019,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "f762623c6a52a96898db325574de1ba18580cc2d",
+      "revision": "827efb386ad4b393e19193c0627809d0ba69e0cb",
       "url": "https://github.com/rest-nvim/tree-sitter-http"
    },
    "hurl": {
@@ -1188,7 +1208,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "dc5e8a14cb1f45582a8c221a270a199a5f8bdb63",
+      "revision": "7276b93ca6754c21f9630757e753f1b6aec500c1",
       "url": "https://github.com/fwcd/tree-sitter-kotlin"
    },
    "koto": {
@@ -1607,7 +1627,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "55fb764e6a94512ceeaa1b9e4d53f6103e0610b2",
+      "revision": "05d6a22c903ab7d12e93a039332ad6687c8c7b7d",
       "url": "https://github.com/tree-sitter-perl/tree-sitter-perl"
    },
    "php": {
@@ -2367,7 +2387,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "58aed18580c476d7bc211f187e7b07a6cd12bb1f",
+      "revision": "5c19fba6dc99315d02160ed928bbc5cd8ac9ffe1",
       "url": "https://github.com/vrischmann/tree-sitter-templ"
    },
    "terraform": {

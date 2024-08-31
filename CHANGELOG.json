@@ -1,5 +1,23 @@
 [
    {
+      "tag": "v2024-08-31-749df30",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-08-31-749df30/parsers.min.json",
+      "date": "2024-08-31 23:11:14 UTC",
+      "changes": {
+         "added": [
+            "glimmer_javascript",
+            "glimmer_typescript"
+         ],
+         "removed": [],
+         "updated": [
+            "http",
+            "kotlin",
+            "perl",
+            "templ"
+         ]
+      }
+   },
+   {
       "tag": "v2024-08-30-fd9663a",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-08-30-fd9663a/parsers.min.json",
       "date": "2024-08-30 23:13:17 UTC",
