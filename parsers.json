@@ -44,7 +44,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "afb34b2c65f507932c5c6ddbf0d5a9ca6a772f2f",
+      "revision": "1db90b2b54c995ee8ff8e64dabeb4a5971287c16",
       "url": "https://github.com/ObserverOfTime/tree-sitter-arduino"
    },
    "asm": {
@@ -177,7 +177,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "31a64b28292aac6adf44071e449fa03fb80eaf4e",
+      "revision": "fd7f7402db6e66afd70b402fb2e367b2d71c10d6",
       "url": "https://github.com/tree-sitter/tree-sitter-c-sharp"
    },
    "cairo": {
@@ -340,7 +340,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "cf72df5d4a623ca705e81bf9e9d264e1fe9d5da0",
+      "revision": "9ac03bb2154316624fb4c41fe0f372a5f1597b43",
       "url": "https://github.com/UserNobody14/tree-sitter-dart"
    },
    "devicetree": {
@@ -520,7 +520,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "ffbf64942c334933ee7982e144557b6efb76d0b9",
+      "revision": "62b0a6e45900a7dff7c37da95fec20a09968ba52",
       "url": "https://github.com/tree-sitter/tree-sitter-embedded-template"
    },
    "erlang": {
@@ -739,7 +739,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "426e67087fd62be5f4533581b5916b2cf010fb5b",
+      "revision": "0d38bfdc04cc90d7541c21e39089e35e40c429d3",
       "url": "https://github.com/gleam-lang/tree-sitter-gleam"
    },
    "glimmer": {
@@ -1075,7 +1075,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "fc37e95b8d9651c60d81cccbcbbc55867dbb0afd",
+      "revision": "962568c9efa71d25720ab42c5d36e222626ef3a6",
       "url": "https://github.com/justinmk/tree-sitter-ini"
    },
    "inko": {
@@ -1112,7 +1112,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "576d8097e495b411f31daaee28cb34c1752ac702",
+      "revision": "245b05c6ba900fa708242835f6168ef76f9d951e",
       "url": "https://github.com/tree-sitter/tree-sitter-java"
    },
    "javascript": {
@@ -1122,7 +1122,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "15887341e5b57ffdb423aff840aef142b8f53d6d",
+      "revision": "463fec0831011cab830429fbe1da2796cfc1cfb4",
       "url": "https://github.com/tree-sitter/tree-sitter-javascript"
    },
    "jq": {
@@ -1922,7 +1922,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "171f52a8c0ed635b85cd42d1e36d82f1066a03b4",
+      "revision": "24dbb1dfc08e0f99dfbd0eddc5e73ef307f538dc",
       "url": "https://github.com/6cdh/tree-sitter-racket"
    },
    "ralph": {
@@ -2111,7 +2111,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "8f9dff3d038f09934db5ea113cebc59c74447743",
+      "revision": "432c338093c69222efbeb124feb90715da306cc7",
       "url": "https://github.com/6cdh/tree-sitter-scheme"
    },
    "scss": {
@@ -2652,7 +2652,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "4ab3e251eae8890a020d083d00acd1b8c2653c07",
+      "revision": "3f13cd14952b39ccf6817f58880834b84565ca54",
       "url": "https://github.com/jpt13653903/tree-sitter-vhdl"
    },
    "vhs": {

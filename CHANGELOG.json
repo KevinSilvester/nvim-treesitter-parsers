@@ -1,5 +1,27 @@
 [
    {
+      "tag": "v2024-09-02-a1573a9",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-09-02-a1573a9/parsers.min.json",
+      "date": "2024-09-02 23:12:31 UTC",
+      "changes": {
+         "added": [],
+         "removed": [],
+         "updated": [
+            "arduino",
+            "c_sharp",
+            "dart",
+            "embedded_template",
+            "gleam",
+            "ini",
+            "java",
+            "javascript",
+            "racket",
+            "scheme",
+            "vhdl"
+         ]
+      }
+   },
+   {
       "tag": "v2024-09-01-2d8f0f3",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-09-01-2d8f0f3/parsers.min.json",
       "date": "2024-09-01 23:11:13 UTC",
