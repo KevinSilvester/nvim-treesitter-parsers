@@ -1,5 +1,19 @@
 [
    {
+      "tag": "v2024-09-06-ccbaee5",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-09-06-ccbaee5/parsers.min.json",
+      "date": "2024-09-06 23:13:09 UTC",
+      "changes": {
+         "added": [],
+         "removed": [],
+         "updated": [
+            "julia",
+            "kotlin",
+            "tcl"
+         ]
+      }
+   },
+   {
       "tag": "v2024-09-05-bfe74a4",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-09-05-bfe74a4/parsers.min.json",
       "date": "2024-09-05 23:13:17 UTC",
