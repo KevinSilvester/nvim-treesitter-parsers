@@ -1,5 +1,22 @@
 [
    {
+      "tag": "v2024-09-07-58030e6",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-09-07-58030e6/parsers.min.json",
+      "date": "2024-09-07 23:11:08 UTC",
+      "changes": {
+         "added": [],
+         "removed": [],
+         "updated": [
+            "elixir",
+            "erlang",
+            "groovy",
+            "r",
+            "svelte",
+            "swift"
+         ]
+      }
+   },
+   {
       "tag": "v2024-09-06-ccbaee5",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-09-06-ccbaee5/parsers.min.json",
       "date": "2024-09-06 23:13:09 UTC",
