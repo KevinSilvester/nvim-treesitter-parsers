@@ -34,7 +34,7 @@
       ],
       "generate_from_grammar": false,
       "location": "apex",
-      "revision": "602cc4b050ef1e14a69acc2ea094968bf928fa59",
+      "revision": "45994a30c6e421995ebc61f8c4c61cf75d249e27",
       "url": "https://github.com/aheber/tree-sitter-sfapex"
    },
    "arduino": {
@@ -2130,7 +2130,7 @@
       ],
       "generate_from_grammar": false,
       "location": "sflog",
-      "revision": "602cc4b050ef1e14a69acc2ea094968bf928fa59",
+      "revision": "45994a30c6e421995ebc61f8c4c61cf75d249e27",
       "url": "https://github.com/aheber/tree-sitter-sfapex"
    },
    "slang": {
@@ -2196,7 +2196,7 @@
       ],
       "generate_from_grammar": false,
       "location": "soql",
-      "revision": "602cc4b050ef1e14a69acc2ea094968bf928fa59",
+      "revision": "45994a30c6e421995ebc61f8c4c61cf75d249e27",
       "url": "https://github.com/aheber/tree-sitter-sfapex"
    },
    "sosl": {
@@ -2205,7 +2205,7 @@
       ],
       "generate_from_grammar": false,
       "location": "sosl",
-      "revision": "602cc4b050ef1e14a69acc2ea094968bf928fa59",
+      "revision": "45994a30c6e421995ebc61f8c4c61cf75d249e27",
       "url": "https://github.com/aheber/tree-sitter-sfapex"
    },
    "sourcepawn": {
@@ -2321,7 +2321,7 @@
       ],
       "generate_from_grammar": true,
       "location": null,
-      "revision": "7d303df70012edb7385a6a3b3938e0e7b89ecfbd",
+      "revision": "032930d6218d8ae23bde074cf29ce8d276b87533",
       "url": "https://github.com/alex-pinkus/tree-sitter-swift"
    },
    "sxhkdrc": {
