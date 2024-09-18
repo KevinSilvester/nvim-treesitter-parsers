@@ -7,6 +7,9 @@ on:
     branches:
       - master
 
+env:
+  CHANGELOG_LIMIT: 200
+      
 jobs:
   update:
     runs-on: ubuntu-latest
@@ -42,7 +45,9 @@ jobs:
         if: steps.parsers.outputs.CHANGED == 'true'
         shell: bash
         run: |
-          cat ./CHANGELOG.json | jq -M --indent 3 "if length == 500 then .[:-1] else . end | [{
+          # Insert a new entry into the CHANGELOG
+          # Trim the oldest entry out if the CHANGELOG_LIMIT is reached
+          cat ./CHANGELOG.json | jq -M --indent 3 "if length == $CHANGELOG_LIMIT then .[:-1] else . end | [{
             tag: \"${{ steps.parsers.outputs.RELEASE_TAG }}\",
             url: \"https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/${{ steps.parsers.outputs.RELEASE_TAG }}/parsers.min.json\",
             date: \"$(date -u +"%F %T %Z")\",
