@@ -121,7 +121,7 @@ jobs:
 
       - name: Upload Release Assets
         if: steps.parsers.outputs.CHANGED == 'true'
-        uses: softprops/action-gh-release@v4
+        uses: softprops/action-gh-release@v2
         with:
           body_path: release_body.md
           files: |
