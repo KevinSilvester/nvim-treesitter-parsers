@@ -41,7 +41,7 @@ function _main() {
       if _check_release_exists $release_url; then
          _download_and_extract $release_url
          _compile_parsers $target "added" ${added_parsers[@]}
-         _compile_parsers $target "updated" ${added_parsers[@]}
+         _compile_parsers $target "updated" ${updated_parsers[@]}
          _delete_parsers ${removed_parsers[@]}
          _archive_parsers $current_release_tag $target
       else

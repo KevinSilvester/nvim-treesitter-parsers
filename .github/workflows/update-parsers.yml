@@ -160,6 +160,9 @@ jobs:
         if: steps.parsers.outputs.CHANGED == 'true'
         uses: softprops/action-gh-release@v2
         with:
+          draft: false
+          name: ${{ steps.parsers.outputs.RELEASE_TAG }}
+          tag_name: ${{ steps.parsers.outputs.RELEASE_TAG }}
           body_path: release_body.md
           files: |
             parsers-${{ steps.parsers.outputs.RELEASE_TAG }}-aarch64-linux.tar.gz
