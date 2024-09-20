@@ -50,13 +50,19 @@ jobs:
         if: steps.parsers.outputs.CHANGED == 'true'
         uses: Swatinem/rust-cache@v2
 
-      - name: Insall ts-parsers
+      - name: Insall ts-parsers (cargo)
         if: steps.parsers.outputs.CHANGED == 'true'
         uses: baptiste0928/cargo-install@v3
         with:
           crate: ts-parsers
           git: https://github.com/KevinSilvester/ts-parsers
           commit: ${{ env.TS_PARSERS_COMMIT }}
+          
+      - name: Install tree-sitter-cli (cargo)
+        if: steps.parsers.outputs.CHANGED == 'true'
+        uses: baptiste0928/cargo-install@v3
+        with:
+          crate: tree-sitter-cli
           
       - name: Install Zig
         if: steps.parsers.outputs.CHANGED == 'true'
