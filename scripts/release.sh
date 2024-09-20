@@ -13,7 +13,7 @@
 #  - true:  Download the assets, extract archive, compile the updated/added parsers, delete the removed parsers, archive the parsers for upload
 #  - false: Compile all the parsers, archive them for upload
 
-set -x
+# set -x
 set -e
 
 ZIG_COMPILE_TARGETS=(

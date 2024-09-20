@@ -46,10 +46,6 @@ jobs:
         if: steps.parsers.outputs.CHANGED == 'true'
         uses: dtolnay/rust-toolchain@stable
 
-      - name: Setup Rust cache
-        if: steps.parsers.outputs.CHANGED == 'true'
-        uses: Swatinem/rust-cache@v2
-
       - name: Insall ts-parsers (cargo)
         if: steps.parsers.outputs.CHANGED == 'true'
         uses: baptiste0928/cargo-install@v3
