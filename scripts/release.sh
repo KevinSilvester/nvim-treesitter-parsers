@@ -55,7 +55,7 @@ function _main() {
 function _check_release_exists() {
    local url=$1
 
-   if [ $(curl -s -o /dev/null -w "%{http_code}" $url) -eq 404 ]; then
+   if [ $(curl -L -s -o /dev/null -w "%{http_code}" $url) -eq 404 ]; then
       return 1
    else
       return 0
@@ -84,6 +84,11 @@ function _compile_parsers() {
    local type=$2
    local parsers=${@:3}
 
+   if [ ${#parsers[@]} -eq 0 ]; then
+      echo "::notice::No parsers $type"
+      return 0
+   fi
+
    echo "::notice::Compiling $type parsers: ${parsers[@]}"
    ts-parsers compile \
       --no-fail-fast \
@@ -96,11 +101,14 @@ function _compile_parsers() {
 # Delete the removed parsers
 function _delete_parsers() {
    if [ $# -eq 0 ]; then
-      echo "::notice::Deleting removed parsers: $@"
-      for parser in "$@"; do
-         rm -r "/tmp/parser/$parser.so"
-      done
+      echo "::notice::No parsers removed"
+      return 0
    fi
+
+   echo "::notice::Deleting removed parsers: $@"
+   for parser in "$@"; do
+      rm -r "/tmp/parser/$parser.so"
+   done
 }
 
 # Compile all the parsers
