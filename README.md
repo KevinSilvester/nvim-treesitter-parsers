@@ -13,3 +13,9 @@ Any changes detected will trigger an updated sequence and will be reflected on [
 All updates will be tagged with the shortened `commit_id` of `nvim-treesitter` that triggered the update.
 
 Updates will also be written to written to `CHANGELOG.json` with the tag name, timestamp, changed/updated parsers list and permalink to the raw `parser.min.json`.
+
+---
+
+### TODO
+
+- [ ] Implement a way to delete the old releases and tags once the changelog limit is reached
