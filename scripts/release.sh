@@ -82,7 +82,7 @@ function _download_and_extract() {
 function _compile_parsers() {
    local target=$1
    local type=$2
-   local parsers=${@:3}
+   local parsers=(${@:3})
 
    if [ ${#parsers[@]} -eq 0 ]; then
       echo "::notice::No parsers $type"
