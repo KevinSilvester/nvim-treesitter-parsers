@@ -9,7 +9,7 @@ on:
 
 env:
   CHANGELOG_LIMIT: 200
-      
+
 jobs:
   update:
     runs-on: ubuntu-latest
@@ -58,6 +58,22 @@ jobs:
           mv CHANGELOG.tmp.json CHANGELOG.json
           cat CHANGELOG.json | jq -c -M . > ./CHANGELOG.min.json
 
+      - name: Install Rust
+        if: steps.parsers.outputs.CHANGED == 'true'
+        uses: dtolnay/rust-toolchain@stable
+
+      - name: Setup Rust cache
+        if: steps.parsers.outputs.CHANGED == 'true'
+        uses: Swatinem/rust-cache@v2
+
+      - name: Insall ts-parsers
+        if: steps.parsers.outputs.CHANGED == 'true'
+        uses: baptiste0928/cargo-install@v3
+        with:
+          crate: ts-parsers
+          git: https://github.com/KevinSilvester/ts-parsers
+          commit: eddb5b9adb973ba377632292ab30bdf61e2ba6f6
+
       - name: Commit changes
         if: steps.parsers.outputs.CHANGED == 'true'
         uses: stefanzweifel/git-auto-commit-action@v5
@@ -67,3 +83,50 @@ jobs:
           commit_user_name: "github-actions[bot]"
           commit_user_email: "github-actions[bot]@users.noreply.github.com"
           commit_author: "github-actions[bot] <github-actions[bot]@users.noreply.github.com>"
+
+      - name: Package Release Assets
+        if: steps.parsers.outputs.CHANGED == 'true'
+        shell: bash
+        run: bash scripts/package.sh
+
+      - name: Create Release Body
+        if: steps.parsers.outputs.CHANGED == 'true'
+        shell: bash
+        run: |
+          added_parsers=($(jq -r '.[0].changes.added[]' CHANGELOG.json))
+          updated_parsers=($(jq -r '.[0].changes.updated[]' CHANGELOG.json))
+          removed_parsers=($(jq -r '.[0].changes.removed[]' CHANGELOG.json))
+
+          touch release_body.md
+
+          echo "## Changes" >> release_body.md
+
+          echo "" >> release_body.md
+          echo "### Added" >> release_body.md
+          for i in "${added_parsers[@]}"; do
+            echo " - $i" >> release_body.md
+          done
+          
+          echo "" >> release_body.md
+          echo "### Updated" >> release_body.md
+          for i in "${updated_parsers[@]}"; do
+            echo " - $i" >> release_body.md
+          done
+          
+          echo "" >> release_body.md
+          echo "### Removed" >> release_body.md
+          for i in "${removed_parsers[@]}"; do
+            echo " - $i" >> release_body.md
+          done
+
+      - name: Upload Release Assets
+        if: steps.parsers.outputs.CHANGED == 'true'
+        uses: softprops/action-gh-release@v4
+        with:
+          body_path: release_body.md
+          files: |
+            parsers-${{ steps.parsers.outputs.RELEASE_TAG }}-aarch64-linux.tar.gz
+            parsers-${{ steps.parsers.outputs.RELEASE_TAG }}-x86_64-linux.tar.gz
+            parsers-${{ steps.parsers.outputs.RELEASE_TAG }}-aarch64-macos.tar.gz
+            parsers-${{ steps.parsers.outputs.RELEASE_TAG }}-x86_64-macos.tar.gz
+            parsers-${{ steps.parsers.outputs.RELEASE_TAG }}-x86_64-windows.tar.gz
