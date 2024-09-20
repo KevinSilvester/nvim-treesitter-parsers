@@ -9,6 +9,7 @@ on:
 
 env:
   CHANGELOG_LIMIT: 200
+  TS_PARSERS_COMMIT: 79920a10d5795254cf6c00a4096c372cfb7203f6
 
 jobs:
   update:
@@ -72,7 +73,7 @@ jobs:
         with:
           crate: ts-parsers
           git: https://github.com/KevinSilvester/ts-parsers
-          commit: eddb5b9adb973ba377632292ab30bdf61e2ba6f6
+          commit: ${{ env.TS_PARSERS_COMMIT }}
 
       - name: Commit changes
         if: steps.parsers.outputs.CHANGED == 'true'
@@ -87,12 +88,17 @@ jobs:
       - name: Package Release Assets
         if: steps.parsers.outputs.CHANGED == 'true'
         shell: bash
-        run: bash scripts/package.sh
+        run: |
+          sleep 5
+          bash scripts/package.sh
 
       - name: Create Release Body
         if: steps.parsers.outputs.CHANGED == 'true'
         shell: bash
         run: |
+          current_tag=$(jq -r '.[0].tag' CHANGELOG.json)
+          previous_tag=$(jq -r '.[1].tag' CHANGELOG.json)
+
           added_parsers=($(jq -r '.[0].changes.added[]' CHANGELOG.json))
           updated_parsers=($(jq -r '.[0].changes.updated[]' CHANGELOG.json))
           removed_parsers=($(jq -r '.[0].changes.removed[]' CHANGELOG.json))
@@ -102,22 +108,31 @@ jobs:
           echo "## Changes" >> release_body.md
 
           echo "" >> release_body.md
+
           echo "### Added" >> release_body.md
           for i in "${added_parsers[@]}"; do
             echo " - $i" >> release_body.md
           done
-          
+
           echo "" >> release_body.md
+
           echo "### Updated" >> release_body.md
           for i in "${updated_parsers[@]}"; do
             echo " - $i" >> release_body.md
           done
-          
+
           echo "" >> release_body.md
+
           echo "### Removed" >> release_body.md
           for i in "${removed_parsers[@]}"; do
             echo " - $i" >> release_body.md
           done
+
+          echo "" >> release_body.md
+          echo "---" >> release_body.md
+          echo "" >> release_body.md
+
+          echo "**View Changes**: https://github.com/KevinSilvester/nvim-treesitter-parsers/compare/$previous_tag...$current_tag" >> release_body.md
 
       - name: Upload Release Assets
         if: steps.parsers.outputs.CHANGED == 'true'

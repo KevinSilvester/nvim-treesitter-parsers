@@ -51,6 +51,7 @@ function _main() {
    done
 }
 
+# Check f there a previous release
 function _check_release_exists() {
    local url=$1
 
@@ -67,6 +68,7 @@ function _release_url() {
    echo "https://github.com/$REPO_OWNER/$REPO_NAME/releases/download/$tag/parsers-$tag-$target.tar.gz"
 }
 
+# Download and extract the previous release assets to /tmp
 function _download_and_extract() {
    local url=$1
 
@@ -76,30 +78,32 @@ function _download_and_extract() {
    wget -qO- $url | tar xzf - -C /tmp
 }
 
+# Compile the added/updated parsers
 function _compile_parsers() {
    local target=$1
    local type=$2
+   local parsers=${@:3}
 
-   echo "::notice::Compiling $type parsers: $@"
+   echo "::notice::Compiling $type parsers: ${parsers[@]}"
    ts-parsers compile \
       --no-fail-fast \
       --compiler zig \
       --target $target \
       --destination /tmp/parser \
-      "$@"
+      "${parsers[@]}"
 }
 
+# Delete the removed parsers
 function _delete_parsers() {
-   local removed_parsers=$1
-
-   if [[ -n $removed_parsers ]]; then
-      echo "::notice::Deleting removed parsers: ${removed_parsers[@]}"
+   if [ $# -eq 0 ]; then
+      echo "::notice::Deleting removed parsers: $@"
       for parser in "$@"; do
-         rm -r /tmp/parser/$parser
+         rm -r "/tmp/parser/$parser.so"
       done
    fi
 }
 
+# Compile all the parsers
 function _compile_all_parsers() {
    local target=$1
 
@@ -112,6 +116,7 @@ function _compile_all_parsers() {
       --destination /tmp/parser
 }
 
+# Archive the parsers
 function _archive_parsers() {
    local tag=$1
    local target=$2
