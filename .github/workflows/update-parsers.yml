@@ -31,7 +31,7 @@ jobs:
           echo "RELEASE_TAG=v$(date -u +'%Y-%m-%d')-$(git --git-dir ./nvim-treesitter/.git rev-parse --short HEAD)" >> $GITHUB_OUTPUT
 
           # install neovim
-          wget 'https://github.com/neovim/neovim/releases/download/stable/nvim-linux64.tar.gz'
+          wget -nv 'https://github.com/neovim/neovim/releases/download/stable/nvim-linux64.tar.gz'
           tar -xzf nvim-linux64.tar.gz
           rm nvim-linux64.tar.gz
 
@@ -64,7 +64,7 @@ jobs:
         if: steps.parsers.outputs.CHANGED == 'true'
         shell: bash
         run: |
-          wget 'https://ziglang.org/download/0.13.0/zig-linux-x86_64-0.13.0.tar.xz' -O /tmp/zig.tar.xz
+          wget -nv 'https://ziglang.org/download/0.13.0/zig-linux-x86_64-0.13.0.tar.xz' -O /tmp/zig.tar.xz
           tar -xf /tmp/zig.tar.xz -C /tmp
           mkdir -p $HOME/zig
           mv /tmp/zig-linux-x86_64-0.13.0/* $HOME/zig
@@ -167,8 +167,13 @@ jobs:
           tag_name: ${{ steps.parsers.outputs.RELEASE_TAG }}
           body_path: release_body.md
           files: |
-            parsers-${{ steps.parsers.outputs.RELEASE_TAG }}-aarch64-linux.tar.gz
-            parsers-${{ steps.parsers.outputs.RELEASE_TAG }}-x86_64-linux.tar.gz
-            parsers-${{ steps.parsers.outputs.RELEASE_TAG }}-aarch64-macos.tar.gz
-            parsers-${{ steps.parsers.outputs.RELEASE_TAG }}-x86_64-macos.tar.gz
-            parsers-${{ steps.parsers.outputs.RELEASE_TAG }}-x86_64-windows.tar.gz
+            parsers-${{ steps.parsers.outputs.RELEASE_TAG }}-aarch64-linux.tar.bz2
+            parsers-${{ steps.parsers.outputs.RELEASE_TAG }}-x86_64-linux.tar.bz2
+            parsers-${{ steps.parsers.outputs.RELEASE_TAG }}-aarch64-macos.tar.bz2
+            parsers-${{ steps.parsers.outputs.RELEASE_TAG }}-x86_64-macos.tar.bz2
+            parsers-${{ steps.parsers.outputs.RELEASE_TAG }}-x86_64-windows.tar.bz2
+            parsers-${{ steps.parsers.outputs.RELEASE_TAG }}-aarch64-linux.tar.bz2.sha256sum
+            parsers-${{ steps.parsers.outputs.RELEASE_TAG }}-x86_64-linux.tar.bz2.sha256sum
+            parsers-${{ steps.parsers.outputs.RELEASE_TAG }}-aarch64-macos.tar.bz2.sha256sum
+            parsers-${{ steps.parsers.outputs.RELEASE_TAG }}-x86_64-macos.tar.bz2.sha256sum
+            parsers-${{ steps.parsers.outputs.RELEASE_TAG }}-x86_64-windows.tar.bz2.sha256sum

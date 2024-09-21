@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-# A script to compile parsers for all platforms and package them in tar.gz archive.
+# A script to compile parsers for all platforms and package them in tar.bz2 archive.
 #
 # Order of operations
 # 1. Read the CHANGELOG:
@@ -55,7 +55,7 @@ function _main() {
 function _check_release_exists() {
    local url=$1
 
-   if [ $(curl -L -s -o /dev/null -w "%{http_code}" $url) -eq 404 ]; then
+   if [ $(curl -sLo /dev/null -w "%{http_code}" $url) -eq 404 ]; then
       return 1
    else
       return 0
@@ -65,7 +65,7 @@ function _check_release_exists() {
 function _release_url() {
    local tag=$1
    local target=$2
-   echo "https://github.com/$REPO_OWNER/$REPO_NAME/releases/download/$tag/parsers-$tag-$target.tar.gz"
+   echo "https://github.com/$REPO_OWNER/$REPO_NAME/releases/download/$tag/parsers-$tag-$target.tar.bz2"
 }
 
 # Download and extract the previous release assets to /tmp
@@ -75,7 +75,7 @@ function _download_and_extract() {
    echo "::notice::Downloading and extracting $url"
 
    mkdir -p /tmp
-   wget -qO- $url | tar xzf - -C /tmp
+   wget -qO- $url | tar xjf - -C /tmp
 }
 
 # Compile the added/updated parsers
@@ -130,7 +130,8 @@ function _archive_parsers() {
    local target=$2
 
    echo "::notice::Archiving parsers"
-   tar czf "parsers-$tag-$target.tar.gz" -C /tmp parser
+   tar cjf "parsers-$tag-$target.tar.bz2" -C /tmp parser
+   sha256sum "parsers-$tag-$target.tar.bz2" | awk '{print $1}' > "parsers-$tag-$target.tar.bz2.sha256sum"
    rm -r /tmp/parser
 }
 
