@@ -35,9 +35,15 @@ function _main() {
    local updated_parsers=($(jq -r '.[0].changes.updated[]' CHANGELOG.json))
    local removed_parsers=($(jq -r '.[0].changes.removed[]' CHANGELOG.json))
 
+   echo "::notice::Current release tag: $current_release_tag"
+   echo "::notice::Previous release tag: $previous_release_tag"
+   echo "::notice::Added parsers: ${added_parsers[@]}"
+   echo "::notice::Updated parsers: ${updated_parsers[@]}"
+   echo "::notice::Removed parsers: ${removed[@]}"
+
    for target in ${ZIG_COMPILE_TARGETS[@]}; do
       local release_url=$(_release_url $previous_release_tag $target)
-
+      echo "::group::Compiling parsers for $target"
       if _check_release_exists $release_url; then
          _download_and_extract $release_url
          _compile_parsers $target "added" ${added_parsers[@]}
@@ -48,12 +54,13 @@ function _main() {
          _compile_all_parsers $target
          _archive_parsers $current_release_tag $target
       fi
+      echo "::endgroup::"
    done
 }
 
 # Check f there a previous release
 function _check_release_exists() {
-   local url=$1
+   local url=$
 
    if [ $(curl -sLo /dev/null -w "%{http_code}" $url) -eq 404 ]; then
       return 1
@@ -72,7 +79,7 @@ function _release_url() {
 function _download_and_extract() {
    local url=$1
 
-   echo "::notice::Downloading and extracting $url"
+   echo "Downloading and extracting $url"
 
    mkdir -p /tmp
    wget -qO- $url | tar xjf - -C /tmp
@@ -85,11 +92,11 @@ function _compile_parsers() {
    local parsers=(${@:3})
 
    if [ ${#parsers[@]} -eq 0 ]; then
-      echo "::notice::No parsers $type"
+      echo "No parsers $type"
       return 0
    fi
 
-   echo "::notice::Compiling $type parsers: ${parsers[@]}"
+   echo "Compiling $type parsers: ${parsers[@]}"
    ts-parsers compile \
       --no-fail-fast \
       --compiler zig \
@@ -101,11 +108,11 @@ function _compile_parsers() {
 # Delete the removed parsers
 function _delete_parsers() {
    if [ $# -eq 0 ]; then
-      echo "::notice::No parsers removed"
+      echo "No parsers removed"
       return 0
    fi
 
-   echo "::notice::Deleting removed parsers: $@"
+   echo "Deleting removed parsers: $@"
    for parser in "$@"; do
       rm -r "/tmp/parser/$parser.so"
    done
@@ -129,7 +136,7 @@ function _archive_parsers() {
    local tag=$1
    local target=$2
 
-   echo "::notice::Archiving parsers"
+   echo "Archiving parsers"
    tar cjf "parsers-$tag-$target.tar.bz2" -C /tmp parser
    sha256sum "parsers-$tag-$target.tar.bz2" | awk '{print $1}' > "parsers-$tag-$target.tar.bz2.sha256sum"
    rm -r /tmp/parser
