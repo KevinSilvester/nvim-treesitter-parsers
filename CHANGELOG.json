@@ -1,5 +1,21 @@
 [
    {
+      "tag": "v2024-09-22-20b5cbf",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-09-22-20b5cbf/parsers.min.json",
+      "date": "2024-09-22 20:16:43 UTC",
+      "changes": {
+         "added": [],
+         "removed": [],
+         "updated": [
+            "d",
+            "ocaml",
+            "ocaml_interface",
+            "perl",
+            "supercollider"
+         ]
+      }
+   },
+   {
       "tag": "v2024-09-21-929ca9c",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-09-21-929ca9c/parsers.min.json",
       "date": "2024-09-21 12:59:53 UTC",
