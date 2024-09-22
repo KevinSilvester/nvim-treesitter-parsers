@@ -60,7 +60,7 @@ function _main() {
 
 # Check f there a previous release
 function _check_release_exists() {
-   local url=$
+   local url=$1
 
    if [ $(curl -sLo /dev/null -w "%{http_code}" $url) -eq 404 ]; then
       return 1
