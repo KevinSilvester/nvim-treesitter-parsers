@@ -9,13 +9,13 @@ on:
 
 env:
   CHANGELOG_LIMIT: 200
-  TS_PARSERS_COMMIT: 09b821e978c558b04144e32e5244474efb9cc6e4
+  TS_PARSERS_COMMIT: ccf81ff92570b9433b3ea53c58054fd4619f164c
   TS_PARSERS_QUIET: true
 
 jobs:
-  update:
+  update-parsers:
     runs-on: ubuntu-latest
-    name: update parsers info
+    name: Update Parsers
     permissions:
       contents: write
 
@@ -136,21 +136,21 @@ jobs:
 
           echo "### Added" >> release_body.md
           for i in "${added_parsers[@]}"; do
-            echo " - $i" >> release_body.md
+            echo " - \`$i\`" >> release_body.md
           done
 
           echo "" >> release_body.md
 
           echo "### Updated" >> release_body.md
           for i in "${updated_parsers[@]}"; do
-            echo " - $i" >> release_body.md
+            echo " - \`$i\`" >> release_body.md
           done
 
           echo "" >> release_body.md
 
           echo "### Removed" >> release_body.md
           for i in "${removed_parsers[@]}"; do
-            echo " - $i" >> release_body.md
+            echo " - \`$i\`" >> release_body.md
           done
 
           echo "" >> release_body.md
