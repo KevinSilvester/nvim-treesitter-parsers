@@ -1958,7 +1958,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "47aa19cf5f7aba2ed30e2b377f7172df76e819a6",
+      "revision": "c18a3c2f4b6665e35b7e50d6048ea3cff770c572",
       "url": "https://github.com/amaanq/tree-sitter-re2c"
    },
    "readline": {
