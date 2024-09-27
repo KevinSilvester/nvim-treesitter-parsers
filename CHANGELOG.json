@@ -1,5 +1,27 @@
 [
    {
+      "tag": "v2024-09-27-f027762",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-09-27-f027762/parsers.min.json",
+      "date": "2024-09-27 23:12:35 UTC",
+      "changes": {
+         "added": [],
+         "removed": [],
+         "updated": [
+            "devicetree",
+            "fortran",
+            "gleam",
+            "inko",
+            "markdown",
+            "markdown_inline",
+            "nix",
+            "ocaml",
+            "ocaml_interface",
+            "tact",
+            "templ"
+         ]
+      }
+   },
+   {
       "tag": "v2024-09-26-679883a",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-09-26-679883a/parsers.min.json",
       "date": "2024-09-26 23:13:15 UTC",
