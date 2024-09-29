@@ -44,7 +44,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "ce02903e3ae74c729e9415dc32c276447b1c8afd",
+      "revision": "415ebc8f75eb02a748faa03f5af199f08ced120f",
       "url": "https://github.com/ObserverOfTime/tree-sitter-arduino"
    },
    "asm": {
@@ -483,7 +483,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "2c6e93171477973b38de4b1d2be427cc99f990a6",
+      "revision": "ef124b83a3f3572b0af23db4efae3f8de06a15e1",
       "url": "https://github.com/elixir-lang/tree-sitter-elixir"
    },
    "elm": {
@@ -627,6 +627,16 @@
       "location": null,
       "revision": "fad2e175099a45efbc98f000cc196d3674cc45e0",
       "url": "https://github.com/mgramigna/tree-sitter-fsh"
+   },
+   "fsharp": {
+      "files": [
+         "src/parser.c",
+         "src/scanner.c"
+      ],
+      "generate_from_grammar": false,
+      "location": "fsharp",
+      "revision": "f920105eec2d574eb911d7a25c81cdaa079a3f72",
+      "url": "https://github.com/ionide/tree-sitter-fsharp"
    },
    "func": {
       "files": [
@@ -2407,7 +2417,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "2b0c7b5848309567693fc6c86f654003e820ca1d",
+      "revision": "80d1a04e6bf3ced1c924bcb05527aa2eaf3f6239",
       "url": "https://github.com/vrischmann/tree-sitter-templ"
    },
    "terraform": {
@@ -2455,7 +2465,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "a9f9c136baa9b73c63850be92301fb5f1fc9b2fd",
+      "revision": "b9e3978f363b3f8884c886a01d15e41bd14d30bd",
       "url": "https://github.com/tlaplus-community/tree-sitter-tlaplus"
    },
    "tmux": {

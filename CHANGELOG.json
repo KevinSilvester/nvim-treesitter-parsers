@@ -1,5 +1,22 @@
 [
    {
+      "tag": "v2024-09-29-140f534",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-09-29-140f534/parsers.min.json",
+      "date": "2024-09-29 23:12:10 UTC",
+      "changes": {
+         "added": [
+            "fsharp"
+         ],
+         "removed": [],
+         "updated": [
+            "arduino",
+            "elixir",
+            "templ",
+            "tlaplus"
+         ]
+      }
+   },
+   {
       "tag": "v2024-09-28-36b78d1",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-09-28-36b78d1/parsers.min.json",
       "date": "2024-09-28 23:11:48 UTC",
