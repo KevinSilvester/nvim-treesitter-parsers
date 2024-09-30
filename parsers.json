@@ -2331,7 +2331,7 @@
       ],
       "generate_from_grammar": true,
       "location": null,
-      "revision": "032930d6218d8ae23bde074cf29ce8d276b87533",
+      "revision": "4bff50b78b4d3c0517e4d0f0a344aca165f00146",
       "url": "https://github.com/alex-pinkus/tree-sitter-swift"
    },
    "sxhkdrc": {
@@ -2387,7 +2387,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "d16804029968f53f26f5afc695166a55bb0b68b2",
+      "revision": "09c57b6b9759560b4d067e0546c9953ee0e065da",
       "url": "https://github.com/tact-lang/tree-sitter-tact"
    },
    "tcl": {
@@ -2465,7 +2465,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "b9e3978f363b3f8884c886a01d15e41bd14d30bd",
+      "revision": "da9cf9793686e236327aadfbad449414c895bf84",
       "url": "https://github.com/tlaplus-community/tree-sitter-tlaplus"
    },
    "tmux": {
@@ -2624,7 +2624,7 @@
       ],
       "generate_from_grammar": false,
       "location": "tree_sitter_v",
-      "revision": "4f93826aeb31066eb241f4ccbca61f052239803f",
+      "revision": "bc5b3caa85f7a8d4597f51aeaf92b83162ed6b33",
       "url": "https://github.com/vlang/v-analyzer"
    },
    "vala": {
@@ -2816,5 +2816,23 @@
       "location": null,
       "revision": "eb7d58c2dc4fbeea4745019dee8df013034ae66b",
       "url": "https://github.com/tree-sitter-grammars/tree-sitter-zig"
+   },
+   "ziggy": {
+      "files": [
+         "src/parser.c"
+      ],
+      "generate_from_grammar": false,
+      "location": "tree-sitter-ziggy",
+      "revision": "c66f47bc632c66668d61fa06eda112b41d6e5130",
+      "url": "https://github.com/kristoff-it/ziggy"
+   },
+   "ziggy_schema": {
+      "files": [
+         "src/parser.c"
+      ],
+      "generate_from_grammar": false,
+      "location": "tree-sitter-ziggy-schema",
+      "revision": "c66f47bc632c66668d61fa06eda112b41d6e5130",
+      "url": "https://github.com/kristoff-it/ziggy"
    }
 }
