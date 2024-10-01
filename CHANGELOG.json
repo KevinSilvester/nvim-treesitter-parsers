@@ -1,5 +1,23 @@
 [
    {
+      "tag": "v2024-10-01-da61d31",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-10-01-da61d31/parsers.min.json",
+      "date": "2024-10-01 23:13:51 UTC",
+      "changes": {
+         "added": [],
+         "removed": [],
+         "updated": [
+            "java",
+            "mlir",
+            "nix",
+            "slint",
+            "textproto",
+            "ziggy",
+            "ziggy_schema"
+         ]
+      }
+   },
+   {
       "tag": "v2024-09-30-df0f8cb",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-09-30-df0f8cb/parsers.min.json",
       "date": "2024-09-30 23:12:57 UTC",

@@ -1122,7 +1122,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "245b05c6ba900fa708242835f6168ef76f9d951e",
+      "revision": "490d878cf33b0ad5ae7a7253ff30597a5bdc348e",
       "url": "https://github.com/tree-sitter/tree-sitter-java"
    },
    "javascript": {
@@ -1456,7 +1456,7 @@
       ],
       "generate_from_grammar": true,
       "location": null,
-      "revision": "02af5a1a1cfa69a094e3136b10dfb602f968232e",
+      "revision": "cf7761f9e5249f2ddac1dfd5ee92f838223ab3f8",
       "url": "https://github.com/artagnon/tree-sitter-mlir"
    },
    "muttrc": {
@@ -1532,7 +1532,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "fcf1857e254ab654e0fb73fe9706e33c52e79a5c",
+      "revision": "a61cef3b93ff3fa0d8af1359ae496172166012f9",
       "url": "https://github.com/cstrahan/tree-sitter-nix"
    },
    "norg": {
@@ -2159,7 +2159,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "34ccfd58d3baee7636f62d9326f32092264e8407",
+      "revision": "37c8e12ee1198f41d4eb5cc58d21a9c21196224f",
       "url": "https://github.com/slint-ui/tree-sitter-slint"
    },
    "smali": {
@@ -2436,7 +2436,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "8dacf02aa402892c91079f8577998ed5148c0496",
+      "revision": "d900077aef9f5dcb0d47c86be33585013ed5db9a",
       "url": "https://github.com/PorterAtGoogle/tree-sitter-textproto"
    },
    "thrift": {
@@ -2823,7 +2823,7 @@
       ],
       "generate_from_grammar": false,
       "location": "tree-sitter-ziggy",
-      "revision": "c66f47bc632c66668d61fa06eda112b41d6e5130",
+      "revision": "42b6f5d7320340bc5903c4c29d34065e8517a549",
       "url": "https://github.com/kristoff-it/ziggy"
    },
    "ziggy_schema": {
@@ -2832,7 +2832,7 @@
       ],
       "generate_from_grammar": false,
       "location": "tree-sitter-ziggy-schema",
-      "revision": "c66f47bc632c66668d61fa06eda112b41d6e5130",
+      "revision": "42b6f5d7320340bc5903c4c29d34065e8517a549",
       "url": "https://github.com/kristoff-it/ziggy"
    }
 }
