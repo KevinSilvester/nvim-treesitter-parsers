@@ -91,6 +91,7 @@ function _compile_parsers() {
    local type=$2
    local parsers=(${@:3})
 
+   echo ""
    if [ ${#parsers[@]} -eq 0 ]; then
       echo "No parsers $type"
       return 0
@@ -107,6 +108,7 @@ function _compile_parsers() {
 
 # Delete the removed parsers
 function _delete_parsers() {
+   echo ""
    if [ $# -eq 0 ]; then
       echo "No parsers removed"
       return 0
@@ -122,6 +124,7 @@ function _delete_parsers() {
 function _compile_all_parsers() {
    local target=$1
 
+   echo ""
    echo "::notice::Compiling all parsers"
    ts-parsers compile \
       --all \
@@ -136,6 +139,7 @@ function _archive_parsers() {
    local tag=$1
    local target=$2
 
+   echo ""
    echo "Archiving parsers"
    tar cjf "parsers-$tag-$target.tar.bz2" -C /tmp parser
    sha256sum "parsers-$tag-$target.tar.bz2" | awk '{print $1}' > "parsers-$tag-$target.tar.bz2.sha256sum"

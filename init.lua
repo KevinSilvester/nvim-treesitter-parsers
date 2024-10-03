@@ -1,5 +1,5 @@
 vim.opt.rtp:append('./nvim-treesitter')
-local uv = vim.loop
+local uv = vim.uv
 
 -----------------
 -- fs function --

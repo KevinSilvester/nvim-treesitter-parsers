@@ -15,7 +15,6 @@ env:
 jobs:
   update-parsers:
     runs-on: ubuntu-latest
-    name: Update Parsers
     permissions:
       contents: write
 
@@ -110,7 +109,7 @@ jobs:
           commit_user_email: "github-actions[bot]@users.noreply.github.com"
           commit_author: "github-actions[bot] <github-actions[bot]@users.noreply.github.com>"
 
-      - name: Package Release Assets
+      - name: Compile and Archive Parsers
         if: steps.parsers.outputs.CHANGED == 'true'
         shell: bash
         run: |
