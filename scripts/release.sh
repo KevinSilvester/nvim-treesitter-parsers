@@ -37,9 +37,9 @@ function _main() {
 
    echo "::notice::Current release tag: $current_release_tag"
    echo "::notice::Previous release tag: $previous_release_tag"
-   echo "::notice::Added parsers: ${added_parsers[@]}"
-   echo "::notice::Updated parsers: ${updated_parsers[@]}"
-   echo "::notice::Removed parsers: ${removed[@]}"
+   echo "::notice::➕Added parsers: ${added_parsers[@]}"
+   echo "::notice::🆙Updated parsers: ${updated_parsers[@]}"
+   echo "::notice::➖Removed parsers: ${removed[@]}"
 
    for target in ${ZIG_COMPILE_TARGETS[@]}; do
       local release_url=$(_release_url $previous_release_tag $target)
