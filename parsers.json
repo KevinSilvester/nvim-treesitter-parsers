@@ -635,7 +635,7 @@
       ],
       "generate_from_grammar": false,
       "location": "fsharp",
-      "revision": "f920105eec2d574eb911d7a25c81cdaa079a3f72",
+      "revision": "5202637c203fcf8876affbd18b04ff43256d4c4a",
       "url": "https://github.com/ionide/tree-sitter-fsharp"
    },
    "func": {
@@ -2748,7 +2748,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "c52f0b07786603df17ad0197f6cef680f312eb2c",
+      "revision": "81490b4e74c792369e005f72b0d46fe082d3fed2",
       "url": "https://github.com/liamwh/tree-sitter-wit"
    },
    "xcompose": {
