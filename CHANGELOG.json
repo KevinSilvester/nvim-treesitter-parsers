@@ -1,5 +1,21 @@
 [
    {
+      "tag": "v2024-10-04-4538676",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-10-04-4538676/parsers.min.json",
+      "date": "2024-10-04 23:14:02 UTC",
+      "changes": {
+         "added": [],
+         "removed": [],
+         "updated": [
+            "nix",
+            "php",
+            "php_only",
+            "slint",
+            "unison"
+         ]
+      }
+   },
+   {
       "tag": "v2024-10-03-cc2c11c",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-10-03-cc2c11c/parsers.min.json",
       "date": "2024-10-03 20:06:34 UTC",
