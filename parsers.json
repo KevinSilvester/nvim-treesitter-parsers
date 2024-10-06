@@ -1277,7 +1277,7 @@
       ],
       "generate_from_grammar": true,
       "location": null,
-      "revision": "1e4e30342b7a3b3a24886a632fbac53035d98871",
+      "revision": "87e4059f01bed363230dc349f794ce4cc580e862",
       "url": "https://github.com/latex-lsp/tree-sitter-latex"
    },
    "ledger": {
@@ -1532,7 +1532,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "42b5c693e7cd8f2309661438e956d947de30080e",
+      "revision": "8be0e516904650a868639aa8d3923ebe84f62627",
       "url": "https://github.com/cstrahan/tree-sitter-nix"
    },
    "norg": {
@@ -2083,7 +2083,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "a66579f70d6f50ffd81a16fc3d3358e2ac173c88",
+      "revision": "0b4729672f9aec4810c01a0f971541dcb433fef5",
       "url": "https://github.com/tree-sitter/tree-sitter-ruby"
    },
    "rust": {
@@ -2304,6 +2304,16 @@
       "location": null,
       "revision": "1a8ee0da9a4f2df5a8a22f4d637ac863623a78a7",
       "url": "https://github.com/madskjeldgaard/tree-sitter-supercollider"
+   },
+   "superhtml": {
+      "files": [
+         "src/parser.c",
+         "src/scanner.c"
+      ],
+      "generate_from_grammar": false,
+      "location": "tree-sitter-superhtml",
+      "revision": "3edb67236291d45ba97a79cdac3b91692487a352",
+      "url": "https://github.com/kristoff-it/superhtml"
    },
    "surface": {
       "files": [
