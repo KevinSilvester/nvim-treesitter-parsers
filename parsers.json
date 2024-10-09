@@ -2312,7 +2312,7 @@
       ],
       "generate_from_grammar": false,
       "location": "tree-sitter-superhtml",
-      "revision": "b684bbe28ecd740a7110ead5674355770186ca9c",
+      "revision": "36f37aa5aa440805f27d4a9f5203e616a303c6a1",
       "url": "https://github.com/kristoff-it/superhtml"
    },
    "surface": {
@@ -2634,7 +2634,7 @@
       ],
       "generate_from_grammar": false,
       "location": "tree_sitter_v",
-      "revision": "bc5b3caa85f7a8d4597f51aeaf92b83162ed6b33",
+      "revision": "ea538758a1273b59774dc9179cde460d9c73fd89",
       "url": "https://github.com/vlang/v-analyzer"
    },
    "vala": {
