@@ -1,5 +1,26 @@
 [
    {
+      "tag": "v2024-10-10-84bdd59",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-10-10-84bdd59/parsers.min.json",
+      "date": "2024-10-10 23:12:44 UTC",
+      "changes": {
+         "added": [],
+         "removed": [],
+         "updated": [
+            "apex",
+            "editorconfig",
+            "kotlin",
+            "mlir",
+            "nix",
+            "sflog",
+            "soql",
+            "sosl",
+            "swift",
+            "tact"
+         ]
+      }
+   },
+   {
       "tag": "v2024-10-09-9d2acd4",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-10-09-9d2acd4/parsers.min.json",
       "date": "2024-10-09 23:17:09 UTC",
