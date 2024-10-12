@@ -1456,7 +1456,7 @@
       ],
       "generate_from_grammar": true,
       "location": null,
-      "revision": "a6727f883344079383faaf768065d2f5fea285a5",
+      "revision": "0238b7fb6a630f77b3fc8b8a48285ef6ed45cbcc",
       "url": "https://github.com/artagnon/tree-sitter-mlir"
    },
    "muttrc": {
@@ -1532,7 +1532,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "924b2dcb12fe77c90f0253e446677faf4e9c38ac",
+      "revision": "456b14a2fa6315abc7e02fcffaf4a1f35d4955d3",
       "url": "https://github.com/cstrahan/tree-sitter-nix"
    },
    "norg": {
@@ -1657,7 +1657,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "72a08a496a23212f23802490ef6f4700d68cfd0e",
+      "revision": "76ab9a52b9dd2a1758aae3da8286519d995037e9",
       "url": "https://github.com/tree-sitter-perl/tree-sitter-perl"
    },
    "php": {
@@ -1697,7 +1697,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "924aadaf5dea2a6074d72027b064f939acf32e20",
+      "revision": "afece58efdb30440bddd151ef1347fa8d6f744a9",
       "url": "https://github.com/leo60228/tree-sitter-pioasm"
    },
    "po": {
