@@ -1,5 +1,30 @@
 [
    {
+      "tag": "v2024-10-16-92725df",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-10-16-92725df/parsers.min.json",
+      "date": "2024-10-16 23:15:17 UTC",
+      "changes": {
+         "added": [
+            "gren"
+         ],
+         "removed": [
+            "systemverilog"
+         ],
+         "updated": [
+            "elixir",
+            "fsharp",
+            "glimmer_javascript",
+            "glimmer_typescript",
+            "java",
+            "php",
+            "php_only",
+            "scala",
+            "t32",
+            "verilog"
+         ]
+      }
+   },
+   {
       "tag": "v2024-10-15-da92610",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-10-15-da92610/parsers.min.json",
       "date": "2024-10-15 23:14:14 UTC",
