@@ -1,5 +1,20 @@
 [
    {
+      "tag": "v2024-10-17-0345294",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-10-17-0345294/parsers.min.json",
+      "date": "2024-10-17 23:13:37 UTC",
+      "changes": {
+         "added": [],
+         "removed": [],
+         "updated": [
+            "gitcommit",
+            "scala",
+            "superhtml",
+            "textproto"
+         ]
+      }
+   },
+   {
       "tag": "v2024-10-16-92725df",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-10-16-92725df/parsers.min.json",
       "date": "2024-10-16 23:15:17 UTC",
@@ -3490,31 +3505,6 @@
             "http",
             "v",
             "wing"
-         ]
-      }
-   },
-   {
-      "tag": "v2014f82",
-      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2014f82/parsers.min.json",
-      "date": "2024-03-19 00:50:46 UTC",
-      "changes": {
-         "added": [
-            "vento"
-         ],
-         "removed": [],
-         "updated": [
-            "arduino",
-            "cmake",
-            "dtd",
-            "http",
-            "mlir",
-            "ocaml",
-            "ocaml_interface",
-            "slint",
-            "swift",
-            "vimdoc",
-            "wing",
-            "xml"
          ]
       }
    }
