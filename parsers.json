@@ -2740,7 +2740,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "0f06f24e259ac725045956436b9025dab008ff9f",
+      "revision": "47c1818d245a6156a488c4c4d06e9336714bae9b",
       "url": "https://github.com/theHamsta/tree-sitter-wgsl-bevy"
    },
    "wing": {
