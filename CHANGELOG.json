@@ -1,5 +1,24 @@
 [
    {
+      "tag": "v2024-10-20-18cf02f",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-10-20-18cf02f/parsers.min.json",
+      "date": "2024-10-20 23:13:14 UTC",
+      "changes": {
+         "added": [
+            "xresources"
+         ],
+         "removed": [],
+         "updated": [
+            "devicetree",
+            "editorconfig",
+            "json",
+            "markdown",
+            "markdown_inline",
+            "svelte"
+         ]
+      }
+   },
+   {
       "tag": "v2024-10-19-a3ca2e6",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-10-19-a3ca2e6/parsers.min.json",
       "date": "2024-10-19 23:12:39 UTC",
@@ -3471,26 +3490,6 @@
             "markdown",
             "markdown_inline",
             "tlaplus",
-            "v",
-            "wing"
-         ]
-      }
-   },
-   {
-      "tag": "v722617e",
-      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v722617e/parsers.min.json",
-      "date": "2024-03-22 00:55:32 UTC",
-      "changes": {
-         "added": [
-            "just"
-         ],
-         "removed": [],
-         "updated": [
-            "asm",
-            "c",
-            "d",
-            "html",
-            "svelte",
             "v",
             "wing"
          ]
