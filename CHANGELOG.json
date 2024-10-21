@@ -1,5 +1,20 @@
 [
    {
+      "tag": "v2024-10-21-df20c04",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-10-21-df20c04/parsers.min.json",
+      "date": "2024-10-21 23:13:03 UTC",
+      "changes": {
+         "added": [],
+         "removed": [],
+         "updated": [
+            "swift",
+            "tlaplus",
+            "vimdoc",
+            "xresources"
+         ]
+      }
+   },
+   {
       "tag": "v2024-10-20-18cf02f",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-10-20-18cf02f/parsers.min.json",
       "date": "2024-10-20 23:13:14 UTC",
@@ -3471,27 +3486,6 @@
             "php",
             "php_only",
             "v"
-         ]
-      }
-   },
-   {
-      "tag": "va951dcb",
-      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/va951dcb/parsers.min.json",
-      "date": "2024-03-23 00:49:58 UTC",
-      "changes": {
-         "added": [
-            "djot"
-         ],
-         "removed": [],
-         "updated": [
-            "hoon",
-            "just",
-            "lalrpop",
-            "markdown",
-            "markdown_inline",
-            "tlaplus",
-            "v",
-            "wing"
          ]
       }
    }
