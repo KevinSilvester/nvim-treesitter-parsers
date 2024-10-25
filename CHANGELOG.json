@@ -1,5 +1,18 @@
 [
    {
+      "tag": "v2024-10-25-48fc5d1",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-10-25-48fc5d1/parsers.min.json",
+      "date": "2024-10-25 23:13:56 UTC",
+      "changes": {
+         "added": [],
+         "removed": [],
+         "updated": [
+            "koto",
+            "t32"
+         ]
+      }
+   },
+   {
       "tag": "v2024-10-24-377039d",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-10-24-377039d/parsers.min.json",
       "date": "2024-10-24 23:13:19 UTC",
@@ -3452,25 +3465,6 @@
             "vue",
             "wing",
             "zathurarc"
-         ]
-      }
-   },
-   {
-      "tag": "v7f31793",
-      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v7f31793/parsers.min.json",
-      "date": "2024-03-27 00:51:06 UTC",
-      "changes": {
-         "added": [],
-         "removed": [],
-         "updated": [
-            "djot",
-            "dtd",
-            "hyprlang",
-            "perl",
-            "tlaplus",
-            "v",
-            "wing",
-            "xml"
          ]
       }
    }
