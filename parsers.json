@@ -343,6 +343,15 @@
       "revision": "9ac03bb2154316624fb4c41fe0f372a5f1597b43",
       "url": "https://github.com/UserNobody14/tree-sitter-dart"
    },
+   "desktop": {
+      "files": [
+         "src/parser.c"
+      ],
+      "generate_from_grammar": false,
+      "location": null,
+      "revision": "0d8b8cf7c9311fe3f1730df8e193d836f6dd9d1b",
+      "url": "https://github.com/ValdezFOmar/tree-sitter-desktop"
+   },
    "devicetree": {
       "files": [
          "src/parser.c"
@@ -2322,7 +2331,7 @@
       ],
       "generate_from_grammar": false,
       "location": "tree-sitter-superhtml",
-      "revision": "3325bbb2dda260131a8db0cae1f1f557d17ebced",
+      "revision": "e561df3b5ce94e598a4c3d0ee4abd9635bad63b3",
       "url": "https://github.com/kristoff-it/superhtml"
    },
    "surface": {
