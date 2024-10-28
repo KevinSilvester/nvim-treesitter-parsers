@@ -464,7 +464,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "777f774d6381f1bb84adffa02a4e476fb61486ae",
+      "revision": "38cf8d0af6049025de0e5486a40881dac06285b4",
       "url": "https://github.com/ValdezFOmar/tree-sitter-editorconfig"
    },
    "eds": {
@@ -1227,7 +1227,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "6aee3d2f5b3a47286bae0916daaa6c7a217f6fa4",
+      "revision": "1014d2fd6396856c312054d6c30df4d78b62966c",
       "url": "https://github.com/IndianBoy42/tree-sitter-just"
    },
    "kconfig": {
@@ -2360,7 +2360,7 @@
       ],
       "generate_from_grammar": true,
       "location": null,
-      "revision": "d351cb321c28f0a3e66242ef2f61b1f890ec4b44",
+      "revision": "5098007f58f4663a5613b2fecb6b866e3d41e37b",
       "url": "https://github.com/alex-pinkus/tree-sitter-swift"
    },
    "sxhkdrc": {
