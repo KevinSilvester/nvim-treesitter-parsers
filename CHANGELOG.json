@@ -1,5 +1,19 @@
 [
    {
+      "tag": "v2024-10-29-39016ab",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-10-29-39016ab/parsers.min.json",
+      "date": "2024-10-29 23:13:09 UTC",
+      "changes": {
+         "added": [],
+         "removed": [],
+         "updated": [
+            "c",
+            "fortran",
+            "koto"
+         ]
+      }
+   },
+   {
       "tag": "v2024-10-28-de70388",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-10-28-de70388/parsers.min.json",
       "date": "2024-10-28 23:12:41 UTC",
@@ -3434,24 +3448,6 @@
             "djot",
             "snakemake",
             "v"
-         ]
-      }
-   },
-   {
-      "tag": "v6e0b031",
-      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v6e0b031/parsers.min.json",
-      "date": "2024-03-31 00:56:16 UTC",
-      "changes": {
-         "added": [],
-         "removed": [],
-         "updated": [
-            "beancount",
-            "liquid",
-            "ocaml",
-            "ocaml_interface",
-            "v",
-            "vento",
-            "wing"
          ]
       }
    }
