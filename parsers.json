@@ -111,7 +111,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "01c0da29e0fc7130420a09d939ecc524e09b6ba6",
+      "revision": "9bc460a05b5f096d69568b5fb36105032ff4ff97",
       "url": "https://github.com/polarmutex/tree-sitter-beancount"
    },
    "bibtex": {
@@ -349,7 +349,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "0d8b8cf7c9311fe3f1730df8e193d836f6dd9d1b",
+      "revision": "f3985c2695998ec98c1df50d5567ccdecaa97755",
       "url": "https://github.com/ValdezFOmar/tree-sitter-desktop"
    },
    "devicetree": {
@@ -2485,7 +2485,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "ffb6c4b91862a03af767d6b0e627d3d20539b79a",
+      "revision": "d711f24c93221cdfc9a9b4dbb0998f528fc982ac",
       "url": "https://github.com/tlaplus-community/tree-sitter-tlaplus"
    },
    "tmux": {
@@ -2653,7 +2653,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "8f690bfa639f2b83d1fb938ed3dd98a7ba453e8b",
+      "revision": "97e6db3c8c73b15a9541a458d8e797a07f588ef4",
       "url": "https://github.com/vala-lang/tree-sitter-vala"
    },
    "vento": {

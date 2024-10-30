@@ -1,5 +1,20 @@
 [
    {
+      "tag": "v2024-10-30-1c111e3",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-10-30-1c111e3/parsers.min.json",
+      "date": "2024-10-30 23:13:15 UTC",
+      "changes": {
+         "added": [],
+         "removed": [],
+         "updated": [
+            "beancount",
+            "desktop",
+            "tlaplus",
+            "vala"
+         ]
+      }
+   },
+   {
       "tag": "v2024-10-29-39016ab",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-10-29-39016ab/parsers.min.json",
       "date": "2024-10-29 23:13:09 UTC",
@@ -3433,20 +3448,6 @@
             "latex",
             "rst",
             "swift",
-            "v"
-         ]
-      }
-   },
-   {
-      "tag": "v1d1d92e",
-      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v1d1d92e/parsers.min.json",
-      "date": "2024-04-01 00:56:33 UTC",
-      "changes": {
-         "added": [],
-         "removed": [],
-         "updated": [
-            "djot",
-            "snakemake",
             "v"
          ]
       }
