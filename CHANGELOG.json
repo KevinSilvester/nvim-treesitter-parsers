@@ -1,5 +1,18 @@
 [
    {
+      "tag": "v2024-11-01-b065b59",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-11-01-b065b59/parsers.min.json",
+      "date": "2024-11-01 23:12:56 UTC",
+      "changes": {
+         "added": [],
+         "removed": [],
+         "updated": [
+            "cylc",
+            "superhtml"
+         ]
+      }
+   },
+   {
       "tag": "v2024-10-31-92d2501",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-10-31-92d2501/parsers.min.json",
       "date": "2024-10-31 23:14:55 UTC",
@@ -3426,26 +3439,6 @@
             "wing",
             "xml",
             "yaml"
-         ]
-      }
-   },
-   {
-      "tag": "v54cf918",
-      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v54cf918/parsers.min.json",
-      "date": "2024-04-03 00:50:56 UTC",
-      "changes": {
-         "added": [],
-         "removed": [],
-         "updated": [
-            "commonlisp",
-            "dart",
-            "glsl",
-            "godot_resource",
-            "roc",
-            "slang",
-            "v",
-            "wgsl_bevy",
-            "wing"
          ]
       }
    }
