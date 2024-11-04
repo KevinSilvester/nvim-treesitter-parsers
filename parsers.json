@@ -349,7 +349,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "9ac03bb2154316624fb4c41fe0f372a5f1597b43",
+      "revision": "a7496b9d562be91e6588eecd5d7045832f575cd0",
       "url": "https://github.com/UserNobody14/tree-sitter-dart"
    },
    "desktop": {
@@ -367,7 +367,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "16c9cb959675bc9bc4f4e5bebe473d511a12a06d",
+      "revision": "16f640f3c59117c9e749d581634afdb00e004f4c",
       "url": "https://github.com/joelspadin/tree-sitter-devicetree"
    },
    "dhall": {
@@ -377,7 +377,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "affb6ee38d629c9296749767ab832d69bb0d9ea8",
+      "revision": "ffd37395cbb5d576b1df51b28b38f5ab6575a20c",
       "url": "https://github.com/jbellerb/tree-sitter-dhall"
    },
    "diff": {
@@ -1104,7 +1104,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "5573b295410201ed22771776b34d636900eba368",
+      "revision": "9ac6fdd7840b5c0f271fe11b4ab656634dc2074a",
       "url": "https://github.com/cathaysia/tree-sitter-idl"
    },
    "ini": {
@@ -2291,7 +2291,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "77450e8bce8853921512348f83c73c168c71fdfb",
+      "revision": "dd32616275c6e9d7800c58f40c16a09ad1c7c238",
       "url": "https://github.com/ObserverOfTime/tree-sitter-ssh-config"
    },
    "starlark": {
@@ -2361,6 +2361,16 @@
       "location": null,
       "revision": "ae5199db47757f785e43a14b332118a5474de1a2",
       "url": "https://github.com/tree-sitter-grammars/tree-sitter-svelte"
+   },
+   "sway": {
+      "files": [
+         "src/parser.c",
+         "src/scanner.c"
+      ],
+      "generate_from_grammar": false,
+      "location": null,
+      "revision": "03d97aad336ecc6b302f23bdd9b695ddc937160b",
+      "url": "https://github.com/FuelLabs/tree-sitter-sway.git"
    },
    "swift": {
       "files": [
@@ -2805,7 +2815,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "37751efa38512535e6dbc840dccf35c6779f69b7",
+      "revision": "d36d356624af4b46d3fc815d0701ebf72654473c",
       "url": "https://github.com/ValdezFOmar/tree-sitter-xresources"
    },
    "yaml": {
