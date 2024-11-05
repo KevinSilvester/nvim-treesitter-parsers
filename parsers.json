@@ -377,7 +377,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "ffd37395cbb5d576b1df51b28b38f5ab6575a20c",
+      "revision": "4a6c08abfb54827db4e722d6cdca81b093898988",
       "url": "https://github.com/jbellerb/tree-sitter-dhall"
    },
    "diff": {
@@ -1582,6 +1582,15 @@
       "revision": "14e6da1627aaef21d2b2aa0c37d04269766dcc1d",
       "url": "https://github.com/amaanq/tree-sitter-nqc"
    },
+   "nu": {
+      "files": [
+         "src/parser.c"
+      ],
+      "generate_from_grammar": false,
+      "location": null,
+      "revision": "082a7c7df7db460da6b280c9f902bf2b19a2f423",
+      "url": "https://github.com/nushell/tree-sitter-nu"
+   },
    "objc": {
       "files": [
          "src/parser.c"
@@ -1782,7 +1791,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "0e0aceabbf607ea09e03562f5d8a56f048ddea3d",
+      "revision": "94b84fbc4768a7cbdeadfe5e489a45a6a8af400e",
       "url": "https://github.com/ObserverOfTime/tree-sitter-printf"
    },
    "prisma": {
@@ -2014,7 +2023,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "58f4caf9db12db3b38b81c77d274aa73c9e85aca",
+      "revision": "b518ad4bbee3ad59672b1826ca4dc62825983533",
       "url": "https://github.com/tree-sitter/tree-sitter-regex"
    },
    "rego": {
@@ -2871,7 +2880,7 @@
       ],
       "generate_from_grammar": false,
       "location": "tree-sitter-ziggy",
-      "revision": "42b6f5d7320340bc5903c4c29d34065e8517a549",
+      "revision": "fe73beef9f52f04048d8b19016fc4fbc66b4596f",
       "url": "https://github.com/kristoff-it/ziggy"
    },
    "ziggy_schema": {
@@ -2880,7 +2889,7 @@
       ],
       "generate_from_grammar": false,
       "location": "tree-sitter-ziggy-schema",
-      "revision": "42b6f5d7320340bc5903c4c29d34065e8517a549",
+      "revision": "fe73beef9f52f04048d8b19016fc4fbc66b4596f",
       "url": "https://github.com/kristoff-it/ziggy"
    }
 }
