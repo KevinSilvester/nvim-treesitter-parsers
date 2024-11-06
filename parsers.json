@@ -738,7 +738,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "41940e199ba5763abea1d21b4f717014b45f01ea",
+      "revision": "5425944fd61bf2b3bad2c17c2dc9f53172b0f01d",
       "url": "https://github.com/ObserverOfTime/tree-sitter-gitattributes"
    },
    "gitcommit": {
@@ -1560,7 +1560,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "1b26cb63284287344bc3820804cea18419b3edec",
+      "revision": "4cb8ccf74f44cf9d648d02298de6e9ba515d7c56",
       "url": "https://github.com/cstrahan/tree-sitter-nix"
    },
    "norg": {
@@ -1588,7 +1588,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "082a7c7df7db460da6b280c9f902bf2b19a2f423",
+      "revision": "2142e883c5edfd7fc99b6d933a3d80ea84ac278f",
       "url": "https://github.com/nushell/tree-sitter-nu"
    },
    "objc": {
@@ -1791,7 +1791,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "94b84fbc4768a7cbdeadfe5e489a45a6a8af400e",
+      "revision": "60d50a2247b0c1fb72b967562c64711d65c6a060",
       "url": "https://github.com/ObserverOfTime/tree-sitter-printf"
    },
    "prisma": {
@@ -1837,7 +1837,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "9d09f5f200c356c50c4103d36441309fd61b48d1",
+      "revision": "f93f673990deffbfa548826eebade93af81887b4",
       "url": "https://github.com/tree-sitter-grammars/tree-sitter-properties"
    },
    "proto": {
@@ -2122,6 +2122,16 @@
       "location": null,
       "revision": "557ec01403bd1fcfea50f1805641ca773cbaaa42",
       "url": "https://github.com/tree-sitter/tree-sitter-ruby"
+   },
+   "runescript": {
+      "files": [
+         "src/parser.c",
+         "src/scanner.c"
+      ],
+      "generate_from_grammar": false,
+      "location": null,
+      "revision": "e0568a271a1901b8ef87367bbf282b5c639cd742",
+      "url": "https://github.com/2004Scape/tree-sitter-runescript"
    },
    "rust": {
       "files": [
@@ -2445,7 +2455,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "cdba4ab96a9896492d0d5219b70300c8783ca4e7",
+      "revision": "98015ebe182d94e5a4439e32ffd91beaac32fcb9",
       "url": "https://github.com/tree-sitter-grammars/tree-sitter-tcl"
    },
    "teal": {

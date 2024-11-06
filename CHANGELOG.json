@@ -1,5 +1,24 @@
 [
    {
+      "tag": "v2024-11-06-0722f23",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-11-06-0722f23/parsers.min.json",
+      "date": "2024-11-06 23:12:31 UTC",
+      "changes": {
+         "added": [
+            "runescript"
+         ],
+         "removed": [],
+         "updated": [
+            "gitattributes",
+            "nix",
+            "nu",
+            "printf",
+            "properties",
+            "tcl"
+         ]
+      }
+   },
+   {
       "tag": "v2024-11-05-7dc8aab",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-11-05-7dc8aab/parsers.min.json",
       "date": "2024-11-05 23:13:37 UTC",
@@ -3399,31 +3418,6 @@
             "swift",
             "v",
             "wing"
-         ]
-      }
-   },
-   {
-      "tag": "v11a3584",
-      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v11a3584/parsers.min.json",
-      "date": "2024-04-08 00:53:00 UTC",
-      "changes": {
-         "added": [],
-         "removed": [],
-         "updated": [
-            "c",
-            "commonlisp",
-            "cuda",
-            "dart",
-            "glsl",
-            "gstlaunch",
-            "hlsl",
-            "javascript",
-            "roc",
-            "rust",
-            "slang",
-            "t32",
-            "v",
-            "wgsl_bevy"
          ]
       }
    }
