@@ -1,5 +1,19 @@
 [
    {
+      "tag": "v2024-11-08-425b589",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-11-08-425b589/parsers.min.json",
+      "date": "2024-11-08 23:13:02 UTC",
+      "changes": {
+         "added": [],
+         "removed": [],
+         "updated": [
+            "inko",
+            "nu",
+            "udev"
+         ]
+      }
+   },
+   {
       "tag": "v2024-11-07-eab2005",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-11-07-eab2005/parsers.min.json",
       "date": "2024-11-07 23:12:41 UTC",
@@ -3379,37 +3393,6 @@
             "svelte",
             "v",
             "wing"
-         ]
-      }
-   },
-   {
-      "tag": "v2bad828",
-      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2bad828/parsers.min.json",
-      "date": "2024-04-11 00:52:22 UTC",
-      "changes": {
-         "added": [],
-         "removed": [],
-         "updated": [
-            "arduino",
-            "asm",
-            "c_sharp",
-            "dart",
-            "elixir",
-            "glsl",
-            "go",
-            "java",
-            "json",
-            "mlir",
-            "odin",
-            "rust",
-            "solidity",
-            "styled",
-            "swift",
-            "templ",
-            "typst",
-            "v",
-            "wing",
-            "yaml"
          ]
       }
    }
