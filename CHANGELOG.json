@@ -1,5 +1,23 @@
 [
    {
+      "tag": "v2024-11-09-0603b3e",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-11-09-0603b3e/parsers.min.json",
+      "date": "2024-11-09 23:12:20 UTC",
+      "changes": {
+         "added": [],
+         "removed": [],
+         "updated": [
+            "desktop",
+            "earthfile",
+            "mlir",
+            "nix",
+            "nu",
+            "v",
+            "xresources"
+         ]
+      }
+   },
+   {
       "tag": "v2024-11-08-425b589",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-11-08-425b589/parsers.min.json",
       "date": "2024-11-08 23:13:02 UTC",
@@ -3375,22 +3393,6 @@
             "racket",
             "scheme",
             "tcl",
-            "v",
-            "wing"
-         ]
-      }
-   },
-   {
-      "tag": "vb0ac113",
-      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/vb0ac113/parsers.min.json",
-      "date": "2024-04-12 00:52:32 UTC",
-      "changes": {
-         "added": [
-            "earthfile"
-         ],
-         "removed": [],
-         "updated": [
-            "svelte",
             "v",
             "wing"
          ]
