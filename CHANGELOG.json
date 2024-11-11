@@ -1,5 +1,50 @@
 [
    {
+      "tag": "v2024-11-11-bb06afa",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-11-11-bb06afa/parsers.min.json",
+      "date": "2024-11-11 23:12:13 UTC",
+      "changes": {
+         "added": [],
+         "removed": [],
+         "updated": [
+            "agda",
+            "bash",
+            "c",
+            "c_sharp",
+            "cpp",
+            "css",
+            "editorconfig",
+            "embedded_template",
+            "foam",
+            "go",
+            "haskell",
+            "html",
+            "java",
+            "javascript",
+            "jsdoc",
+            "json",
+            "julia",
+            "mlir",
+            "ocaml",
+            "ocaml_interface",
+            "php",
+            "php_only",
+            "python",
+            "ql",
+            "query",
+            "regex",
+            "ruby",
+            "rust",
+            "scala",
+            "t32",
+            "templ",
+            "tsx",
+            "typescript",
+            "xresources"
+         ]
+      }
+   },
+   {
       "tag": "v2024-11-10-8e40904",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-11-10-8e40904/parsers.min.json",
       "date": "2024-11-10 23:14:10 UTC",
@@ -3390,18 +3435,6 @@
             "wing",
             "xml",
             "yaml"
-         ]
-      }
-   },
-   {
-      "tag": "vf08a9d9",
-      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/vf08a9d9/parsers.min.json",
-      "date": "2024-04-14 01:10:40 UTC",
-      "changes": {
-         "added": [],
-         "removed": [],
-         "updated": [
-            "solidity"
          ]
       }
    }
