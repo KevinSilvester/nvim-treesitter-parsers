@@ -1,5 +1,26 @@
 [
    {
+      "tag": "v2024-11-12-7646c1c",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-11-12-7646c1c/parsers.min.json",
+      "date": "2024-11-12 23:12:40 UTC",
+      "changes": {
+         "added": [],
+         "removed": [],
+         "updated": [
+            "bash",
+            "cpp",
+            "go",
+            "html",
+            "idl",
+            "latex",
+            "sway",
+            "swift",
+            "t32",
+            "templ"
+         ]
+      }
+   },
+   {
       "tag": "v2024-11-11-bb06afa",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-11-11-bb06afa/parsers.min.json",
       "date": "2024-11-11 23:12:13 UTC",
@@ -3405,36 +3426,6 @@
             "slang",
             "unison",
             "v"
-         ]
-      }
-   },
-   {
-      "tag": "v40e8c92",
-      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v40e8c92/parsers.min.json",
-      "date": "2024-04-15 03:15:26 UTC",
-      "changes": {
-         "added": [],
-         "removed": [],
-         "updated": [
-            "arduino",
-            "cuda",
-            "dtd",
-            "glsl",
-            "hlsl",
-            "http",
-            "julia",
-            "norg",
-            "slang",
-            "slint",
-            "sql",
-            "swift",
-            "t32",
-            "templ",
-            "tlaplus",
-            "unison",
-            "wing",
-            "xml",
-            "yaml"
          ]
       }
    }
