@@ -1,5 +1,18 @@
 [
    {
+      "tag": "v2024-11-16-20e10ca",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-11-16-20e10ca/parsers.min.json",
+      "date": "2024-11-16 23:14:07 UTC",
+      "changes": {
+         "added": [],
+         "removed": [],
+         "updated": [
+            "julia",
+            "sql"
+         ]
+      }
+   },
+   {
       "tag": "v2024-11-15-13c7caf",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-11-15-13c7caf/parsers.min.json",
       "date": "2024-11-15 23:13:13 UTC",
@@ -3381,26 +3394,6 @@
             "tlaplus",
             "unison",
             "wit"
-         ]
-      }
-   },
-   {
-      "tag": "v208d504",
-      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v208d504/parsers.min.json",
-      "date": "2024-04-19 00:52:17 UTC",
-      "changes": {
-         "added": [],
-         "removed": [],
-         "updated": [
-            "earthfile",
-            "hlsplaylist",
-            "muttrc",
-            "nim",
-            "norg",
-            "tmux",
-            "unison",
-            "v",
-            "zathurarc"
          ]
       }
    }
