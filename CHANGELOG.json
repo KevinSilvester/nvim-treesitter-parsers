@@ -1,5 +1,24 @@
 [
    {
+      "tag": "v2024-11-17-1c0cbde",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-11-17-1c0cbde/parsers.min.json",
+      "date": "2024-11-17 23:12:51 UTC",
+      "changes": {
+         "added": [],
+         "removed": [],
+         "updated": [
+            "dart",
+            "julia",
+            "nu",
+            "ocaml",
+            "ocaml_interface",
+            "perl",
+            "sql",
+            "xresources"
+         ]
+      }
+   },
+   {
       "tag": "v2024-11-16-20e10ca",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-11-16-20e10ca/parsers.min.json",
       "date": "2024-11-16 23:14:07 UTC",
@@ -3376,24 +3395,6 @@
             "v",
             "wing",
             "yuck"
-         ]
-      }
-   },
-   {
-      "tag": "vbc80862",
-      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/vbc80862/parsers.min.json",
-      "date": "2024-04-20 00:52:31 UTC",
-      "changes": {
-         "added": [],
-         "removed": [],
-         "updated": [
-            "earthfile",
-            "http",
-            "javascript",
-            "sql",
-            "tlaplus",
-            "unison",
-            "wit"
          ]
       }
    }
