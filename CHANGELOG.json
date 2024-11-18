@@ -1,5 +1,25 @@
 [
    {
+      "tag": "v2024-11-18-3742701",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-11-18-3742701/parsers.min.json",
+      "date": "2024-11-18 23:13:17 UTC",
+      "changes": {
+         "added": [],
+         "removed": [],
+         "updated": [
+            "editorconfig",
+            "gdscript",
+            "json",
+            "just",
+            "nu",
+            "pug",
+            "templ",
+            "vhdl",
+            "xresources"
+         ]
+      }
+   },
+   {
       "tag": "v2024-11-17-1c0cbde",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-11-17-1c0cbde/parsers.min.json",
       "date": "2024-11-17 23:12:51 UTC",
@@ -3360,41 +3380,6 @@
             "astro",
             "djot",
             "earthfile"
-         ]
-      }
-   },
-   {
-      "tag": "v2024-04-20-ea4f6d5",
-      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-04-20-ea4f6d5/parsers.min.json",
-      "date": "2024-04-20 23:09:46 UTC",
-      "changes": {
-         "added": [],
-         "removed": [],
-         "updated": [
-            "astro",
-            "bicep",
-            "capnp",
-            "cpon",
-            "dockerfile",
-            "earthfile",
-            "firrtl",
-            "hare",
-            "javascript",
-            "luau",
-            "norg",
-            "po",
-            "pony",
-            "puppet",
-            "ron",
-            "smali",
-            "squirrel",
-            "ssh_config",
-            "tablegen",
-            "templ",
-            "thrift",
-            "v",
-            "wing",
-            "yuck"
          ]
       }
    }
