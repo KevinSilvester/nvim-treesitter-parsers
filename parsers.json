@@ -358,7 +358,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "d52964c67d98eaedabca6ed1ec21ae54a522e8f8",
+      "revision": "54133af61b2a9a75fd42c49ce0c771115f81f50b",
       "url": "https://github.com/ValdezFOmar/tree-sitter-desktop"
    },
    "devicetree": {
@@ -473,7 +473,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "e47638f125a4d8256f4c45f0570c8918d3a1b237",
+      "revision": "511d5f387426ba555d7fb33e726ab6770f477a49",
       "url": "https://github.com/ValdezFOmar/tree-sitter-editorconfig"
    },
    "eds": {
@@ -1236,7 +1236,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "11b8c436bfcadaa22aa6299d9635685045ad97f3",
+      "revision": "ca17d4fdd920254219c769c5ecbde1118956dcc7",
       "url": "https://github.com/IndianBoy42/tree-sitter-just"
    },
    "kconfig": {
@@ -1588,7 +1588,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "45f9e51e5ee296dc0965a80f3d00178d985dffbd",
+      "revision": "e8bdcb9d4d57d999ad6d7c797f9f1808623df1b9",
       "url": "https://github.com/nushell/tree-sitter-nu"
    },
    "objc": {
@@ -2682,7 +2682,7 @@
       ],
       "generate_from_grammar": false,
       "location": "tree_sitter_v",
-      "revision": "bb0a1bd4c2a56f6b191b7d051ea3f2976c3bcb11",
+      "revision": "bbba20d654a764c2d2de272fd5f45a2433870640",
       "url": "https://github.com/vlang/v-analyzer"
    },
    "vala": {
@@ -2834,7 +2834,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "0e315b84aaf018533bbf3fb15360cf74eaa0305b",
+      "revision": "2fb18b8ca7d3717a0475f35c5c7e8142a82f3200",
       "url": "https://github.com/ValdezFOmar/tree-sitter-xresources"
    },
    "yaml": {
