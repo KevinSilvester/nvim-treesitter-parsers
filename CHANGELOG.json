@@ -1,5 +1,25 @@
 [
    {
+      "tag": "v2024-11-20-a3a7321",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-11-20-a3a7321/parsers.min.json",
+      "date": "2024-11-20 23:13:10 UTC",
+      "changes": {
+         "added": [],
+         "removed": [],
+         "updated": [
+            "arduino",
+            "just",
+            "ledger",
+            "mlir",
+            "nu",
+            "php",
+            "php_only",
+            "r",
+            "sql"
+         ]
+      }
+   },
+   {
       "tag": "v2024-11-19-c509814",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-11-19-c509814/parsers.min.json",
       "date": "2024-11-19 23:13:17 UTC",
@@ -3358,31 +3378,6 @@
             "tlaplus",
             "vim",
             "vimdoc"
-         ]
-      }
-   },
-   {
-      "tag": "v2024-04-22-c1d1b40",
-      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-04-22-c1d1b40/parsers.min.json",
-      "date": "2024-04-22 23:10:32 UTC",
-      "changes": {
-         "added": [],
-         "removed": [],
-         "updated": [
-            "arduino",
-            "djot",
-            "fennel",
-            "hlsplaylist",
-            "muttrc",
-            "readline",
-            "swift",
-            "templ",
-            "tlaplus",
-            "tmux",
-            "typst",
-            "unison",
-            "wit",
-            "zathurarc"
          ]
       }
    }
