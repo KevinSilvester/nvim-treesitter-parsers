@@ -1,5 +1,19 @@
 [
    {
+      "tag": "v2024-11-21-8a74ac9",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-11-21-8a74ac9/parsers.min.json",
+      "date": "2024-11-21 23:13:25 UTC",
+      "changes": {
+         "added": [],
+         "removed": [],
+         "updated": [
+            "ledger",
+            "nu",
+            "robot"
+         ]
+      }
+   },
+   {
       "tag": "v2024-11-20-a3a7321",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-11-20-a3a7321/parsers.min.json",
       "date": "2024-11-20 23:13:10 UTC",
@@ -3360,24 +3374,6 @@
             "gleam",
             "liquidsoap",
             "tlaplus"
-         ]
-      }
-   },
-   {
-      "tag": "v2024-04-23-dc71d94",
-      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-04-23-dc71d94/parsers.min.json",
-      "date": "2024-04-23 23:10:06 UTC",
-      "changes": {
-         "added": [],
-         "removed": [],
-         "updated": [
-            "djot",
-            "fennel",
-            "mermaid",
-            "query",
-            "tlaplus",
-            "vim",
-            "vimdoc"
          ]
       }
    }
