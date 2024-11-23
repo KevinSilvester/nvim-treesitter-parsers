@@ -634,7 +634,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "e9fbb3acbfc62b051616e53b17ab97b9823e8617",
+      "revision": "4c96c4d00b5c17b109028e8627407971085034ce",
       "url": "https://github.com/stadelmanma/tree-sitter-fortran"
    },
    "fsh": {
@@ -1584,11 +1584,12 @@
    },
    "nu": {
       "files": [
-         "src/parser.c"
+         "src/parser.c",
+         "src/scanner.c"
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "fa2f2d0ce15998e70bed3546e55cefa5ac4fb4df",
+      "revision": "9eedcb303de0b4e046477161fb3d2932a0146d2a",
       "url": "https://github.com/nushell/tree-sitter-nu"
    },
    "objc": {
@@ -1959,7 +1960,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "4a89de35a9e81af0a33a4a02d17554e42ad3c609",
+      "revision": "a0d3e3307489c3ca54da8c7b5b4e0c5f5fd6953a",
       "url": "https://github.com/r-lib/tree-sitter-r"
    },
    "racket": {

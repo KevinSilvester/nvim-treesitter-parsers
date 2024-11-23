@@ -1,5 +1,19 @@
 [
    {
+      "tag": "v2024-11-23-efb2e9c",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-11-23-efb2e9c/parsers.min.json",
+      "date": "2024-11-23 23:13:05 UTC",
+      "changes": {
+         "added": [],
+         "removed": [],
+         "updated": [
+            "fortran",
+            "nu",
+            "r"
+         ]
+      }
+   },
+   {
       "tag": "v2024-11-22-28a5dc0",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-11-22-28a5dc0/parsers.min.json",
       "date": "2024-11-22 23:13:19 UTC",
@@ -3357,24 +3371,6 @@
             "mlir",
             "rust",
             "unison"
-         ]
-      }
-   },
-   {
-      "tag": "v2024-04-25-19c6b0c",
-      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-04-25-19c6b0c/parsers.min.json",
-      "date": "2024-04-25 23:10:48 UTC",
-      "changes": {
-         "added": [
-            "koto"
-         ],
-         "removed": [],
-         "updated": [
-            "asm",
-            "djot",
-            "mlir",
-            "unison",
-            "vhs"
          ]
       }
    }
