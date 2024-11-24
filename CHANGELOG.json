@@ -1,5 +1,23 @@
 [
    {
+      "tag": "v2024-11-24-7930b5f",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-11-24-7930b5f/parsers.min.json",
+      "date": "2024-11-24 23:13:15 UTC",
+      "changes": {
+         "added": [],
+         "removed": [],
+         "updated": [
+            "c_sharp",
+            "chatito",
+            "gpg",
+            "hoon",
+            "nasm",
+            "pem",
+            "poe_filter"
+         ]
+      }
+   },
+   {
       "tag": "v2024-11-23-efb2e9c",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-11-23-efb2e9c/parsers.min.json",
       "date": "2024-11-23 23:13:05 UTC",
@@ -3356,21 +3374,6 @@
             "slang",
             "wgsl_bevy",
             "xml"
-         ]
-      }
-   },
-   {
-      "tag": "v2024-04-26-3ef8d25",
-      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-04-26-3ef8d25/parsers.min.json",
-      "date": "2024-04-26 23:10:53 UTC",
-      "changes": {
-         "added": [],
-         "removed": [],
-         "updated": [
-            "earthfile",
-            "mlir",
-            "rust",
-            "unison"
          ]
       }
    }
