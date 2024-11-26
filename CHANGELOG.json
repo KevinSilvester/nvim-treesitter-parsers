@@ -1,5 +1,18 @@
 [
    {
+      "tag": "v2024-11-26-2859173",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-11-26-2859173/parsers.min.json",
+      "date": "2024-11-26 23:13:20 UTC",
+      "changes": {
+         "added": [],
+         "removed": [],
+         "updated": [
+            "gleam",
+            "scala"
+         ]
+      }
+   },
+   {
       "tag": "v2024-11-25-d14bc4b",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-11-25-d14bc4b/parsers.min.json",
       "date": "2024-11-25 23:13:26 UTC",
@@ -3338,41 +3351,6 @@
             "idl",
             "swift",
             "usd"
-         ]
-      }
-   },
-   {
-      "tag": "v2024-04-28-19f69a5",
-      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-04-28-19f69a5/parsers.min.json",
-      "date": "2024-04-28 23:09:37 UTC",
-      "changes": {
-         "added": [
-            "idl"
-         ],
-         "removed": [],
-         "updated": [
-            "apex",
-            "bitbake",
-            "blueprint",
-            "cairo",
-            "chatito",
-            "commonlisp",
-            "csv",
-            "doxygen",
-            "fsh",
-            "func",
-            "latex",
-            "psv",
-            "python",
-            "qmljs",
-            "rbs",
-            "slang",
-            "smithy",
-            "soql",
-            "sosl",
-            "tsv",
-            "verilog",
-            "wit"
          ]
       }
    }
