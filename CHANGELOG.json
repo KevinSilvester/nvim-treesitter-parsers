@@ -1,5 +1,17 @@
 [
    {
+      "tag": "v2024-11-27-8d4fdc5",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-11-27-8d4fdc5/parsers.min.json",
+      "date": "2024-11-27 23:13:24 UTC",
+      "changes": {
+         "added": [],
+         "removed": [],
+         "updated": [
+            "t32"
+         ]
+      }
+   },
+   {
       "tag": "v2024-11-26-2859173",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-11-26-2859173/parsers.min.json",
       "date": "2024-11-26 23:13:20 UTC",
@@ -3336,21 +3348,6 @@
             "supercollider",
             "wit",
             "yaml"
-         ]
-      }
-   },
-   {
-      "tag": "v2024-04-29-160e5d5",
-      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-04-29-160e5d5/parsers.min.json",
-      "date": "2024-04-29 23:09:47 UTC",
-      "changes": {
-         "added": [],
-         "removed": [],
-         "updated": [
-            "dart",
-            "idl",
-            "swift",
-            "usd"
          ]
       }
    }
