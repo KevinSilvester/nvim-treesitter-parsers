@@ -1,5 +1,19 @@
 [
    {
+      "tag": "v2024-11-28-4d03500",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-11-28-4d03500/parsers.min.json",
+      "date": "2024-11-28 23:13:44 UTC",
+      "changes": {
+         "added": [],
+         "removed": [],
+         "updated": [
+            "inko",
+            "solidity",
+            "sql"
+         ]
+      }
+   },
+   {
       "tag": "v2024-11-27-8d4fdc5",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-11-27-8d4fdc5/parsers.min.json",
       "date": "2024-11-27 23:13:24 UTC",
@@ -3327,26 +3341,6 @@
             "python",
             "solidity",
             "supercollider",
-            "yaml"
-         ]
-      }
-   },
-   {
-      "tag": "v2024-04-30-1a4274c",
-      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-04-30-1a4274c/parsers.min.json",
-      "date": "2024-04-30 23:10:31 UTC",
-      "changes": {
-         "added": [],
-         "removed": [],
-         "updated": [
-            "angular",
-            "apex",
-            "earthfile",
-            "fennel",
-            "soql",
-            "sosl",
-            "supercollider",
-            "wit",
             "yaml"
          ]
       }
