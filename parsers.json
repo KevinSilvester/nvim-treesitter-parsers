@@ -1589,7 +1589,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "74e6037383ce3a77ed6fdb8281bbd69316c723a4",
+      "revision": "7c0628f578904d918afefe62dd639b3ac457ce51",
       "url": "https://github.com/nushell/tree-sitter-nu"
    },
    "objc": {
@@ -2292,7 +2292,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "f58f33955ea0a3e6a0aa2ef4b90a133ebee02173",
+      "revision": "035354ea51c835cfe8fc9abf81bb081965a42b4c",
       "url": "https://github.com/derekstride/tree-sitter-sql"
    },
    "squirrel": {
@@ -2608,7 +2608,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "0ee05546d73d8eb64635ed8125de6f35c77759fe",
+      "revision": "0acb668f04cf12ff5a96a09ce915e0b2d6797e9b",
       "url": "https://github.com/happenslol/tree-sitter-typespec"
    },
    "typoscript": {

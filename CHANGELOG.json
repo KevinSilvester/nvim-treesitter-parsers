@@ -1,5 +1,19 @@
 [
    {
+      "tag": "v2024-11-29-427a90a",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-11-29-427a90a/parsers.min.json",
+      "date": "2024-11-29 23:13:37 UTC",
+      "changes": {
+         "added": [],
+         "removed": [],
+         "updated": [
+            "nu",
+            "sql",
+            "typespec"
+         ]
+      }
+   },
+   {
       "tag": "v2024-11-28-4d03500",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-11-28-4d03500/parsers.min.json",
       "date": "2024-11-28 23:13:44 UTC",
@@ -3321,27 +3335,6 @@
             "just",
             "liquidsoap",
             "templ"
-         ]
-      }
-   },
-   {
-      "tag": "v2024-05-01-bbc67f7",
-      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-05-01-bbc67f7/parsers.min.json",
-      "date": "2024-05-01 23:11:31 UTC",
-      "changes": {
-         "added": [],
-         "removed": [],
-         "updated": [
-            "angular",
-            "cpp",
-            "djot",
-            "html",
-            "json5",
-            "mlir",
-            "python",
-            "solidity",
-            "supercollider",
-            "yaml"
          ]
       }
    }
