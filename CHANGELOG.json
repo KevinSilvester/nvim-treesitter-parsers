@@ -1,5 +1,21 @@
 [
    {
+      "tag": "v2024-11-30-454354e",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-11-30-454354e/parsers.min.json",
+      "date": "2024-11-30 15:53:45 UTC",
+      "changes": {
+         "added": [],
+         "removed": [],
+         "updated": [
+            "fortran",
+            "mlir",
+            "nix",
+            "nu",
+            "typespec"
+         ]
+      }
+   },
+   {
       "tag": "v2024-11-29-427a90a",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-11-29-427a90a/parsers.min.json",
       "date": "2024-11-29 23:13:37 UTC",
@@ -3320,21 +3336,6 @@
             "slint",
             "templ",
             "toml"
-         ]
-      }
-   },
-   {
-      "tag": "v2024-05-02-b1f3f02",
-      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-05-02-b1f3f02/parsers.min.json",
-      "date": "2024-05-02 23:12:40 UTC",
-      "changes": {
-         "added": [],
-         "removed": [],
-         "updated": [
-            "c_sharp",
-            "just",
-            "liquidsoap",
-            "templ"
          ]
       }
    }
