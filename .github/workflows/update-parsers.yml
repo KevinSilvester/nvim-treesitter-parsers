@@ -167,13 +167,13 @@ jobs:
           tag_name: ${{ steps.parsers.outputs.RELEASE_TAG }}
           body_path: release_body.md
           files: |
-            parsers-${{ steps.parsers.outputs.RELEASE_TAG }}-aarch64-linux.tar.bz2
-            parsers-${{ steps.parsers.outputs.RELEASE_TAG }}-x86_64-linux.tar.bz2
-            parsers-${{ steps.parsers.outputs.RELEASE_TAG }}-aarch64-macos.tar.bz2
-            parsers-${{ steps.parsers.outputs.RELEASE_TAG }}-x86_64-macos.tar.bz2
-            parsers-${{ steps.parsers.outputs.RELEASE_TAG }}-x86_64-windows.tar.bz2
-            parsers-${{ steps.parsers.outputs.RELEASE_TAG }}-aarch64-linux.tar.bz2.sha256sum
-            parsers-${{ steps.parsers.outputs.RELEASE_TAG }}-x86_64-linux.tar.bz2.sha256sum
-            parsers-${{ steps.parsers.outputs.RELEASE_TAG }}-aarch64-macos.tar.bz2.sha256sum
-            parsers-${{ steps.parsers.outputs.RELEASE_TAG }}-x86_64-macos.tar.bz2.sha256sum
-            parsers-${{ steps.parsers.outputs.RELEASE_TAG }}-x86_64-windows.tar.bz2.sha256sum
+            parsers-${{ steps.parsers.outputs.RELEASE_TAG }}-aarch64-linux.tar.xz
+            parsers-${{ steps.parsers.outputs.RELEASE_TAG }}-x86_64-linux.tar.xz
+            parsers-${{ steps.parsers.outputs.RELEASE_TAG }}-aarch64-macos.tar.xz
+            parsers-${{ steps.parsers.outputs.RELEASE_TAG }}-x86_64-macos.tar.xz
+            parsers-${{ steps.parsers.outputs.RELEASE_TAG }}-x86_64-windows.tar.xz
+            parsers-${{ steps.parsers.outputs.RELEASE_TAG }}-aarch64-linux.tar.xz.sha256
+            parsers-${{ steps.parsers.outputs.RELEASE_TAG }}-x86_64-linux.tar.xz.sha256
+            parsers-${{ steps.parsers.outputs.RELEASE_TAG }}-aarch64-macos.tar.xz.sha256
+            parsers-${{ steps.parsers.outputs.RELEASE_TAG }}-x86_64-macos.tar.xz.sha256
+            parsers-${{ steps.parsers.outputs.RELEASE_TAG }}-x86_64-windows.tar.xz.sha256

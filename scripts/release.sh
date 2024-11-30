@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-# A script to compile parsers for all platforms and package them in tar.bz2 archive.
+# A script to compile parsers for all platforms and package them in tar.xz archive.
 #
 # Order of operations
 # 1. Read the CHANGELOG:
@@ -141,8 +141,8 @@ function _archive_parsers() {
 
    echo ""
    echo "Archiving parsers"
-   tar cjf "parsers-$tag-$target.tar.bz2" -C /tmp parser
-   sha256sum "parsers-$tag-$target.tar.bz2" | awk '{print $1}' > "parsers-$tag-$target.tar.bz2.sha256sum"
+   tar cJf "parsers-$tag-$target.tar.xz" -C /tmp parser
+   sha256sum "parsers-$tag-$target.tar.xz" | awk '{print $1}' > "parsers-$tag-$target.tar.xz.sha256"
    rm -r /tmp/parser
 }
 
