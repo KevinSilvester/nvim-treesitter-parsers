@@ -72,7 +72,7 @@ function _check_release_exists() {
 function _release_url() {
    local tag=$1
    local target=$2
-   echo "https://github.com/$REPO_OWNER/$REPO_NAME/releases/download/$tag/parsers-$tag-$target.tar.bz2"
+   echo "https://github.com/$REPO_OWNER/$REPO_NAME/releases/download/$tag/parsers-$tag-$target.tar.xz"
 }
 
 # Download and extract the previous release assets to /tmp
@@ -82,7 +82,7 @@ function _download_and_extract() {
    echo "Downloading and extracting $url"
 
    mkdir -p /tmp
-   wget -qO- $url | tar xjf - -C /tmp
+   wget -qO- $url | tar xJf - -C /tmp
 }
 
 # Compile the added/updated parsers
