@@ -1,5 +1,19 @@
 [
    {
+      "tag": "v2024-12-01-70d44da",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-12-01-70d44da/parsers.min.json",
+      "date": "2024-12-01 23:13:01 UTC",
+      "changes": {
+         "added": [],
+         "removed": [],
+         "updated": [
+            "editorconfig",
+            "swift",
+            "t32"
+         ]
+      }
+   },
+   {
       "tag": "v2024-11-30-454354e",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-11-30-454354e/parsers.min.json",
       "date": "2024-11-30 15:53:45 UTC",
@@ -3314,27 +3328,6 @@
             "ql",
             "r",
             "tact",
-            "toml"
-         ]
-      }
-   },
-   {
-      "tag": "v2024-05-03-4ae2b45",
-      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-05-03-4ae2b45/parsers.min.json",
-      "date": "2024-05-03 23:11:02 UTC",
-      "changes": {
-         "added": [
-            "inko",
-            "tact"
-         ],
-         "removed": [],
-         "updated": [
-            "javascript",
-            "just",
-            "mlir",
-            "nasm",
-            "slint",
-            "templ",
             "toml"
          ]
       }
