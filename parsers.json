@@ -445,7 +445,7 @@
       ],
       "generate_from_grammar": false,
       "location": "dtd",
-      "revision": "4b64dd3a03ec002258d6268d712fd93716d6ab57",
+      "revision": "ce150c5be7f617e18ffa2064213e5d9c4cb5d69e",
       "url": "https://github.com/tree-sitter-grammars/tree-sitter-xml"
    },
    "earthfile": {
@@ -1122,7 +1122,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "a6fb0b0bfee5dede688968fd91282da799e5aa8e",
+      "revision": "1419efb8e7e140c30632cb0a2bef84e0d48a6fc5",
       "url": "https://github.com/inko-lang/tree-sitter-inko"
    },
    "ispc": {
@@ -1783,7 +1783,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "ebe2ab2f642eda2072c68c8de02e83973c26f33c",
+      "revision": "efbefa2fcf61ddbecb0af48df4a8bde1d2cab446",
       "url": "https://github.com/airbus-cert/tree-sitter-powershell"
    },
    "printf": {
@@ -2826,7 +2826,7 @@
       ],
       "generate_from_grammar": false,
       "location": "xml",
-      "revision": "4b64dd3a03ec002258d6268d712fd93716d6ab57",
+      "revision": "ce150c5be7f617e18ffa2064213e5d9c4cb5d69e",
       "url": "https://github.com/tree-sitter-grammars/tree-sitter-xml"
    },
    "xresources": {
@@ -2845,7 +2845,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "7b03feefd36b5f155465ca736c6304aca983b267",
+      "revision": "b733d3f5f5005890f324333dd57e1f0badec5c87",
       "url": "https://github.com/tree-sitter-grammars/tree-sitter-yaml"
    },
    "yang": {

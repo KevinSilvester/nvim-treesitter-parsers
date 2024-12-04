@@ -1,5 +1,21 @@
 [
    {
+      "tag": "v2024-12-04-0aaf146",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-12-04-0aaf146/parsers.min.json",
+      "date": "2024-12-04 23:13:55 UTC",
+      "changes": {
+         "added": [],
+         "removed": [],
+         "updated": [
+            "dtd",
+            "inko",
+            "powershell",
+            "xml",
+            "yaml"
+         ]
+      }
+   },
+   {
       "tag": "v2024-12-03-b311886",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-12-03-b311886/parsers.min.json",
       "date": "2024-12-03 23:13:31 UTC",
@@ -3299,42 +3315,6 @@
             "query",
             "tsx",
             "typescript"
-         ]
-      }
-   },
-   {
-      "tag": "v2024-05-06-268611e",
-      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-05-06-268611e/parsers.min.json",
-      "date": "2024-05-06 23:10:04 UTC",
-      "changes": {
-         "added": [],
-         "removed": [],
-         "updated": [
-            "arduino",
-            "css",
-            "embedded_template",
-            "idl",
-            "javascript",
-            "jsdoc",
-            "mlir",
-            "perl",
-            "php",
-            "php_only",
-            "query",
-            "regex",
-            "ron",
-            "ruby",
-            "rust",
-            "smali",
-            "squirrel",
-            "swift",
-            "tablegen",
-            "templ",
-            "tsx",
-            "typescript",
-            "typst",
-            "uxntal",
-            "yuck"
          ]
       }
    }
