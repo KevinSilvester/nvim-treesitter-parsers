@@ -1,5 +1,19 @@
 [
    {
+      "tag": "v2024-12-05-acada1a",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-12-05-acada1a/parsers.min.json",
+      "date": "2024-12-05 23:14:02 UTC",
+      "changes": {
+         "added": [],
+         "removed": [],
+         "updated": [
+            "python",
+            "starlark",
+            "teal"
+         ]
+      }
+   },
+   {
       "tag": "v2024-12-04-0aaf146",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-12-04-0aaf146/parsers.min.json",
       "date": "2024-12-04 23:13:55 UTC",
@@ -3295,26 +3309,6 @@
             "odin",
             "ql",
             "tlaplus"
-         ]
-      }
-   },
-   {
-      "tag": "v2024-05-07-acefffa",
-      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-05-07-acefffa/parsers.min.json",
-      "date": "2024-05-07 23:09:28 UTC",
-      "changes": {
-         "added": [],
-         "removed": [],
-         "updated": [
-            "bash",
-            "haskell",
-            "json",
-            "lalrpop",
-            "phpdoc",
-            "qmljs",
-            "query",
-            "tsx",
-            "typescript"
          ]
       }
    }
