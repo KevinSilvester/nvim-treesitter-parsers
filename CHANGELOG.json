@@ -1,5 +1,21 @@
 [
    {
+      "tag": "v2024-12-06-53e20aa",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-12-06-53e20aa/parsers.min.json",
+      "date": "2024-12-06 23:13:22 UTC",
+      "changes": {
+         "added": [
+            "circom"
+         ],
+         "removed": [],
+         "updated": [
+            "c_sharp",
+            "powershell",
+            "t32"
+         ]
+      }
+   },
+   {
       "tag": "v2024-12-05-acada1a",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-12-05-acada1a/parsers.min.json",
       "date": "2024-12-05 23:14:02 UTC",
@@ -3289,26 +3305,6 @@
          "updated": [
             "comment",
             "yaml"
-         ]
-      }
-   },
-   {
-      "tag": "v2024-05-08-1be5aa9",
-      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-05-08-1be5aa9/parsers.min.json",
-      "date": "2024-05-08 23:12:15 UTC",
-      "changes": {
-         "added": [],
-         "removed": [],
-         "updated": [
-            "angular",
-            "gleam",
-            "haskell",
-            "idl",
-            "javascript",
-            "kotlin",
-            "odin",
-            "ql",
-            "tlaplus"
          ]
       }
    }
