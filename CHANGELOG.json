@@ -1,5 +1,26 @@
 [
    {
+      "tag": "v2024-12-12-2a496fa",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-12-12-2a496fa/parsers.min.json",
+      "date": "2024-12-12 23:13:54 UTC",
+      "changes": {
+         "added": [],
+         "removed": [],
+         "updated": [
+            "apex",
+            "elm",
+            "liquidsoap",
+            "scala",
+            "sflog",
+            "slint",
+            "soql",
+            "sosl",
+            "sql",
+            "templ"
+         ]
+      }
+   },
+   {
       "tag": "v2024-12-11-5874cac",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-12-11-5874cac/parsers.min.json",
       "date": "2024-12-11 23:14:45 UTC",
@@ -3278,19 +3299,6 @@
             "tlaplus",
             "tsx",
             "typescript"
-         ]
-      }
-   },
-   {
-      "tag": "v2024-05-15-aa0c7dd",
-      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-05-15-aa0c7dd/parsers.min.json",
-      "date": "2024-05-15 23:11:24 UTC",
-      "changes": {
-         "added": [],
-         "removed": [],
-         "updated": [
-            "idl",
-            "sourcepawn"
          ]
       }
    }

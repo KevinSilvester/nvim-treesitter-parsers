@@ -34,7 +34,7 @@
       ],
       "generate_from_grammar": false,
       "location": "apex",
-      "revision": "f5a1d2188ff711a06c6a8daa65bbf2f17c8378a5",
+      "revision": "2a7b3f3b4a4d4c308bbfc47b3d614536eb386bb3",
       "url": "https://github.com/aheber/tree-sitter-sfapex"
    },
    "arduino": {
@@ -520,7 +520,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "27f502ed0a1cbd3c5912d284cc7934ee0d4cdddc",
+      "revision": "e34bdc5c512918628b05b48e633f711123204e45",
       "url": "https://github.com/elm-tooling/tree-sitter-elm"
    },
    "elsa": {
@@ -1361,7 +1361,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "14feafa91630afb1ab9988cf9b738b7ea29f3f89",
+      "revision": "8e51fa63ddb93ac179d4e34a311d3d3f03780b42",
       "url": "https://github.com/savonet/tree-sitter-liquidsoap"
    },
    "llvm": {
@@ -2160,7 +2160,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "5f44942205c2364ce2ced14a40687d1e09685034",
+      "revision": "14058535212e3d01a4c4b34b06c524fae289ec18",
       "url": "https://github.com/tree-sitter/tree-sitter-scala"
    },
    "scfg": {
@@ -2197,7 +2197,7 @@
       ],
       "generate_from_grammar": false,
       "location": "sflog",
-      "revision": "f5a1d2188ff711a06c6a8daa65bbf2f17c8378a5",
+      "revision": "2a7b3f3b4a4d4c308bbfc47b3d614536eb386bb3",
       "url": "https://github.com/aheber/tree-sitter-sfapex"
    },
    "slang": {
@@ -2216,7 +2216,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "4e2765d4cac1f03ada6f635eeb6008d1d0aff5a3",
+      "revision": "baf0eea12535caaab5e2b0e532299bb239409bad",
       "url": "https://github.com/slint-ui/tree-sitter-slint"
    },
    "smali": {
@@ -2263,7 +2263,7 @@
       ],
       "generate_from_grammar": false,
       "location": "soql",
-      "revision": "f5a1d2188ff711a06c6a8daa65bbf2f17c8378a5",
+      "revision": "2a7b3f3b4a4d4c308bbfc47b3d614536eb386bb3",
       "url": "https://github.com/aheber/tree-sitter-sfapex"
    },
    "sosl": {
@@ -2272,7 +2272,7 @@
       ],
       "generate_from_grammar": false,
       "location": "sosl",
-      "revision": "f5a1d2188ff711a06c6a8daa65bbf2f17c8378a5",
+      "revision": "2a7b3f3b4a4d4c308bbfc47b3d614536eb386bb3",
       "url": "https://github.com/aheber/tree-sitter-sfapex"
    },
    "sourcepawn": {
@@ -2301,7 +2301,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "035354ea51c835cfe8fc9abf81bb081965a42b4c",
+      "revision": "f2a6b6f86cd4322c346faa312ddf2b839bf5e989",
       "url": "https://github.com/derekstride/tree-sitter-sql"
    },
    "squirrel": {
@@ -2485,7 +2485,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "ebcb4f7a6abde0156f7f2bf7744592afd0ec38b0",
+      "revision": "80944bb7413a6d06845c33537805d0ee0419a13d",
       "url": "https://github.com/vrischmann/tree-sitter-templ"
    },
    "terraform": {
