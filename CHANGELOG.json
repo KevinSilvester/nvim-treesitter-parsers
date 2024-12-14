@@ -1,5 +1,18 @@
 [
    {
+      "tag": "v2024-12-14-cfbbdd5",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-12-14-cfbbdd5/parsers.min.json",
+      "date": "2024-12-14 23:12:35 UTC",
+      "changes": {
+         "added": [],
+         "removed": [],
+         "updated": [
+            "solidity",
+            "v"
+         ]
+      }
+   },
+   {
       "tag": "v2024-12-13-33d2717",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-12-13-33d2717/parsers.min.json",
       "date": "2024-12-13 23:13:19 UTC",
@@ -3281,20 +3294,6 @@
             "slang",
             "sourcepawn",
             "tlaplus"
-         ]
-      }
-   },
-   {
-      "tag": "v2024-05-17-00a8cfd",
-      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-05-17-00a8cfd/parsers.min.json",
-      "date": "2024-05-17 23:12:10 UTC",
-      "changes": {
-         "added": [],
-         "removed": [],
-         "updated": [
-            "earthfile",
-            "erlang",
-            "janet_simple"
          ]
       }
    }
