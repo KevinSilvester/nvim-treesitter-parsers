@@ -1,5 +1,17 @@
 [
    {
+      "tag": "v2024-12-20-2405274",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-12-20-2405274/parsers.min.json",
+      "date": "2024-12-20 23:12:11 UTC",
+      "changes": {
+         "added": [],
+         "removed": [],
+         "updated": [
+            "java"
+         ]
+      }
+   },
+   {
       "tag": "v2024-12-19-fa915a3",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-12-19-fa915a3/parsers.min.json",
       "date": "2024-12-19 23:12:39 UTC",
@@ -3281,23 +3293,6 @@
             "ruby",
             "slang",
             "wgsl_bevy"
-         ]
-      }
-   },
-   {
-      "tag": "v2024-05-23-298a9dd",
-      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-05-23-298a9dd/parsers.min.json",
-      "date": "2024-05-23 23:11:41 UTC",
-      "changes": {
-         "added": [
-            "bp"
-         ],
-         "removed": [],
-         "updated": [
-            "ada",
-            "clojure",
-            "mlir",
-            "templ"
          ]
       }
    }
