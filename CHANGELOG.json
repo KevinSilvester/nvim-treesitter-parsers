@@ -1,5 +1,22 @@
 [
    {
+      "tag": "v2024-12-23-b4897f5",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-12-23-b4897f5/parsers.min.json",
+      "date": "2024-12-23 23:12:26 UTC",
+      "changes": {
+         "added": [],
+         "removed": [],
+         "updated": [
+            "kconfig",
+            "luau",
+            "odin",
+            "python",
+            "regex",
+            "v"
+         ]
+      }
+   },
+   {
       "tag": "v2024-12-22-caba7ef",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-12-22-caba7ef/parsers.min.json",
       "date": "2024-12-22 23:13:01 UTC",
@@ -3272,22 +3289,6 @@
          "removed": [],
          "updated": [
             "eds",
-            "solidity"
-         ]
-      }
-   },
-   {
-      "tag": "v2024-05-26-245da4e",
-      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-05-26-245da4e/parsers.min.json",
-      "date": "2024-05-26 23:10:31 UTC",
-      "changes": {
-         "added": [],
-         "removed": [],
-         "updated": [
-            "c",
-            "cpp",
-            "earthfile",
-            "query",
             "solidity"
          ]
       }
