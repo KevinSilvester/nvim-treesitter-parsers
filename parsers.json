@@ -158,7 +158,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "4e60cf3c2e613625c06f6f85540b3631e2d06cd3",
+      "revision": "16c43068ec30828c5aed11e87262c56f36782595",
       "url": "https://github.com/ambroisie/tree-sitter-bp"
    },
    "c": {
@@ -834,7 +834,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "3c895f5d9c0b3a3c7e02383766b462c21913c000",
+      "revision": "8923c1e38b9634a688a6c0dce7c18c8ffb823e79",
       "url": "https://github.com/dpezto/tree-sitter-gnuplot"
    },
    "go": {
@@ -1131,7 +1131,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "1419efb8e7e140c30632cb0a2bef84e0d48a6fc5",
+      "revision": "0b08a8f976456a9271f70d4682143328d7224115",
       "url": "https://github.com/inko-lang/tree-sitter-inko"
    },
    "ispc": {
@@ -1245,7 +1245,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "f6d29300f9fee15dcd8c2b25ab762001d38da731",
+      "revision": "4f4e566fe47c30b14cfe388a28f70b79009609e5",
       "url": "https://github.com/IndianBoy42/tree-sitter-just"
    },
    "kconfig": {
@@ -2844,7 +2844,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "3b9f6a8ecaeae71f4419f31d4975234242eaf867",
+      "revision": "5fd347f0b950b2d2563d41176373c610a0a5468c",
       "url": "https://github.com/ValdezFOmar/tree-sitter-xresources"
    },
    "yaml": {

@@ -1,5 +1,21 @@
 [
    {
+      "tag": "v2024-12-24-096babe",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-12-24-096babe/parsers.min.json",
+      "date": "2024-12-24 23:12:14 UTC",
+      "changes": {
+         "added": [],
+         "removed": [],
+         "updated": [
+            "bp",
+            "gnuplot",
+            "inko",
+            "just",
+            "xresources"
+         ]
+      }
+   },
+   {
       "tag": "v2024-12-23-b4897f5",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-12-23-b4897f5/parsers.min.json",
       "date": "2024-12-23 23:12:26 UTC",
@@ -3277,19 +3293,6 @@
             "solidity",
             "swift",
             "zathurarc"
-         ]
-      }
-   },
-   {
-      "tag": "v2024-05-27-aa02427",
-      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-05-27-aa02427/parsers.min.json",
-      "date": "2024-05-27 23:11:57 UTC",
-      "changes": {
-         "added": [],
-         "removed": [],
-         "updated": [
-            "eds",
-            "solidity"
          ]
       }
    }
