@@ -1,5 +1,18 @@
 [
    {
+      "tag": "v2024-12-25-ac6a72a",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-12-25-ac6a72a/parsers.min.json",
+      "date": "2024-12-25 23:12:29 UTC",
+      "changes": {
+         "added": [],
+         "removed": [],
+         "updated": [
+            "heex",
+            "verilog"
+         ]
+      }
+   },
+   {
       "tag": "v2024-12-24-096babe",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-12-24-096babe/parsers.min.json",
       "date": "2024-12-24 23:12:14 UTC",
@@ -3276,22 +3289,6 @@
             "ini",
             "koto",
             "slang",
-            "zathurarc"
-         ]
-      }
-   },
-   {
-      "tag": "v2024-05-28-ea2b137",
-      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-05-28-ea2b137/parsers.min.json",
-      "date": "2024-05-28 23:11:28 UTC",
-      "changes": {
-         "added": [],
-         "removed": [],
-         "updated": [
-            "inko",
-            "nickel",
-            "solidity",
-            "swift",
             "zathurarc"
          ]
       }
