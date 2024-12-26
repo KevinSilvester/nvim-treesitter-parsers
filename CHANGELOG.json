@@ -1,5 +1,17 @@
 [
    {
+      "tag": "v2024-12-26-17678b0",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-12-26-17678b0/parsers.min.json",
+      "date": "2024-12-26 23:12:37 UTC",
+      "changes": {
+         "added": [],
+         "removed": [],
+         "updated": [
+            "astro"
+         ]
+      }
+   },
+   {
       "tag": "v2024-12-25-ac6a72a",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-12-25-ac6a72a/parsers.min.json",
       "date": "2024-12-25 23:12:29 UTC",
@@ -3271,25 +3283,6 @@
             "julia",
             "nickel",
             "sourcepawn"
-         ]
-      }
-   },
-   {
-      "tag": "v2024-05-29-b91ae14",
-      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-05-29-b91ae14/parsers.min.json",
-      "date": "2024-05-29 23:11:05 UTC",
-      "changes": {
-         "added": [],
-         "removed": [],
-         "updated": [
-            "cuda",
-            "gleam",
-            "glsl",
-            "hlsl",
-            "ini",
-            "koto",
-            "slang",
-            "zathurarc"
          ]
       }
    }
