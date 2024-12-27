@@ -126,7 +126,7 @@ function _compile_all_parsers() {
 
    echo ""
    echo "::notice::Compiling all parsers"
-   ts-parsers compile \
+   time ts-parsers compile \
       --all \
       --no-fail-fast \
       --compiler zig \
