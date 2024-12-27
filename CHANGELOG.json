@@ -1,5 +1,19 @@
 [
    {
+      "tag": "v2024-12-27-eb3e850",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-12-27-eb3e850/parsers.min.json",
+      "date": "2024-12-27 23:13:33 UTC",
+      "changes": {
+         "added": [],
+         "removed": [],
+         "updated": [
+            "gap",
+            "gaptst",
+            "scala"
+         ]
+      }
+   },
+   {
       "tag": "v2024-12-26-17678b0",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-12-26-17678b0/parsers.min.json",
       "date": "2024-12-26 23:12:37 UTC",
@@ -3268,21 +3282,6 @@
             "earthfile",
             "idl",
             "javascript"
-         ]
-      }
-   },
-   {
-      "tag": "v2024-05-30-5c92440",
-      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-05-30-5c92440/parsers.min.json",
-      "date": "2024-05-30 23:11:41 UTC",
-      "changes": {
-         "added": [],
-         "removed": [],
-         "updated": [
-            "idl",
-            "julia",
-            "nickel",
-            "sourcepawn"
          ]
       }
    }
