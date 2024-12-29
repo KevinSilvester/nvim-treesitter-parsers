@@ -1,5 +1,20 @@
 [
    {
+      "tag": "v2024-12-29-7e0fcf0",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-12-29-7e0fcf0/parsers.min.json",
+      "date": "2024-12-29 23:11:55 UTC",
+      "changes": {
+         "added": [],
+         "removed": [],
+         "updated": [
+            "c",
+            "leo",
+            "nu",
+            "ssh_config"
+         ]
+      }
+   },
+   {
       "tag": "v2024-12-28-5d18ef2",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-12-28-5d18ef2/parsers.min.json",
       "date": "2024-12-28 23:12:03 UTC",
@@ -3265,22 +3280,6 @@
          "removed": [],
          "updated": [
             "styled"
-         ]
-      }
-   },
-   {
-      "tag": "v2024-06-01-979beff",
-      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-06-01-979beff/parsers.min.json",
-      "date": "2024-06-01 23:12:20 UTC",
-      "changes": {
-         "added": [],
-         "removed": [],
-         "updated": [
-            "c",
-            "fennel",
-            "janet_simple",
-            "rego",
-            "slint"
          ]
       }
    }
