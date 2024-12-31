@@ -1,5 +1,17 @@
 [
    {
+      "tag": "v2024-12-31-5f78e98",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-12-31-5f78e98/parsers.min.json",
+      "date": "2024-12-31 23:12:09 UTC",
+      "changes": {
+         "added": [],
+         "removed": [],
+         "updated": [
+            "fsharp"
+         ]
+      }
+   },
+   {
       "tag": "v2024-12-30-4b22291",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-12-30-4b22291/parsers.min.json",
       "date": "2024-12-30 23:12:17 UTC",
@@ -3264,30 +3276,6 @@
          "updated": [
             "earthfile",
             "nickel"
-         ]
-      }
-   },
-   {
-      "tag": "v2024-06-04-69e41a2",
-      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-06-04-69e41a2/parsers.min.json",
-      "date": "2024-06-04 23:12:16 UTC",
-      "changes": {
-         "added": [
-            "ralph"
-         ],
-         "removed": [],
-         "updated": [
-            "arduino",
-            "cpp",
-            "djot",
-            "earthfile",
-            "koto",
-            "rego",
-            "slint",
-            "sql",
-            "teal",
-            "typespec",
-            "vimdoc"
          ]
       }
    }

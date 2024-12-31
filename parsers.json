@@ -662,7 +662,7 @@
       ],
       "generate_from_grammar": false,
       "location": "fsharp",
-      "revision": "971da5ff0266bfe4a6ecfb94616548032d6d1ba0",
+      "revision": "207f1c988f4649e12fe207e4a7e4f83b9da037d1",
       "url": "https://github.com/ionide/tree-sitter-fsharp"
    },
    "func": {
