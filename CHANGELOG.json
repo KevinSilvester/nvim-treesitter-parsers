@@ -1,5 +1,18 @@
 [
    {
+      "tag": "v2025-01-01-e947d35",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2025-01-01-e947d35/parsers.min.json",
+      "date": "2025-01-01 23:12:25 UTC",
+      "changes": {
+         "added": [],
+         "removed": [],
+         "updated": [
+            "gdscript",
+            "swift"
+         ]
+      }
+   },
+   {
       "tag": "v2024-12-31-5f78e98",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-12-31-5f78e98/parsers.min.json",
       "date": "2024-12-31 23:12:09 UTC",
@@ -3263,19 +3276,6 @@
             "pymanifest",
             "requirements",
             "sql"
-         ]
-      }
-   },
-   {
-      "tag": "v2024-06-05-49e4e2b",
-      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-06-05-49e4e2b/parsers.min.json",
-      "date": "2024-06-05 23:12:34 UTC",
-      "changes": {
-         "added": [],
-         "removed": [],
-         "updated": [
-            "earthfile",
-            "nickel"
          ]
       }
    }
