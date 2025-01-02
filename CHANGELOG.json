@@ -1,5 +1,18 @@
 [
    {
+      "tag": "v2025-01-02-6cb4098",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2025-01-02-6cb4098/parsers.min.json",
+      "date": "2025-01-02 21:04:02 UTC",
+      "changes": {
+         "added": [],
+         "removed": [],
+         "updated": [
+            "gdscript",
+            "qmljs"
+         ]
+      }
+   },
+   {
       "tag": "v2025-01-01-e947d35",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2025-01-01-e947d35/parsers.min.json",
       "date": "2025-01-01 23:12:25 UTC",
@@ -3260,22 +3273,6 @@
             "koto",
             "php",
             "php_only"
-         ]
-      }
-   },
-   {
-      "tag": "v2024-06-06-3a74b58",
-      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-06-06-3a74b58/parsers.min.json",
-      "date": "2024-06-06 23:14:37 UTC",
-      "changes": {
-         "added": [],
-         "removed": [],
-         "updated": [
-            "cmake",
-            "elixir",
-            "pymanifest",
-            "requirements",
-            "sql"
          ]
       }
    }

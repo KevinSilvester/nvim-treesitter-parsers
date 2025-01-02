@@ -711,7 +711,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "75ce61d196717b8c183fa6066676540c81e24dca",
+      "revision": "48b49330888a4669b48619b211cc8da573827725",
       "url": "https://github.com/PrestonKnopp/tree-sitter-gdscript"
    },
    "gdshader": {
@@ -1960,7 +1960,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "6d4db242185721e1f5ef21fde613ca90c743ec47",
+      "revision": "8fef30e231d74b65c713bcbac21956156d8963da",
       "url": "https://github.com/yuja/tree-sitter-qmljs"
    },
    "query": {
