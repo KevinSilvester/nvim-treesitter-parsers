@@ -98,7 +98,7 @@ function _compile_parsers() {
    fi
 
    echo "Compiling $type parsers: ${parsers[@]}"
-   ts-parsers compile \
+   time ts-parsers compile \
       --no-fail-fast \
       --compiler zig \
       --target $target \
