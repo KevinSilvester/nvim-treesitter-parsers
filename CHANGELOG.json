@@ -1,5 +1,18 @@
 [
    {
+      "tag": "v2025-01-03-6935286",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2025-01-03-6935286/parsers.min.json",
+      "date": "2025-01-03 23:12:59 UTC",
+      "changes": {
+         "added": [],
+         "removed": [],
+         "updated": [
+            "godot_resource",
+            "properties"
+         ]
+      }
+   },
+   {
       "tag": "v2025-01-02-6cb4098",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2025-01-02-6cb4098/parsers.min.json",
       "date": "2025-01-02 21:04:02 UTC",
@@ -3258,21 +3271,6 @@
             "php_only",
             "sql",
             "swift"
-         ]
-      }
-   },
-   {
-      "tag": "v2024-06-07-c5cbd3e",
-      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-06-07-c5cbd3e/parsers.min.json",
-      "date": "2024-06-07 23:12:12 UTC",
-      "changes": {
-         "added": [],
-         "removed": [],
-         "updated": [
-            "eds",
-            "koto",
-            "php",
-            "php_only"
          ]
       }
    }
