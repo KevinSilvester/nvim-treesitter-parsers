@@ -1,5 +1,19 @@
 [
    {
+      "tag": "v2025-01-04-57713d0",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2025-01-04-57713d0/parsers.min.json",
+      "date": "2025-01-04 23:12:19 UTC",
+      "changes": {
+         "added": [],
+         "removed": [],
+         "updated": [
+            "julia",
+            "koto",
+            "v"
+         ]
+      }
+   },
+   {
       "tag": "v2025-01-03-6935286",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2025-01-03-6935286/parsers.min.json",
       "date": "2025-01-03 23:12:59 UTC",
@@ -3255,22 +3269,6 @@
             "sourcepawn",
             "swift",
             "vimdoc"
-         ]
-      }
-   },
-   {
-      "tag": "v2024-06-08-c1e1e24",
-      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-06-08-c1e1e24/parsers.min.json",
-      "date": "2024-06-08 23:11:17 UTC",
-      "changes": {
-         "added": [],
-         "removed": [],
-         "updated": [
-            "erlang",
-            "php",
-            "php_only",
-            "sql",
-            "swift"
          ]
       }
    }
