@@ -1,5 +1,19 @@
 [
    {
+      "tag": "v2025-01-05-556ac68",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2025-01-05-556ac68/parsers.min.json",
+      "date": "2025-01-05 23:12:00 UTC",
+      "changes": {
+         "added": [],
+         "removed": [],
+         "updated": [
+            "mlir",
+            "rbs",
+            "snakemake"
+         ]
+      }
+   },
+   {
       "tag": "v2025-01-04-57713d0",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2025-01-04-57713d0/parsers.min.json",
       "date": "2025-01-04 23:12:19 UTC",
@@ -3253,22 +3267,6 @@
          "removed": [],
          "updated": [
             "doxygen"
-         ]
-      }
-   },
-   {
-      "tag": "v2024-06-09-9ebc589",
-      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-06-09-9ebc589/parsers.min.json",
-      "date": "2024-06-09 23:11:05 UTC",
-      "changes": {
-         "added": [],
-         "removed": [],
-         "updated": [
-            "kdl",
-            "luap",
-            "sourcepawn",
-            "swift",
-            "vimdoc"
          ]
       }
    }

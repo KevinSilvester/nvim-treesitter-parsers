@@ -1503,7 +1503,7 @@
       ],
       "generate_from_grammar": true,
       "location": null,
-      "revision": "72929ac13d7e1c46010114202262b7102a821293",
+      "revision": "01065decfd6877fe3c4bae05782b8892544cb73e",
       "url": "https://github.com/artagnon/tree-sitter-mlir"
    },
    "muttrc": {
@@ -2016,7 +2016,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "8d8e65ac3f77fbc9e15b1cdb9f980a3e0ac3ab99",
+      "revision": "de893b166476205b09e79cd3689f95831269579a",
       "url": "https://github.com/joker1007/tree-sitter-rbs"
    },
    "re2c": {
@@ -2255,7 +2255,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "29a82ddde86c0d428acf971b04794c13525c4bc5",
+      "revision": "f36c1587624d6d84376c82a357c20fc319cbf02c",
       "url": "https://github.com/osthomas/tree-sitter-snakemake"
    },
    "solidity": {
