@@ -1,5 +1,22 @@
 [
    {
+      "tag": "v2025-01-06-958af94",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2025-01-06-958af94/parsers.min.json",
+      "date": "2025-01-06 23:15:15 UTC",
+      "changes": {
+         "added": [],
+         "removed": [],
+         "updated": [
+            "diff",
+            "just",
+            "ocaml",
+            "ocaml_interface",
+            "swift",
+            "xresources"
+         ]
+      }
+   },
+   {
       "tag": "v2025-01-05-556ac68",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2025-01-05-556ac68/parsers.min.json",
       "date": "2025-01-05 23:12:00 UTC",
@@ -3255,18 +3272,6 @@
          "removed": [],
          "updated": [
             "liquid"
-         ]
-      }
-   },
-   {
-      "tag": "v2024-06-10-eb59a3d",
-      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-06-10-eb59a3d/parsers.min.json",
-      "date": "2024-06-10 23:10:54 UTC",
-      "changes": {
-         "added": [],
-         "removed": [],
-         "updated": [
-            "doxygen"
          ]
       }
    }
