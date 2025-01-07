@@ -1,5 +1,18 @@
 [
    {
+      "tag": "v2025-01-07-622a4a6",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2025-01-07-622a4a6/parsers.min.json",
+      "date": "2025-01-07 23:12:10 UTC",
+      "changes": {
+         "added": [],
+         "removed": [],
+         "updated": [
+            "c_sharp",
+            "nickel"
+         ]
+      }
+   },
+   {
       "tag": "v2025-01-06-958af94",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2025-01-06-958af94/parsers.min.json",
       "date": "2025-01-06 23:15:15 UTC",
@@ -3260,18 +3273,6 @@
          "updated": [
             "rego",
             "solidity"
-         ]
-      }
-   },
-   {
-      "tag": "v2024-06-12-26171d8",
-      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-06-12-26171d8/parsers.min.json",
-      "date": "2024-06-12 23:11:13 UTC",
-      "changes": {
-         "added": [],
-         "removed": [],
-         "updated": [
-            "liquid"
          ]
       }
    }
