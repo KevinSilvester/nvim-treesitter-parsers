@@ -1,5 +1,18 @@
 [
    {
+      "tag": "v2025-01-08-8ca7696",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2025-01-08-8ca7696/parsers.min.json",
+      "date": "2025-01-08 23:12:30 UTC",
+      "changes": {
+         "added": [],
+         "removed": [],
+         "updated": [
+            "groovy",
+            "python"
+         ]
+      }
+   },
+   {
       "tag": "v2025-01-07-622a4a6",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2025-01-07-622a4a6/parsers.min.json",
       "date": "2025-01-07 23:12:10 UTC",
@@ -3260,19 +3273,6 @@
          "updated": [
             "snakemake",
             "zig"
-         ]
-      }
-   },
-   {
-      "tag": "v2024-06-13-cdc613c",
-      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-06-13-cdc613c/parsers.min.json",
-      "date": "2024-06-13 23:11:46 UTC",
-      "changes": {
-         "added": [],
-         "removed": [],
-         "updated": [
-            "rego",
-            "solidity"
          ]
       }
    }
