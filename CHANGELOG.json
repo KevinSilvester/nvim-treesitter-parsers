@@ -1,5 +1,18 @@
 [
    {
+      "tag": "v2025-01-09-6df6e80",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2025-01-09-6df6e80/parsers.min.json",
+      "date": "2025-01-09 23:13:34 UTC",
+      "changes": {
+         "added": [],
+         "removed": [],
+         "updated": [
+            "ocaml",
+            "ocaml_interface"
+         ]
+      }
+   },
+   {
       "tag": "v2025-01-08-8ca7696",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2025-01-08-8ca7696/parsers.min.json",
       "date": "2025-01-08 23:12:30 UTC",
@@ -3260,19 +3273,6 @@
             "qmljs",
             "roc",
             "v"
-         ]
-      }
-   },
-   {
-      "tag": "v2024-06-14-8dd40c7",
-      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-06-14-8dd40c7/parsers.min.json",
-      "date": "2024-06-14 23:10:52 UTC",
-      "changes": {
-         "added": [],
-         "removed": [],
-         "updated": [
-            "snakemake",
-            "zig"
          ]
       }
    }
