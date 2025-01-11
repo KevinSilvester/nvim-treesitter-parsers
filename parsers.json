@@ -34,7 +34,7 @@
       ],
       "generate_from_grammar": false,
       "location": "apex",
-      "revision": "bb2faa992f6915079c2731632fba74874b85d188",
+      "revision": "440a718101bc7207c936bc1284b388347e97b045",
       "url": "https://github.com/aheber/tree-sitter-sfapex"
    },
    "arduino": {
@@ -1503,7 +1503,7 @@
       ],
       "generate_from_grammar": true,
       "location": null,
-      "revision": "01065decfd6877fe3c4bae05782b8892544cb73e",
+      "revision": "fb24a74b4e1c675b91e34fbacaf08673dd4263a0",
       "url": "https://github.com/artagnon/tree-sitter-mlir"
    },
    "muttrc": {
@@ -2207,7 +2207,7 @@
       ],
       "generate_from_grammar": false,
       "location": "sflog",
-      "revision": "bb2faa992f6915079c2731632fba74874b85d188",
+      "revision": "440a718101bc7207c936bc1284b388347e97b045",
       "url": "https://github.com/aheber/tree-sitter-sfapex"
    },
    "slang": {
@@ -2273,7 +2273,7 @@
       ],
       "generate_from_grammar": false,
       "location": "soql",
-      "revision": "bb2faa992f6915079c2731632fba74874b85d188",
+      "revision": "440a718101bc7207c936bc1284b388347e97b045",
       "url": "https://github.com/aheber/tree-sitter-sfapex"
    },
    "sosl": {
@@ -2282,7 +2282,7 @@
       ],
       "generate_from_grammar": false,
       "location": "sosl",
-      "revision": "bb2faa992f6915079c2731632fba74874b85d188",
+      "revision": "440a718101bc7207c936bc1284b388347e97b045",
       "url": "https://github.com/aheber/tree-sitter-sfapex"
    },
    "sourcepawn": {
