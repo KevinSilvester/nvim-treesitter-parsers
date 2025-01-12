@@ -1,5 +1,22 @@
 [
    {
+      "tag": "v2025-01-12-097fb77",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2025-01-12-097fb77/parsers.min.json",
+      "date": "2025-01-12 23:13:12 UTC",
+      "changes": {
+         "added": [],
+         "removed": [],
+         "updated": [
+            "css",
+            "fortran",
+            "gomod",
+            "ocaml",
+            "ocaml_interface",
+            "roc"
+         ]
+      }
+   },
+   {
       "tag": "v2025-01-11-29f96aa",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2025-01-11-29f96aa/parsers.min.json",
       "date": "2025-01-11 23:12:12 UTC",
@@ -3253,22 +3270,6 @@
             "hcl",
             "swift",
             "terraform"
-         ]
-      }
-   },
-   {
-      "tag": "v2024-06-17-c29989f",
-      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-06-17-c29989f/parsers.min.json",
-      "date": "2024-06-17 23:12:16 UTC",
-      "changes": {
-         "added": [],
-         "removed": [],
-         "updated": [
-            "corn",
-            "earthfile",
-            "hcl",
-            "janet_simple",
-            "rbs"
          ]
       }
    }
