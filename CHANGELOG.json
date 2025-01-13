@@ -1,5 +1,26 @@
 [
    {
+      "tag": "v2025-01-13-c7dc251",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2025-01-13-c7dc251/parsers.min.json",
+      "date": "2025-01-13 23:12:16 UTC",
+      "changes": {
+         "added": [],
+         "removed": [],
+         "updated": [
+            "apex",
+            "dockerfile",
+            "editorconfig",
+            "gomod",
+            "mlir",
+            "odin",
+            "sflog",
+            "soql",
+            "sosl",
+            "xresources"
+         ]
+      }
+   },
+   {
       "tag": "v2025-01-12-097fb77",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2025-01-12-097fb77/parsers.min.json",
       "date": "2025-01-12 23:13:12 UTC",
@@ -3255,21 +3276,6 @@
             "djot",
             "tsx",
             "typescript"
-         ]
-      }
-   },
-   {
-      "tag": "v2024-06-18-4bbd2e7",
-      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-06-18-4bbd2e7/parsers.min.json",
-      "date": "2024-06-18 23:12:04 UTC",
-      "changes": {
-         "added": [],
-         "removed": [],
-         "updated": [
-            "cpp",
-            "hcl",
-            "swift",
-            "terraform"
          ]
       }
    }
