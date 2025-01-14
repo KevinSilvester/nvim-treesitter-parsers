@@ -1,5 +1,24 @@
 [
    {
+      "tag": "v2025-01-14-984214e",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2025-01-14-984214e/parsers.min.json",
+      "date": "2025-01-14 23:12:20 UTC",
+      "changes": {
+         "added": [],
+         "removed": [],
+         "updated": [
+            "apex",
+            "gap",
+            "groovy",
+            "matlab",
+            "nix",
+            "sflog",
+            "soql",
+            "sosl"
+         ]
+      }
+   },
+   {
       "tag": "v2025-01-13-c7dc251",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2025-01-13-c7dc251/parsers.min.json",
       "date": "2025-01-13 23:12:16 UTC",
@@ -3262,20 +3281,6 @@
             "earthfile",
             "idl",
             "mlir"
-         ]
-      }
-   },
-   {
-      "tag": "v2024-06-19-66ae874",
-      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-06-19-66ae874/parsers.min.json",
-      "date": "2024-06-19 23:11:48 UTC",
-      "changes": {
-         "added": [],
-         "removed": [],
-         "updated": [
-            "djot",
-            "tsx",
-            "typescript"
          ]
       }
    }
