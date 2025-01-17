@@ -1,5 +1,20 @@
 [
    {
+      "tag": "v2025-01-17-5da195a",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2025-01-17-5da195a/parsers.min.json",
+      "date": "2025-01-17 23:12:26 UTC",
+      "changes": {
+         "added": [],
+         "removed": [],
+         "updated": [
+            "erlang",
+            "heex",
+            "janet_simple",
+            "lalrpop"
+         ]
+      }
+   },
+   {
       "tag": "v2025-01-16-fd59f98",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2025-01-16-fd59f98/parsers.min.json",
       "date": "2025-01-16 23:13:32 UTC",
@@ -3274,20 +3289,6 @@
             "scala",
             "slang",
             "wgsl_bevy"
-         ]
-      }
-   },
-   {
-      "tag": "v2024-06-22-122b4d3",
-      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-06-22-122b4d3/parsers.min.json",
-      "date": "2024-06-22 23:10:08 UTC",
-      "changes": {
-         "added": [],
-         "removed": [],
-         "updated": [
-            "erlang",
-            "janet_simple",
-            "nix"
          ]
       }
    }
