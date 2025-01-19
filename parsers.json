@@ -614,7 +614,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "a78aef9abc395c600c38a037ac779afc7e3cc9e0",
+      "revision": "70640c0696abde32622afc43291a385681afbd32",
       "url": "https://github.com/ram02z/tree-sitter-fish"
    },
    "foam": {
