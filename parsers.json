@@ -557,7 +557,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "d2281ab060093290045941a865a3834eec862a3f",
+      "revision": "5fc0a536009391b01a90df9e59833c847c8cf72b",
       "url": "https://github.com/WhatsApp/tree-sitter-erlang"
    },
    "facility": {
@@ -1104,7 +1104,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "af796443b66d7ab00184992daa3bdaede0955c87",
+      "revision": "d719158abe537b1916daaea6fa03287089f0b601",
       "url": "https://github.com/luckasRanarison/tree-sitter-hyprlang"
    },
    "idl": {
@@ -2230,6 +2230,16 @@
       "revision": "3ed23c04a412a0559162d9cadf96dfff7cb36079",
       "url": "https://github.com/theHamsta/tree-sitter-slang"
    },
+   "slim": {
+      "files": [
+         "src/parser.c",
+         "src/scanner.c"
+      ],
+      "generate_from_grammar": false,
+      "location": null,
+      "revision": "23c9917c649659ae8ddf6d88fb9e9c6cfd80b8e0",
+      "url": "https://github.com/theoo/tree-sitter-slim"
+   },
    "slint": {
       "files": [
          "src/parser.c"
@@ -2274,7 +2284,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "f7f5251a3f5b1d04f0799b3571b12918af177fc8",
+      "revision": "727087514eff57d92e273a24303142308bce3381",
       "url": "https://github.com/JoranHonig/tree-sitter-solidity"
    },
    "soql": {
@@ -2456,7 +2466,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "ad23ed0325658adbb1dfb397d4dfbea8872585c6",
+      "revision": "e5a12f798f056049642aa03fbb83786e3a5b95d4",
       "url": "https://gitlab.com/xasc/tree-sitter-t32.git"
    },
    "tablegen": {
