@@ -2,7 +2,7 @@ name: update parsers
 
 on:
   schedule:
-    - cron: "0 23 * * *"
+    - cron: "0 23 * * 5"
   push:
     branches:
       - master
