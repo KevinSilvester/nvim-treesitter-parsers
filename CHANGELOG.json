@@ -1,5 +1,47 @@
 [
    {
+      "tag": "v2025-01-24-51562d4",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2025-01-24-51562d4/parsers.min.json",
+      "date": "2025-01-24 23:12:24 UTC",
+      "changes": {
+         "added": [],
+         "removed": [],
+         "updated": [
+            "bash",
+            "c",
+            "c_sharp",
+            "cpp",
+            "css",
+            "embedded_template",
+            "erlang",
+            "fortran",
+            "go",
+            "groovy",
+            "hack",
+            "html",
+            "janet_simple",
+            "java",
+            "javascript",
+            "jsdoc",
+            "json",
+            "kotlin",
+            "php",
+            "php_only",
+            "python",
+            "regex",
+            "rst",
+            "rust",
+            "slim",
+            "superhtml",
+            "tsx",
+            "typescript",
+            "yaml",
+            "ziggy",
+            "ziggy_schema"
+         ]
+      }
+   },
+   {
       "tag": "v2025-01-21-07bd1b5",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2025-01-21-07bd1b5/parsers.min.json",
       "date": "2025-01-21 09:17:40 UTC",
@@ -3270,20 +3312,6 @@
             "m68k",
             "r",
             "sparql"
-         ]
-      }
-   },
-   {
-      "tag": "v2024-06-26-53b32a6",
-      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-06-26-53b32a6/parsers.min.json",
-      "date": "2024-06-26 23:11:12 UTC",
-      "changes": {
-         "added": [],
-         "removed": [],
-         "updated": [
-            "janet_simple",
-            "roc",
-            "swift"
          ]
       }
    }
