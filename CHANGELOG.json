@@ -1,5 +1,67 @@
 [
    {
+      "tag": "v2025-02-01-bcd0b26",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2025-02-01-bcd0b26/parsers.min.json",
+      "date": "2025-02-01 16:29:24 UTC",
+      "changes": {
+         "added": [],
+         "removed": [],
+         "updated": [
+            "bash",
+            "c",
+            "c_sharp",
+            "cpp",
+            "css",
+            "cuda",
+            "desktop",
+            "djot",
+            "dtd",
+            "earthfile",
+            "elixir",
+            "embedded_template",
+            "go",
+            "godot_resource",
+            "gotmpl",
+            "gren",
+            "haskell",
+            "heex",
+            "helm",
+            "html",
+            "janet_simple",
+            "java",
+            "javascript",
+            "jsdoc",
+            "json",
+            "julia",
+            "leo",
+            "lua",
+            "nginx",
+            "nix",
+            "nu",
+            "objc",
+            "ocaml",
+            "ocaml_interface",
+            "ocamllex",
+            "perl",
+            "php",
+            "php_only",
+            "prisma",
+            "python",
+            "regex",
+            "ruby",
+            "rust",
+            "scala",
+            "scfg",
+            "solidity",
+            "tsx",
+            "typescript",
+            "typst",
+            "v",
+            "xml"
+         ]
+      }
+   },
+   {
       "tag": "v2025-01-24-51562d4",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2025-01-24-51562d4/parsers.min.json",
       "date": "2025-01-24 23:12:24 UTC",
@@ -3294,24 +3356,6 @@
          "updated": [
             "idl",
             "xcompose"
-         ]
-      }
-   },
-   {
-      "tag": "v2024-06-27-9846042",
-      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-06-27-9846042/parsers.min.json",
-      "date": "2024-06-27 23:12:52 UTC",
-      "changes": {
-         "added": [],
-         "removed": [],
-         "updated": [
-            "erlang",
-            "gitcommit",
-            "hyprlang",
-            "janet_simple",
-            "m68k",
-            "r",
-            "sparql"
          ]
       }
    }
