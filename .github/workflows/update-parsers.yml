@@ -31,12 +31,12 @@ jobs:
           echo "RELEASE_TAG=v$(date -u +'%Y-%m-%d')-$(git --git-dir ./nvim-treesitter/.git rev-parse --short HEAD)" >> $GITHUB_OUTPUT
 
           # install neovim
-          wget -nv 'https://github.com/neovim/neovim/releases/download/stable/nvim-linux64.tar.gz'
-          tar -xzf nvim-linux64.tar.gz
-          rm nvim-linux64.tar.gz
+          wget -nv 'https://github.com/neovim/neovim/releases/download/stable/nvim-linux-x86_64.tar.gz'
+          tar -xzf nvim-linux-x86_64.tar.gz
+          rm nvim-linux-x86_64.tar.gz
 
           # update parsers.json
-          ./nvim-linux64/bin/nvim --headless -u ./init.lua -c 'q'
+          ./nvim-linux-x86_64/bin/nvim --headless -u ./init.lua -c 'q'
           cat parsers.min.json | jq -M -S --indent 3 . > parsers.json
 
           # check if parsers have changed
