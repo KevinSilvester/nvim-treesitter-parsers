@@ -1,5 +1,37 @@
 [
    {
+      "tag": "v2025-02-07-62911c7",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2025-02-07-62911c7/parsers.min.json",
+      "date": "2025-02-07 23:14:08 UTC",
+      "changes": {
+         "added": [
+            "razor"
+         ],
+         "removed": [],
+         "updated": [
+            "asm",
+            "c",
+            "cpp",
+            "cue",
+            "desktop",
+            "elixir",
+            "erlang",
+            "fsharp",
+            "janet_simple",
+            "matlab",
+            "nu",
+            "perl",
+            "query",
+            "rst",
+            "scala",
+            "swift",
+            "templ",
+            "vhdl",
+            "vhs"
+         ]
+      }
+   },
+   {
       "tag": "v2025-02-01-bcd0b26",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2025-02-01-bcd0b26/parsers.min.json",
       "date": "2025-02-01 16:29:24 UTC",
@@ -3343,19 +3375,6 @@
          "updated": [
             "templ",
             "zig"
-         ]
-      }
-   },
-   {
-      "tag": "v2024-06-28-3e535e8",
-      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-06-28-3e535e8/parsers.min.json",
-      "date": "2024-06-28 23:11:52 UTC",
-      "changes": {
-         "added": [],
-         "removed": [],
-         "updated": [
-            "idl",
-            "xcompose"
          ]
       }
    }
