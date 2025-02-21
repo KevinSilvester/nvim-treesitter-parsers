@@ -1,5 +1,31 @@
 [
    {
+      "tag": "v2025-02-21-d0ba96c",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2025-02-21-d0ba96c/parsers.min.json",
+      "date": "2025-02-21 23:15:57 UTC",
+      "changes": {
+         "added": [],
+         "removed": [
+            "org"
+         ],
+         "updated": [
+            "c_sharp",
+            "earthfile",
+            "enforce",
+            "erlang",
+            "fsharp",
+            "inko",
+            "liquid",
+            "mlir",
+            "nu",
+            "pascal",
+            "razor",
+            "swift",
+            "v"
+         ]
+      }
+   },
+   {
       "tag": "v2025-02-14-80e6de9",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2025-02-14-80e6de9/parsers.min.json",
       "date": "2025-02-14 23:15:31 UTC",
@@ -3381,22 +3407,6 @@
             "ocaml_interface",
             "scala",
             "xml"
-         ]
-      }
-   },
-   {
-      "tag": "v2024-06-30-7ff0b8d",
-      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-06-30-7ff0b8d/parsers.min.json",
-      "date": "2024-06-30 23:12:17 UTC",
-      "changes": {
-         "added": [
-            "robots"
-         ],
-         "removed": [],
-         "updated": [
-            "http",
-            "matlab",
-            "scala"
          ]
       }
    }
