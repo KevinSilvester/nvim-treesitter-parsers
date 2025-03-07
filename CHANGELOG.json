@@ -1,5 +1,43 @@
 [
    {
+      "tag": "v2025-03-07-71ac531",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2025-03-07-71ac531/parsers.min.json",
+      "date": "2025-03-07 23:12:51 UTC",
+      "changes": {
+         "added": [],
+         "removed": [],
+         "updated": [
+            "angular",
+            "cmake",
+            "dart",
+            "djot",
+            "dtd",
+            "elixir",
+            "fortran",
+            "fsharp",
+            "gleam",
+            "jinja",
+            "jinja_inline",
+            "meson",
+            "mlir",
+            "nu",
+            "ocaml",
+            "ocaml_interface",
+            "powershell",
+            "requirements",
+            "rust",
+            "scala",
+            "slim",
+            "superhtml",
+            "unison",
+            "vhdl",
+            "xml",
+            "ziggy",
+            "ziggy_schema"
+         ]
+      }
+   },
+   {
       "tag": "v2025-02-28-99487eb",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2025-02-28-99487eb/parsers.min.json",
       "date": "2025-02-28 23:12:51 UTC",
@@ -3395,22 +3433,6 @@
             "rbs",
             "turtle",
             "v"
-         ]
-      }
-   },
-   {
-      "tag": "v2024-07-02-6cd4ce6",
-      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-07-02-6cd4ce6/parsers.min.json",
-      "date": "2024-07-02 23:10:59 UTC",
-      "changes": {
-         "added": [
-            "problog",
-            "prolog"
-         ],
-         "removed": [],
-         "updated": [
-            "git_rebase",
-            "gitcommit"
          ]
       }
    }
