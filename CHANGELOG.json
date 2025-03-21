@@ -1,5 +1,42 @@
 [
    {
+      "tag": "v2025-03-21-5f38dff",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2025-03-21-5f38dff/parsers.min.json",
+      "date": "2025-03-21 23:13:34 UTC",
+      "changes": {
+         "added": [],
+         "removed": [],
+         "updated": [
+            "commonlisp",
+            "cuda",
+            "dtd",
+            "fortran",
+            "gleam",
+            "glimmer_javascript",
+            "glimmer_typescript",
+            "glsl",
+            "lalrpop",
+            "lua",
+            "markdown",
+            "markdown_inline",
+            "meson",
+            "powershell",
+            "problog",
+            "prolog",
+            "query",
+            "roc",
+            "scala",
+            "superhtml",
+            "swift",
+            "vim",
+            "vimdoc",
+            "xml",
+            "ziggy",
+            "ziggy_schema"
+         ]
+      }
+   },
+   {
       "tag": "v2025-03-14-8b79cdd",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2025-03-14-8b79cdd/parsers.min.json",
       "date": "2025-03-14 23:13:35 UTC",
@@ -3441,21 +3478,6 @@
             "editorconfig",
             "javascript",
             "wit"
-         ]
-      }
-   },
-   {
-      "tag": "v2024-07-04-f2f828c",
-      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-07-04-f2f828c/parsers.min.json",
-      "date": "2024-07-04 23:11:37 UTC",
-      "changes": {
-         "added": [
-            "editorconfig"
-         ],
-         "removed": [],
-         "updated": [
-            "c_sharp",
-            "erlang"
          ]
       }
    }
