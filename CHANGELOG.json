@@ -1,5 +1,34 @@
 [
    {
+      "tag": "v2025-03-28-a3315b8",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2025-03-28-a3315b8/parsers.min.json",
+      "date": "2025-03-28 23:14:00 UTC",
+      "changes": {
+         "added": [
+            "caddy",
+            "javadoc"
+         ],
+         "removed": [],
+         "updated": [
+            "angular",
+            "hcl",
+            "hlsl",
+            "koto",
+            "meson",
+            "mlir",
+            "perl",
+            "problog",
+            "prolog",
+            "scala",
+            "superhtml",
+            "swift",
+            "tact",
+            "terraform",
+            "vhs"
+         ]
+      }
+   },
+   {
       "tag": "v2025-03-21-5f38dff",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2025-03-21-5f38dff/parsers.min.json",
       "date": "2025-03-21 23:13:34 UTC",
@@ -3463,20 +3492,6 @@
          ],
          "removed": [],
          "updated": [
-            "wit"
-         ]
-      }
-   },
-   {
-      "tag": "v2024-07-05-a8c082b",
-      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-07-05-a8c082b/parsers.min.json",
-      "date": "2024-07-05 23:11:51 UTC",
-      "changes": {
-         "added": [],
-         "removed": [],
-         "updated": [
-            "editorconfig",
-            "javascript",
             "wit"
          ]
       }

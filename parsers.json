@@ -25,7 +25,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "cba288924f4832abb619c627539f111004ff22e5",
+      "revision": "843525141575e397541e119698f0532755e959f6",
       "url": "https://github.com/dlvandenberg/tree-sitter-angular"
    },
    "apex": {
@@ -188,6 +188,16 @@
       "location": null,
       "revision": "b5eb5742f6a7e9438bee22ce8026d6b927be2cd7",
       "url": "https://github.com/tree-sitter/tree-sitter-c-sharp"
+   },
+   "caddy": {
+      "files": [
+         "src/parser.c",
+         "src/scanner.c"
+      ],
+      "generate_from_grammar": false,
+      "location": null,
+      "revision": "2686186edb61be47960431c93a204fb249681360",
+      "url": "https://github.com/opa-oz/tree-sitter-caddy"
    },
    "cairo": {
       "files": [
@@ -1012,7 +1022,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "9e3ec9848f28d26845ba300fd73c740459b83e9b",
+      "revision": "de10d494dbd6b71cdf07a678fecbf404dbfe4398",
       "url": "https://github.com/MichaHoffmann/tree-sitter-hcl"
    },
    "heex": {
@@ -1049,7 +1059,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "b309425a7ab4456605cfe78774b80f7e275ca87d",
+      "revision": "bab9111922d53d43668fabb61869bec51bbcb915",
       "url": "https://github.com/theHamsta/tree-sitter-hlsl"
    },
    "hlsplaylist": {
@@ -1200,6 +1210,16 @@
       "location": null,
       "revision": "a7db5227ec40fcfe94489559d8c9bc7c8181e25a",
       "url": "https://github.com/tree-sitter/tree-sitter-java"
+   },
+   "javadoc": {
+      "files": [
+         "src/parser.c",
+         "src/scanner.c"
+      ],
+      "generate_from_grammar": false,
+      "location": null,
+      "revision": "db9589e9c61cff7d7fcc207744c711b10b60a7a3",
+      "url": "https://github.com/rmuir/tree-sitter-javadoc"
    },
    "javascript": {
       "files": [
@@ -1354,7 +1374,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "329b0e84ef6cc6950665de4accd0bdda1601a2f1",
+      "revision": "46770abba021e2ddd2c51d9fa3087fd1ab6b2aea",
       "url": "https://github.com/koto-lang/tree-sitter-koto"
    },
    "kusto": {
@@ -1553,7 +1573,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "9c74e8e8917b83d90e38ac040949079437ec0043",
+      "revision": "a56af662e8540412fed5e40cc20435b2b9a20502",
       "url": "https://github.com/Decodetalkers/tree-sitter-meson"
    },
    "mlir": {
@@ -1562,7 +1582,7 @@
       ],
       "generate_from_grammar": true,
       "location": null,
-      "revision": "c7c62f37a8612a897d25906d93363fec36c1591c",
+      "revision": "922cbb97f3d20044e6b4362b3d7af5e530ed8f34",
       "url": "https://github.com/artagnon/tree-sitter-mlir"
    },
    "muttrc": {
@@ -1763,7 +1783,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "bb53f204aa3e7507960014642965c9f9a9e84b1d",
+      "revision": "ecd90bd8b381bcc7219fed4fe351903630e761c6",
       "url": "https://github.com/tree-sitter-perl/tree-sitter-perl"
    },
    "php": {
@@ -1878,7 +1898,7 @@
       ],
       "generate_from_grammar": false,
       "location": "grammars/problog",
-      "revision": "986a50d27e1bbf4fabce7e650c26e1e0da5535fc",
+      "revision": "d8d415f6a1cf80ca138524bcc395810b176d40fa",
       "url": "https://github.com/foxyseta/tree-sitter-prolog"
    },
    "prolog": {
@@ -1887,7 +1907,7 @@
       ],
       "generate_from_grammar": false,
       "location": "grammars/prolog",
-      "revision": "986a50d27e1bbf4fabce7e650c26e1e0da5535fc",
+      "revision": "d8d415f6a1cf80ca138524bcc395810b176d40fa",
       "url": "https://github.com/foxyseta/tree-sitter-prolog"
    },
    "promql": {
@@ -2229,7 +2249,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "041dea1ca8b25f20fa564854922ac6a99c050ec6",
+      "revision": "42a1542248ff611ba2091fe76c6dbf42551ebef8",
       "url": "https://github.com/tree-sitter/tree-sitter-scala"
    },
    "scfg": {
@@ -2448,7 +2468,7 @@
       ],
       "generate_from_grammar": false,
       "location": "tree-sitter-superhtml",
-      "revision": "fc7c594f52528e4a4a08671137850143d55a5bf2",
+      "revision": "28dcf0edf98d491d47bacb65dc49b6fb979b444c",
       "url": "https://github.com/kristoff-it/superhtml"
    },
    "surface": {
@@ -2487,7 +2507,7 @@
       ],
       "generate_from_grammar": true,
       "location": null,
-      "revision": "6b1ebb86c97fca00835e7fce4a95c5069172145e",
+      "revision": "aca5a52aa3cab858944d3c02701ccf5b2d8fd0f9",
       "url": "https://github.com/alex-pinkus/tree-sitter-swift"
    },
    "sxhkdrc": {
@@ -2534,7 +2554,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "a19be2d4c1956e12facfc717e28f13a6ad0860e0",
+      "revision": "47af20264abbd24ea282ded0f8ee9cad3cf3bf2f",
       "url": "https://github.com/tact-lang/tree-sitter-tact"
    },
    "tcl": {
@@ -2584,7 +2604,7 @@
       ],
       "generate_from_grammar": false,
       "location": "dialects/terraform",
-      "revision": "9e3ec9848f28d26845ba300fd73c740459b83e9b",
+      "revision": "de10d494dbd6b71cdf07a678fecbf404dbfe4398",
       "url": "https://github.com/MichaHoffmann/tree-sitter-hcl"
    },
    "textproto": {
@@ -2828,7 +2848,7 @@
       ],
       "generate_from_grammar": false,
       "location": null,
-      "revision": "3f202326c06f1c4d47aa82b9013a6b71aea70611",
+      "revision": "0c6fae9d2cfc5b217bfd1fe84a7678f5917116db",
       "url": "https://github.com/charmbracelet/tree-sitter-vhs"
    },
    "vim": {
