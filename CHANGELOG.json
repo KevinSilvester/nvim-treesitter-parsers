@@ -1,5 +1,32 @@
 [
    {
+      "tag": "v2025-04-04-523a9e1",
+      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2025-04-04-523a9e1/parsers.min.json",
+      "date": "2025-04-04 23:13:47 UTC",
+      "changes": {
+         "added": [],
+         "removed": [],
+         "updated": [
+            "editorconfig",
+            "enforce",
+            "erlang",
+            "fortran",
+            "glimmer_javascript",
+            "glimmer_typescript",
+            "http",
+            "javadoc",
+            "nu",
+            "php",
+            "php_only",
+            "qmljs",
+            "scala",
+            "superhtml",
+            "tcl",
+            "tera"
+         ]
+      }
+   },
+   {
       "tag": "v2025-03-28-a3315b8",
       "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2025-03-28-a3315b8/parsers.min.json",
       "date": "2025-03-28 23:14:00 UTC",
@@ -3479,20 +3506,6 @@
             "python",
             "squirrel",
             "tlaplus"
-         ]
-      }
-   },
-   {
-      "tag": "v2024-07-07-64f6f0a",
-      "url": "https://raw.githubusercontent.com/KevinSilvester/nvim-treesitter-parsers/v2024-07-07-64f6f0a/parsers.min.json",
-      "date": "2024-07-07 23:11:59 UTC",
-      "changes": {
-         "added": [
-            "goctl"
-         ],
-         "removed": [],
-         "updated": [
-            "wit"
          ]
       }
    }
