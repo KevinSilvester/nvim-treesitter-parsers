@@ -170,6 +170,15 @@
       "revision": "16c43068ec30828c5aed11e87262c56f36782595",
       "url": "https://github.com/ambroisie/tree-sitter-bp"
    },
+   "brightscript": {
+      "files": [
+         "src/parser.c"
+      ],
+      "generate_from_grammar": false,
+      "location": null,
+      "revision": "48ce1687125c6dfefcc7a1bef19fa0f0f00426cc",
+      "url": "https://github.com/ajdelcimmuto/tree-sitter-brightscript"
+   },
    "c": {
       "files": [
          "src/parser.c"
